@@ -1,0 +1,1001 @@
+aafu            aaf u sp
+aarm            aar m sp
+aasy            aas y sp
+aay             aa y sp
+af              af sp
+ai              a i sp
+an              a n sp
+anh             a nh sp
+asi             as i sp
+asn             as n sp
+asp             as p sp
+awn             aw n sp
+ba              b a sp
+baafn           b aaf n sp
+baajt           b aaj t sp
+baajy           b aaj y sp
+baast           b aas t sp
+baay            b aa y sp
+baf             b af sp
+bafi            b af i sp
+bafn            b af n sp
+bajch           b aj ch sp
+bajn            b aj n sp
+bajo            b aj o sp
+ban             b a n sp
+bao             b a o sp
+bar             b ar sp
+barn            b ar n sp
+baro            b ar o sp
+bary            b ar y sp
+basc            b as c sp
+basn            b as n sp
+basnh           b as nh sp
+baso            b as o sp
+bawfng          b awf ng sp
+bawng           b aw ng sp
+bawst           b aws t sp
+beejnh          b eej nh sp
+been            b ee n sp
+beeu            b ee u sp
+bes             b es sp
+bia             b ia sp
+bieejn          b ieej n sp
+bieen           b iee n sp
+bieern          b ieer n sp
+bieesn          b iees n sp
+bieest          b iees t sp
+bifnh           b if nh sp
+bij             b ij sp
+boa             b o a sp
+bojn            b oj n sp
+bojp            b oj p sp
+bojt            b oj t sp
+boofng          b oof ng sp
+booj            b ooj sp
+boong           b oo ng sp
+boosn           b oos n sp
+bor             b or sp
+bosng           b os ng sp
+bosp            b os p sp
+bowf            b owf sp
+bujng           b uj ng sp
+buoofn          b uoof n sp
+buoori          b uoor i sp
+bus             b us sp
+buwsc           b uws c sp
+buyst           b u ys t sp
+ca              c a sp
+caafm           c aaf m sp
+caafn           c aaf n sp
+caajn           c aaj n sp
+caajp           c aaj p sp
+caaju           c aaj u sp
+caasm           c aas m sp
+caasp           c aas p sp
+caau            c aa u sp
+caay            c aa y sp
+caf             c af sp
+cafnh           c af nh sp
+cajc            c aj c sp
+cajnh           c aj nh sp
+can             c a n sp
+canh            c a nh sp
+cao             c a o sp
+car             c ar sp
+carnh           c ar nh sp
+cas             c as sp
+casc            c as c sp
+casch           c as ch sp
+casi            c as i sp
+casm            c as m sp
+casnh           c as nh sp
+casp            c as p sp
+casy            c as y sp
+cawjp           c awj p sp
+cawsn           c aws n sp
+cawst           c aws t sp
+cha             ch a sp
+chaafu          ch aaf u sp
+chaajp          ch aaj p sp
+chaajt          ch aaj t sp
+chaaju          ch aaj u sp
+chaast          ch aas t sp
+chafo           ch af o sp
+chai            ch a i sp
+chajy           ch aj y sp
+char            ch ar sp
+chasu           ch as u sp
+chasy           ch as y sp
+chawjt          ch awj t sp
+chawsc          ch aws c sp
+chees           ch ees sp
+cheest          ch ees t sp
+chesm           ch es m sp
+chex            ch ex sp
+chi             ch i sp
+chieefu         ch ieef u sp
+chieesc         ch iees c sp
+chieesm         ch iees m sp
+chij            ch ij sp
+chiju           ch ij u sp
+chim            ch i m sp
+chir            ch ir sp
+chisn           ch is n sp
+chisnh          ch is nh sp
+cho             ch o sp
+choefn          ch o ef n sp
+choofi          ch oof i sp
+choori          ch oor i sp
+choosi          ch oos i sp
+chos            ch os sp
+chowfn          ch owf n sp
+chowi           ch ow i sp
+chowj           ch owj sp
+chuaarn         ch u aar n sp
+chung           ch u ng sp
+chur            ch ur sp
+chus            ch us sp
+chusng          ch us ng sp
+chust           ch us t sp
+chuw            ch uw sp
+chuwa           ch uwa sp
+chuwowng        ch uwow ng sp
+chuwsc          ch uws c sp
+chuwsng         ch uws ng sp
+chuwxa          ch uwxa sp
+chuyeejn        ch u yeej n sp
+chuyeen         ch u yee n sp
+chuyeern        ch u yeer n sp
+cofn            c of n sp
+cojc            c oj c sp
+cojp            c oj p sp
+con             c o n sp
+coo             c oo sp
+coofn           c oof n sp
+coong           c oo ng sp
+coor            c oor sp
+coorng          c oor ng sp
+coos            c oos sp
+coosi           c oos i sp
+cor             c or sp
+cos             c os sp
+cosp            c os p sp
+cow             c ow sp
+cowf            c owf sp
+cown            c ow n sp
+cufng           c uf ng sp
+cujm            c uj m sp
+cung            c u ng sp
+cuoojc          c uooj c sp
+cuoosi          c uoos i sp
+cur             c ur sp
+cura            c ura sp
+cusi            c us i sp
+cuw             c uw sp
+cuwfu           c uwf u sp
+cuwowfi         c uwowf i sp
+cuwowfng        c uwowf ng sp
+cuwowsp         c uwows p sp
+cuwowxng        c uwowx ng sp
+cuwra           c uwra sp
+cuwru           c uwr u sp
+cuws            c uws sp
+cuwsu           c uws u sp
+cuxng           c ux ng sp
+da              d a sp
+daafu           d aaf u sp
+daajp           d aaj p sp
+daam            d aa m sp
+daan            d aa n sp
+daang           d aa ng sp
+daasy           d aas y sp
+dafi            d af i sp
+dafn            d af n sp
+dajng           d aj ng sp
+dajo            d aj o sp
+danh            d a nh sp
+dao             d a o sp
+dasm            d as m sp
+dasng           d as ng sp
+dawm            d aw m sp
+daxy            d ax y sp
+dda             dd a sp
+ddaafu          dd aaf u sp
+ddaaju          dd aaj u sp
+ddaam           dd aa m sp
+ddaast          dd aas t sp
+ddaasy          dd aas y sp
+ddaay           dd aa y sp
+ddafo           dd af o sp
+ddaji           dd aj i sp
+ddajo           dd aj o sp
+ddang           dd a ng sp
+ddaro           dd ar o sp
+ddasm           dd as m sp
+ddasnh          dd as nh sp
+ddaso           dd as o sp
+ddawjt          dd awj t sp
+ddawsm          dd aws m sp
+ddax            dd ax sp
+ddeef           dd eef sp
+ddeefu          dd eef u sp
+ddeem           dd ee m sp
+ddeer           dd eer sp
+ddeesn          dd ees n sp
+ddefn           dd ef n sp
+ddejp           dd ej p sp
+dden            dd e n sp
+ddi             dd i sp
+ddieefn         dd ieef n sp
+ddieefu         dd ieef u sp
+ddieejn         dd ieej n sp
+ddieerm         dd ieer m sp
+ddifnh          dd if nh sp
+ddija           dd ija sp
+ddijch          dd ij ch sp
+ddijnh          dd ij nh sp
+ddix            dd ix sp
+ddo             dd o sp
+ddoafn          dd o af n sp
+ddoajn          dd o aj n sp
+ddofi           dd of i sp
+ddojc           dd oj c sp
+ddoo            dd oo sp
+ddoof           dd oof sp
+ddoofi          dd oof i sp
+ddoofn          dd oof n sp
+ddoofng         dd oof ng sp
+ddooi           dd oo i sp
+ddoojc          dd ooj c sp
+ddooji          dd ooj i sp
+ddoojng         dd ooj ng sp
+ddoong          dd oo ng sp
+ddoor           dd oor sp
+ddoori          dd oor i sp
+ddoosc          dd oos c sp
+ddoost          dd oos t sp
+ddor            dd or sp
+ddos            dd os sp
+ddosn           dd os n sp
+ddowfi          dd owf i sp
+ddujng          dd uj ng sp
+ddur            dd ur sp
+ddusng          dd us ng sp
+dduwa           dd uwa sp
+dduwfng         dd uwf ng sp
+dduwowfng       dd uwowf ng sp
+dduwowjc        dd uwowj c sp
+dduwowng        dd uwow ng sp
+dduwsc          dd uws c sp
+dduwst          dd uws t sp
+dejp            d ej p sp
+dieejp          d ieej p sp
+dieexn          d ieex n sp
+dijch           d ij ch sp
+dijp            d ij p sp
+dim             d i m sp
+dis             d is sp
+do              d o sp
+doanh           d o a nh sp
+dojc            d oj c sp
+dojn            d oj n sp
+doofn           d oof n sp
+doox            d oox sp
+dosm            d os m sp
+dowr            d owr sp
+dowx            d owx sp
+du              d u sp
+dufng           d uf ng sp
+dujc            d uj c sp
+duwfa           d uwfa sp
+duwfng          d uwf ng sp
+duwj            d uwj sp
+duwjc           d uwj c sp
+duwjng          d uwj ng sp
+duwsa           d uwsa sp
+duwx            d uwx sp
+duyeejt         d u yeej t sp
+ees             ees sp
+em              e m sp
+gaafu           g aaf u sp
+gaf             g af sp
+gawsn           g aws n sp
+gax             g ax sp
+gaxi            g ax i sp
+ghes            gh es sp
+gia             gi a sp
+giaajn          gi aaj n sp
+giaasc          gi aas c sp
+giaasu          gi aas u sp
+giaf            gi af sp
+giafy           gi af y sp
+giai            gi a i sp
+gianh           gi a nh sp
+giao            gi a o sp
+giar            gi ar sp
+giari           gi ar i sp
+giarm           gi ar m sp
+giarn           gi ar n sp
+gias            gi as sp
+giasm           gi as m sp
+giaso           gi as o sp
+giawjt          gi awj t sp
+gieest          gi ees t sp
+gif             gi f sp
+gion            gi o n sp
+gioosng         gi oos ng sp
+giorn           gi or n sp
+giowf           gi owf sp
+giowsi          gi ows i sp
+gir             gi r sp
+giusp           gi us p sp
+giuwx           gi uwx sp
+giuwxa          gi uwxa sp
+gofn            g of n sp
+goosi           g oos i sp
+gosi            g os i sp
+guoosc          g uoos c sp
+guwowng         g uwow ng sp
+guwri           g uwr i sp
+hafi            h af i sp
+hafng           h af ng sp
+hafnh           h af nh sp
+hai             h a i sp
+hajnh           h aj nh sp
+har             h ar sp
+hari            h ar i sp
+haso            h as o sp
+hawfng          h awf ng sp
+haxy            h ax y sp
+hay             h a y sp
+heej            h eej sp
+heest           h ees t sp
+hefn            h ef n sp
+hejn            h ej n sp
+hieejn          h ieej n sp
+hieejp          h ieej p sp
+hieeru          h ieer u sp
+hieesp          h iees p sp
+hifnh           h if nh sp
+hoa             h o a sp
+hoafn           h o af n sp
+hoajt           h o aj t sp
+hoawjc          h o awj c sp
+hof             h of sp
+hofa            h of a sp
+hoj             h oj sp
+hojc            h oj c sp
+hoof            h oof sp
+hoofn           h oof n sp
+hooji           h ooj i sp
+hoor            h oor sp
+hoos            h oos sp
+hoosi           h oos i sp
+hori            h or i sp
+hosa            h os a sp
+howjp           h owj p sp
+hown            h ow n sp
+howsp           h ows p sp
+hufng           h uf ng sp
+hung            h u ng sp
+huoosng         h uoos ng sp
+huw             h uw sp
+huwowsc         h uwows c sp
+huwowsng        h uwows ng sp
+huwsa           h uwsa sp
+huwsc           h uws c sp
+huyeejn         h u yeej n sp
+huyeest         h u yees t sp
+huyst           h u ys t sp
+im              i m sp
+ist             is t sp
+keer            k eer sp
+keeu            k ee u sp
+kef             k ef sp
+keso            k es o sp
+khaarn          kh aar n sp
+khaaru          kh aar u sp
+khaasu          kh aas u sp
+khai            kh a i sp
+khar            kh ar sp
+khasc           kh as c sp
+khasch          kh as ch sp
+khasn           kh as n sp
+khawn           kh aw n sp
+kheej           kh eej sp
+khi             kh i sp
+khieesn         kh iees n sp
+khis            kh is sp
+khoa            kh o a sp
+khoarng         kh o ar ng sp
+khoasi          kh o as i sp
+khoo            kh oo sp
+khoon           kh oo n sp
+khoong          kh oo ng sp
+khoor           kh oor sp
+khori           kh or i sp
+khosa           kh os a sp
+khosc           kh os c sp
+khosi           kh os i sp
+khowsp          kh ows p sp
+khu             kh u sp
+khuynh          kh u y nh sp
+kia             k ia sp
+kieejn          k ieej n sp
+kieen           k iee n sp
+kieerm          k ieer m sp
+kieeru          k ieer u sp
+kieesm          k iees m sp
+kieesn          k iees n sp
+kinh            k i nh sp
+laafm           l aaf m sp
+laafn           l aaf n sp
+laasn           l aas n sp
+laf             l af sp
+lafm            l af m sp
+lajc            l aj c sp
+laji            l aj i sp
+lajnh           l aj nh sp
+lan             l a n sp
+lao             l a o sp
+las             l as sp
+lawjng          l awj ng sp
+lawm            l aw m sp
+lawng           l aw ng sp
+laxng           l ax ng sp
+lee             l ee sp
+leejnh          l eej nh sp
+leen            l ee n sp
+len             l e n sp
+ler             l er sp
+lieefm          l ieef m sp
+lieeju          l ieej u sp
+lieen           l iee n sp
+lieesng         l iees ng sp
+lieeu           l iee u sp
+lim             l i m sp
+lisp            l is p sp
+list            l is t sp
+lixnh           l ix nh sp
+lo              l o sp
+loajn           l o aj n sp
+loajt           l o aj t sp
+lofng           l of ng sp
+lojt            l oj t sp
+long            l o ng sp
+looj            l ooj sp
+loojc           l ooj c sp
+loong           l oo ng sp
+looxi           l oox i sp
+lowfi           l owf i sp
+lowsn           l ows n sp
+lufm            l uf m sp
+luoon           l uoo n sp
+lusc            l us c sp
+luwowfng        l uwowf ng sp
+luwowxi         l uwowx i sp
+luwra           l uwra sp
+lys             l ys sp
+maast           m aas t sp
+maf             m af sp
+mafu            m af u sp
+mafy            m af y sp
+mai             m a i sp
+maj             m aj sp
+majch           m aj ch sp
+mang            m a ng sp
+mari            m ar i sp
+marnh           m ar nh sp
+mas             m as sp
+masi            m as i sp
+masu            m as u sp
+masy            m as y sp
+mawjt           m awj t sp
+mawrn           m awr n sp
+mawsc           m aws c sp
+mawsn           m aws n sp
+mawst           m aws t sp
+maxi            m ax i sp
+may             m a y sp
+mee             m ee sp
+meesu           m ees u sp
+mef             m ef sp
+mefo            m ef o sp
+mej             m ej sp
+mieejn          m ieej n sp
+mieejt          m ieej t sp
+mifnh           m if nh sp
+mir             m ir sp
+mirm            m ir m sp
+moojng          m ooj ng sp
+moojt           m ooj t sp
+moon            m oo n sp
+moost           m oos t sp
+mooxi           m oox i sp
+mowfi           m owf i sp
+mowr            m owr sp
+mowsi           m ows i sp
+mowx            m owx sp
+mua             m ua sp
+mufa            m ufa sp
+mufi            m uf i sp
+mujc            m uj c sp
+muoosn          m uoos n sp
+musa            m usa sp
+muwowfi         m uwowf i sp
+muwowi          m uwowi sp
+muwsc           m uws c sp
+myx             m yx sp
+nafn            n af n sp
+nafo            n af o sp
+nafy            n af y sp
+najn            n aj n sp
+nam             n a m sp
+nast            n as t sp
+nawm            n aw m sp
+nawng           n aw ng sp
+nawsn           n aws n sp
+nay             n a y sp
+neefn           n eef n sp
+neej            n eej sp
+neen            n ee n sp
+neesu           n ees u sp
+neeu            n ee u sp
+nga             ng a sp
+ngafn           ng af n sp
+ngafnh          ng af nh sp
+ngafy           ng af y sp
+ngaji           ng aj i sp
+ngast           ng as t sp
+ngawn           ng aw n sp
+ngawsn          ng aws n sp
+ngax            ng ax sp
+ngay            ng a y sp
+nghe            ngh e sp
+ngheef          ngh eef sp
+ngheej          ngh eej sp
+nghefo          ngh ef o sp
+nghieejp        ngh ieej p sp
+nghieejt        ngh ieej t sp
+nghij           ngh ij sp
+nghijch         ngh ij ch sp
+nghix           ngh ix sp
+nghixa          ngh ixa sp
+ngojn           ng oj n sp
+ngoofi          ng oof i sp
+ngowx           ng owx sp
+ngu             ng u sp
+nguoofn         ng uoof n sp
+ngur            ng ur sp
+ngurn           ng ur n sp
+nguw            ng uw sp
+nguwjc          ng uwj c sp
+nguwng          ng uw ng sp
+nguwowfi        ng uwowf i sp
+nguyeen         ng u yee n sp
+nhaajn          nh aaj n sp
+nhaajp          nh aaj p sp
+nhaajt          nh aaj t sp
+nhaan           nh aa n sp
+nhaast          nh aas t sp
+nhaf            nh af sp
+nhajo           nh aj o sp
+nhast           nh as t sp
+nhau            nh a u sp
+nhawjt          nh awj t sp
+nhax            nh ax sp
+nhaxn           nh ax n sp
+nhaxo           nh ax o sp
+nhefm           nh ef m sp
+nhej            nh ej sp
+nhejm           nh ej m sp
+nhejp           nh ej p sp
+nhieefu         nh ieef u sp
+nhieejm         nh ieej m sp
+nhieejt         nh ieej t sp
+nhieen          nh iee n sp
+nhieexm         nh ieex m sp
+nhifn           nh if n sp
+nhosm           nh os m sp
+nhowf           nh owf sp
+nhuw            nh uw sp
+nhuwja          nh uwja sp
+nhuwng          nh uw ng sp
+nhuwowsng       nh uwows ng sp
+nhuwxng         nh uwx ng sp
+nieen           n iee n sp
+ninh            n i nh sp
+non             n o n sp
+noofi           n oof i sp
+noofng          n oof ng sp
+noong           n oo ng sp
+noori           n oor i sp
+noosng          n oos ng sp
+nooxi           n oox i sp
+nos             n os sp
+nosi            n os i sp
+nosng           n os ng sp
+nowi            n ow i sp
+nowr            n owr sp
+nuwowsc         n uwows c sp
+nuwx            n uwx sp
+nuwxa           n uwxa sp
+oo              oo sp
+oong            oo ng sp
+oori            oor i sp
+oosng           oos ng sp
+ow              ow sp
+owr             owr sp
+pha             ph a sp
+phaafn          ph aaf n sp
+phaarm          ph aar m sp
+phaary          ph aar y sp
+phajm           ph aj m sp
+phajt           ph aj t sp
+phari           ph ar i sp
+phas            ph as sp
+phast           ph as t sp
+phee            ph ee sp
+phesp           ph es p sp
+phieen          ph iee n sp
+phim            ph i m sp
+phis            ph is sp
+phisa           ph isa sp
+phisnh          ph is nh sp
+phofng          ph of ng sp
+phong           ph o ng sp
+phoojng         ph ooj ng sp
+phoor           ph oor sp
+phoos           ph oos sp
+phos            ph os sp
+phosng          ph os ng sp
+phur            ph ur sp
+phus            ph us sp
+phusc           ph us c sp
+phuwowfng       ph uwowf ng sp
+phuwowng        ph uwow ng sp
+pin             p i n sp
+qua             q ua sp
+quaafy          q u aaf y sp
+quaan           q u aa n sp
+quaarn          q u aar n sp
+quaasn          q u aas n sp
+quan            q ua n sp
+quanh           q ua nh sp
+quar            q uar sp
+quarn           q uar n sp
+quarng          q uar ng sp
+quas            q uas sp
+quasn           q uas n sp
+quay            q ua y sp
+quef            q u ef sp
+quen            q u e n sp
+qui             q u i sp
+quoosc          q u oos c sp
+quyeefn         q u yeef n sp
+quyeejn         q u yeej n sp
+quyeern         q u yeer n sp
+quyeest         q u yees t sp
+quys            q u ys sp
+ra              r a sp
+raafu           r aaf u sp
+raan            r aa n sp
+raasn           r aas n sp
+raast           r aas t sp
+rajp            r aj p sp
+rasch           r as ch sp
+rawfng          r awf ng sp
+rieeng          r iee ng sp
+roofi           r oof i sp
+roojng          r ooj ng sp
+roosi           r oos i sp
+rowfi           r owf i sp
+rowjp           r owj p sp
+rox             r ox sp
+rufa            r ufa sp
+rujng           r uj ng sp
+rung            r u ng sp
+ruwfng          r uwf ng sp
+ruwjc           r uwj c sp
+sa              s a sp
+saan            s aa n sp
+saau            s aa u sp
+safi            s af i sp
+sai             s a i sp
+sang            s a ng sp
+sao             s a o sp
+sarn            s ar n sp
+sasng           s as ng sp
+sasp            s as p sp
+sast            s as t sp
+sasu            s as u sp
+sau             s a u sp
+sawsc           s aws c sp
+sawsm           s aws m sp
+sawsp           s aws p sp
+say             s a y sp
+seer            s eer sp
+sex             s ex sp
+sieeu           s iee u sp
+sinh            s i nh sp
+soast           s o as t sp
+soong           s oo ng sp
+soos            s oos sp
+soosng          s oos ng sp
+sost            s os t sp
+sow             s ow sp
+sowj            s owj sp
+sown            s ow n sp
+sowr            s owr sp
+sowsm           s ows m sp
+susng           s us ng sp
+suwj            s uwj sp
+suwjc           s uwj c sp
+suwra           s uwra sp
+suwsc           s uws c sp
+suwxa           s uwxa sp
+suy             s u y sp
+ta              t a sp
+taafm           t aaf m sp
+taajn           t aaj n sp
+taajp           t aaj p sp
+taam            t aa m sp
+taasm           t aas m sp
+taasn           t aas n sp
+taay            t aa y sp
+tafi            t af i sp
+tafu            t af u sp
+tai             t a i sp
+taji            t aj i sp
+tajo            t aj o sp
+tar             t ar sp
+tas             t as sp
+tasc            t as c sp
+tasi            t as i sp
+tasm            t as m sp
+tawng           t aw ng sp
+tawrn           t awr n sp
+tawsc           t aws c sp
+tay             t a y sp
+teej            t eej sp
+teen            t ee n sp
+tees            t ees sp
+teest           t ees t sp
+ter             t er sp
+thaafn          th aaf n sp
+thaajm          th aaj m sp
+thaajt          th aaj t sp
+thaan           th aa n sp
+thaast          th aas t sp
+thaasy          th aas y sp
+thafnh          th af nh sp
+tham            th a m sp
+thanh           th a nh sp
+thari           th ar i sp
+tharn           th ar n sp
+thasch          th as ch sp
+thasi           th as i sp
+thasng          th as ng sp
+thaso           th as o sp
+thasp           th as p sp
+thawm           th aw m sp
+thawng          th aw ng sp
+thay            th a y sp
+theej           th eej sp
+theem           th ee m sp
+theer           th eer sp
+thees           th ees sp
+theo            th e o sp
+ther            th er sp
+thesp           th es p sp
+thi             th i sp
+thieen          th iee n sp
+thieesu         th iees u sp
+thif            th if sp
+thij            th ij sp
+thijt           th ij t sp
+thisch          th is ch sp
+thoast          th o as t sp
+thooi           th oo i sp
+thoong          th oo ng sp
+thoori          th oor i sp
+thoosng         th oos ng sp
+thosa           th os a sp
+thow            th ow sp
+thowfi          th owf i sp
+thu             th u sp
+thua            th ua sp
+thuaajn         th u aaj n sp
+thuaajt         th u aaj t sp
+thuoojc         th uooj c sp
+thuoosc         th uoos c sp
+thur            th ur sp
+thury           th ur y sp
+thus            th us sp
+thusy           th us y sp
+thuw            th uw sp
+thuwfa          th uwfa sp
+thuwjc          th uwj c sp
+thuwowfng       th uwowf ng sp
+thuwowng        th uwow ng sp
+thuwowrng       th uwowr ng sp
+thuwr           th uwr sp
+thuws           th uws sp
+thuwsc          th uws c sp
+thuyeest        th u yees t sp
+tieefn          t ieef n sp
+tieen           t iee n sp
+tieeru          t ieer u sp
+tieesn          t iees n sp
+tieesp          t iees p sp
+tieest          t iees t sp
+tieeu           t iee u sp
+tieexn          t ieex n sp
+tifm            t if m sp
+tifnh           t if nh sp
+tijch           t ij ch sp
+tim             t i m sp
+tinh            t i nh sp
+tir             t ir sp
+tirnh           t ir nh sp
+tisch           t is ch sp
+tisnh           t is nh sp
+toafn           t o af n sp
+tofa            t of a sp
+too             t oo sp
+toofn           t oof n sp
+tooi            t oo i sp
+toon            t oo n sp
+toor            t oor sp
+toos            t oos sp
+toost           t oos t sp
+tosc            t os c sp
+towsi           t ows i sp
+tra             tr a sp
+traafm          tr aaf m sp
+traaxm          tr aax m sp
+traf            tr af sp
+trajng          tr aj ng sp
+trang           tr a ng sp
+tranh           tr a nh sp
+trar            tr ar sp
+trari           tr ar i sp
+trawm           tr aw m sp
+treen           tr ee n sp
+trer            tr er sp
+trieefu         tr ieef u sp
+trifnh          tr if nh sp
+trij            tr ij sp
+trijnh          tr ij nh sp
+tris            tr is sp
+trof            tr of sp
+trofn           tr of n sp
+trojng          tr oj ng sp
+trong           tr o ng sp
+troojm          tr ooj m sp
+troojn          tr ooj n sp
+troosng         tr oos ng sp
+trowr           tr owr sp
+truaajt         tr u aaj t sp
+trung           tr u ng sp
+trusng          tr us ng sp
+truwa           tr uwa sp
+truwf           tr uwf sp
+truwowfng       tr uwowf ng sp
+truwowng        tr uwow ng sp
+truwowrng       tr uwowr ng sp
+truwowsc        tr uwows c sp
+truy            tr u y sp
+truyeefn        tr u yeef n sp
+truyeejn        tr u yeej n sp
+tu              t u sp
+tuaafn          t u aaf n sp
+tufng           t uf ng sp
+tujc            t uj c sp
+tum             t u m sp
+tuoori          t uoor i sp
+tuwf            t uwf sp
+tuwfng          t uwf ng sp
+tuwj            t uwj sp
+tuwju           t uwju sp
+tuwowfng        t uwowf ng sp
+tuwowi          t uwowi sp
+tuy             t u y sp
+tuyeern         t u yeer n sp
+tuyeesn         t u yees n sp
+ty              t y sp
+tyr             t yr sp
+uaast           u aas t sp
+uoosn           uoos n sp
+uoosng          uoos ng sp
+ury             ur y sp
+usp             us p sp
+uwowng          uwow ng sp
+uwsng           uws ng sp
+vaajn           v aaj n sp
+vaajt           v aaj t sp
+vaajy           v aaj y sp
+vaasn           v aas n sp
+vaaxn           v aax n sp
+vaf             v af sp
+vafn            v af n sp
+vafng           v af ng sp
+vafo            v af o sp
+vai             v a i sp
+vasy            v as y sp
+vawn            v aw n sp
+vawsng          v aws ng sp
+ve              v e sp
+veef            v eef sp
+ver             v er sp
+ves             v es sp
+vex             v ex sp
+vieejc          v ieej c sp
+vieejn          v ieej n sp
+vieejt          v ieej t sp
+vieen           v iee n sp
+vieest          v iees t sp
+vieexn          v ieex n sp
+vif             v if sp
+vij             v ij sp
+vinh            v i nh sp
+vis             v is sp
+vofng           v of ng sp
+voo             v oo sp
+voofng          v oof ng sp
+voong           v oo ng sp
+voosn           v oos n sp
+vowfn           v owf n sp
+vowr            v owr sp
+vows            v ows sp
+vowsi           v ows i sp
+vowst           v ows t sp
+vowx            v owx sp
+vox             v ox sp
+vufng           v uf ng sp
+vuj             v uj sp
+vus             v us sp
+vuwjc           v uwj c sp
+vuwowfn         v uwowf n sp
+vuwown          v uwow n sp
+vuwowng         v uwow ng sp
+xa              x a sp
+xaasu           x aas u sp
+xaay            x aa y sp
+xanh            x a nh sp
+xarm            x ar m sp
+xary            x ar y sp
+xawng           x aw ng sp
+xax             x ax sp
+xay             x a y sp
+xe              x e sp
+xeesp           x ees p sp
+xem             x e m sp
+xes             x es sp
+xest            x es t sp
+xieeu           x iee u sp
+xif             x if sp
+xij             x ij sp
+xin             x i n sp
+xoa             x o a sp
+xoay            x oay sp
+xoe             x oe sp
+xon             x o n sp
+xong            x o ng sp
+xooi            x oo i sp
+xoxa            x ox a sp
+xuaan           x u aa n sp
+xuaast          x u aas t sp
+xufm            x uf m sp
+xung            x u ng sp
+xuoosng         x uoos ng sp
+xusc            x us c sp
+xuwa            x uwa sp
+xuwr            x uwr sp
+y               y sp
+yeen            yee n sp
+yeeng           yee ng sp
+yeesu           yees u sp
+yeeu            yee u sp
+ys              ys sp

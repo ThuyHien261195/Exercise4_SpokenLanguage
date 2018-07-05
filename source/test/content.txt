@@ -1,0 +1,5417 @@
+nguwowfi
+:{ 
+VIVOSSPK14_001.wav: [{'start': '4400000', 'end': '6000000'}]
+VIVOSSPK14_003.wav: [{'start': '7700000', 'end': '10700000'}]
+VIVOSSPK14_041.wav: [{'start': '20600000', 'end': '24800000'}]
+VIVOSSPK14_080.wav: [{'start': '4100000', 'end': '7200000'}]
+VIVOSSPK14_087.wav: [{'start': '18700000', 'end': '22100000'}]
+VIVOSSPK14_091.wav: [{'start': '3000000', 'end': '6500000'}]
+VIVOSSPK14_122.wav: [{'start': '20000000', 'end': '22900000'}]
+VIVOSSPK14_126.wav: [{'start': '21700000', 'end': '25200000'}]
+VIVOSSPK14_132.wav: [{'start': '29500000', 'end': '32500000'}]
+VIVOSSPK14_149.wav: [{'start': '12500000', 'end': '15900000'}]
+VIVOSSPK14_169.wav: [{'start': '20800000', 'end': '24400000'}]
+VIVOSSPK14_181.wav: [{'start': '2000000', 'end': '6100000'}, {'start': '30800000', 'end': '33900000'}]
+VIVOSSPK14_257.wav: [{'start': '4800000', 'end': '7800000'}]
+VIVOSSPK14_270.wav: [{'start': '24400000', 'end': '29100000'}]
+}
+mej
+:{ 
+VIVOSSPK14_001.wav: [{'start': '6000000', 'end': '7700000'}]
+VIVOSSPK14_046.wav: [{'start': '21300000', 'end': '24400000'}]
+VIVOSSPK14_099.wav: [{'start': '20800000', 'end': '24000000'}]
+VIVOSSPK14_136.wav: [{'start': '5600000', 'end': '8700000'}]
+VIVOSSPK14_188.wav: [{'start': '16100000', 'end': '18700000'}]
+}
+giaf
+:{ 
+VIVOSSPK14_001.wav: [{'start': '7700000', 'end': '10300000'}]
+VIVOSSPK14_181.wav: [{'start': '15000000', 'end': '18700000'}]
+}
+quanh
+:{ 
+VIVOSSPK14_001.wav: [{'start': '10300000', 'end': '12000000'}]
+VIVOSSPK14_026.wav: [{'start': '8800000', 'end': '11800000'}]
+VIVOSSPK14_069.wav: [{'start': '29100000', 'end': '32800000'}]
+}
+nawm
+:{ 
+VIVOSSPK14_001.wav: [{'start': '12000000', 'end': '14000000'}]
+VIVOSSPK14_202.wav: [{'start': '5400000', 'end': '8700000'}]
+VIVOSSPK14_222.wav: [{'start': '5000000', 'end': '8600000'}, {'start': '11900000', 'end': '14500000'}]
+VIVOSSPK14_223.wav: [{'start': '3600000', 'end': '5700000'}, {'start': '11500000', 'end': '13700000'}]
+VIVOSSPK14_224.wav: [{'start': '3500000', 'end': '5600000'}, {'start': '10900000', 'end': '13600000'}]
+VIVOSSPK14_225.wav: [{'start': '4500000', 'end': '6300000'}, {'start': '11800000', 'end': '14000000'}]
+VIVOSSPK14_226.wav: [{'start': '6500000', 'end': '8400000'}, {'start': '14000000', 'end': '16000000'}]
+VIVOSSPK14_248.wav: [{'start': '11300000', 'end': '15600000'}]
+VIVOSSPK14_250.wav: [{'start': '18300000', 'end': '22700000'}]
+VIVOSSPK14_259.wav: [{'start': '53700000', 'end': '57300000'}]
+VIVOSSPK14_261.wav: [{'start': '49900000', 'end': '53100000'}]
+VIVOSSPK14_269.wav: [{'start': '20300000', 'end': '23500000'}]
+VIVOSSPK14_294.wav: [{'start': '17700000', 'end': '20800000'}]
+VIVOSSPK14_300.wav: [{'start': '14400000', 'end': '16900000'}]
+}
+basn
+:{ 
+VIVOSSPK14_001.wav: [{'start': '14000000', 'end': '16000000'}]
+VIVOSSPK14_013.wav: [{'start': '31600000', 'end': '34300000'}]
+VIVOSSPK14_054.wav: [{'start': '15400000', 'end': '18900000'}]
+VIVOSSPK14_130.wav: [{'start': '39600000', 'end': '44000000'}]
+VIVOSSPK14_189.wav: [{'start': '33100000', 'end': '36000000'}]
+}
+ves
+:{ 
+VIVOSSPK14_001.wav: [{'start': '16000000', 'end': '16800000'}]
+}
+soos
+:{ 
+VIVOSSPK14_001.wav: [{'start': '16800000', 'end': '19600000'}]
+VIVOSSPK14_060.wav: [{'start': '26200000', 'end': '30100000'}]
+VIVOSSPK14_092.wav: [{'start': '17300000', 'end': '20600000'}]
+VIVOSSPK14_174.wav: [{'start': '25500000', 'end': '28700000'}]
+VIVOSSPK14_294.wav: [{'start': '28500000', 'end': '31200000'}]
+VIVOSSPK14_295.wav: [{'start': '29900000', 'end': '33000000'}]
+}
+thooi
+:{ 
+VIVOSSPK14_001.wav: [{'start': '19600000', 'end': '21000000'}]
+VIVOSSPK14_009.wav: [{'start': '30300000', 'end': '33800000'}]
+VIVOSSPK14_282.wav: [{'start': '4000000', 'end': '7200000'}]
+}
+maf
+:{ 
+VIVOSSPK14_001.wav: [{'start': '21000000', 'end': '24000000'}]
+VIVOSSPK14_052.wav: [{'start': '10100000', 'end': '12500000'}]
+VIVOSSPK14_085.wav: [{'start': '5100000', 'end': '7500000'}]
+VIVOSSPK14_251.wav: [{'start': '15400000', 'end': '19400000'}]
+VIVOSSPK14_283.wav: [{'start': '22700000', 'end': '26400000'}]
+}
+tu
+:{ 
+VIVOSSPK14_002.wav: [{'start': '5800000', 'end': '8200000'}]
+}
+huyst
+:{ 
+VIVOSSPK14_002.wav: [{'start': '8200000', 'end': '11000000'}]
+}
+hay
+:{ 
+VIVOSSPK14_002.wav: [{'start': '11000000', 'end': '13800000'}]
+VIVOSSPK14_062.wav: [{'start': '17000000', 'end': '19700000'}]
+VIVOSSPK14_090.wav: [{'start': '1500000', 'end': '5400000'}]
+}
+chim
+:{ 
+VIVOSSPK14_002.wav: [{'start': '13800000', 'end': '17400000'}]
+VIVOSSPK14_261.wav: [{'start': '30100000', 'end': '33300000'}]
+}
+chaafu
+:{ 
+VIVOSSPK14_002.wav: [{'start': '17400000', 'end': '20300000'}]
+}
+rufa
+:{ 
+VIVOSSPK14_002.wav: [{'start': '20300000', 'end': '25200000'}]
+}
+dduwowjc
+:{ 
+VIVOSSPK14_003.wav: [{'start': '4500000', 'end': '7700000'}]
+VIVOSSPK14_039.wav: [{'start': '17100000', 'end': '20400000'}]
+VIVOSSPK14_041.wav: [{'start': '12300000', 'end': '15200000'}]
+VIVOSSPK14_050.wav: [{'start': '39600000', 'end': '42900000'}]
+VIVOSSPK14_057.wav: [{'start': '10100000', 'end': '13200000'}]
+VIVOSSPK14_065.wav: [{'start': '15400000', 'end': '18300000'}]
+VIVOSSPK14_079.wav: [{'start': '19600000', 'end': '23100000'}]
+VIVOSSPK14_090.wav: [{'start': '37700000', 'end': '40600000'}]
+VIVOSSPK14_097.wav: [{'start': '26200000', 'end': '29100000'}]
+VIVOSSPK14_099.wav: [{'start': '15200000', 'end': '17700000'}]
+VIVOSSPK14_102.wav: [{'start': '14200000', 'end': '17300000'}]
+VIVOSSPK14_110.wav: [{'start': '6800000', 'end': '9600000'}]
+VIVOSSPK14_115.wav: [{'start': '5900000', 'end': '9100000'}]
+VIVOSSPK14_130.wav: [{'start': '36300000', 'end': '39600000'}]
+VIVOSSPK14_133.wav: [{'start': '28800000', 'end': '31900000'}]
+VIVOSSPK14_162.wav: [{'start': '8700000', 'end': '11400000'}]
+VIVOSSPK14_181.wav: [{'start': '6100000', 'end': '9000000'}, {'start': '33900000', 'end': '37200000'}]
+VIVOSSPK14_255.wav: [{'start': '9100000', 'end': '11900000'}]
+VIVOSSPK14_256.wav: [{'start': '11800000', 'end': '14500000'}]
+VIVOSSPK14_258.wav: [{'start': '22900000', 'end': '26200000'}]
+VIVOSSPK14_269.wav: [{'start': '14700000', 'end': '17700000'}]
+VIVOSSPK14_272.wav: [{'start': '21700000', 'end': '24500000'}]
+}
+ta
+:{ 
+VIVOSSPK14_003.wav: [{'start': '10700000', 'end': '13900000'}]
+VIVOSSPK14_006.wav: [{'start': '42400000', 'end': '46200000'}]
+VIVOSSPK14_024.wav: [{'start': '33700000', 'end': '36600000'}]
+VIVOSSPK14_091.wav: [{'start': '6500000', 'end': '9500000'}]
+VIVOSSPK14_096.wav: [{'start': '15200000', 'end': '17900000'}]
+VIVOSSPK14_159.wav: [{'start': '17400000', 'end': '20500000'}]
+}
+ddasnh
+:{ 
+VIVOSSPK14_003.wav: [{'start': '13900000', 'end': '16400000'}]
+VIVOSSPK14_106.wav: [{'start': '15900000', 'end': '19500000'}]
+VIVOSSPK14_127.wav: [{'start': '34400000', 'end': '36900000'}]
+}
+gias
+:{ 
+VIVOSSPK14_003.wav: [{'start': '16400000', 'end': '19500000'}]
+VIVOSSPK14_068.wav: [{'start': '24900000', 'end': '29200000'}]
+VIVOSSPK14_119.wav: [{'start': '26200000', 'end': '30900000'}]
+VIVOSSPK14_300.wav: [{'start': '34100000', 'end': '36600000'}]
+}
+cao
+:{ 
+VIVOSSPK14_003.wav: [{'start': '19500000', 'end': '24300000'}]
+VIVOSSPK14_132.wav: [{'start': '19800000', 'end': '22800000'}]
+}
+lieen
+:{ 
+VIVOSSPK14_004.wav: [{'start': '6600000', 'end': '9700000'}]
+VIVOSSPK14_067.wav: [{'start': '7000000', 'end': '9900000'}]
+}
+mirm
+:{ 
+VIVOSSPK14_004.wav: [{'start': '9700000', 'end': '12600000'}]
+}
+cuwowfi
+:{ 
+VIVOSSPK14_004.wav: [{'start': '12600000', 'end': '16100000'}]
+VIVOSSPK14_062.wav: [{'start': '19700000', 'end': '23900000'}]
+VIVOSSPK14_141.wav: [{'start': '21200000', 'end': '24300000'}]
+}
+cusi
+:{ 
+VIVOSSPK14_004.wav: [{'start': '16100000', 'end': '18600000'}]
+}
+nhawjt
+:{ 
+VIVOSSPK14_004.wav: [{'start': '18600000', 'end': '21800000'}]
+}
+moojt
+:{ 
+VIVOSSPK14_004.wav: [{'start': '21800000', 'end': '24500000'}]
+VIVOSSPK14_009.wav: [{'start': '21100000', 'end': '24900000'}]
+VIVOSSPK14_021.wav: [{'start': '32100000', 'end': '35000000'}]
+VIVOSSPK14_024.wav: [{'start': '4500000', 'end': '7900000'}]
+VIVOSSPK14_034.wav: [{'start': '10300000', 'end': '13900000'}]
+VIVOSSPK14_041.wav: [{'start': '15200000', 'end': '18300000'}]
+VIVOSSPK14_042.wav: [{'start': '29000000', 'end': '32900000'}]
+VIVOSSPK14_075.wav: [{'start': '9000000', 'end': '13100000'}]
+VIVOSSPK14_080.wav: [{'start': '12900000', 'end': '16500000'}]
+VIVOSSPK14_098.wav: [{'start': '1700000', 'end': '4500000'}]
+VIVOSSPK14_101.wav: [{'start': '5700000', 'end': '8100000'}]
+VIVOSSPK14_104.wav: [{'start': '26000000', 'end': '29600000'}]
+VIVOSSPK14_108.wav: [{'start': '16400000', 'end': '19700000'}]
+VIVOSSPK14_109.wav: [{'start': '28600000', 'end': '31700000'}]
+VIVOSSPK14_119.wav: [{'start': '14900000', 'end': '17500000'}]
+VIVOSSPK14_120.wav: [{'start': '31000000', 'end': '34300000'}]
+VIVOSSPK14_123.wav: [{'start': '10900000', 'end': '13800000'}]
+VIVOSSPK14_152.wav: [{'start': '4300000', 'end': '8200000'}]
+VIVOSSPK14_158.wav: [{'start': '42300000', 'end': '45400000'}]
+VIVOSSPK14_163.wav: [{'start': '5600000', 'end': '8300000'}]
+VIVOSSPK14_173.wav: [{'start': '5400000', 'end': '6800000'}]
+VIVOSSPK14_184.wav: [{'start': '16500000', 'end': '19500000'}]
+VIVOSSPK14_201.wav: [{'start': '7400000', 'end': '11000000'}]
+VIVOSSPK14_203.wav: [{'start': '18100000', 'end': '21700000'}]
+VIVOSSPK14_204.wav: [{'start': '6100000', 'end': '9900000'}]
+VIVOSSPK14_247.wav: [{'start': '4500000', 'end': '8300000'}, {'start': '13600000', 'end': '15800000'}]
+VIVOSSPK14_248.wav: [{'start': '4400000', 'end': '8100000'}]
+VIVOSSPK14_250.wav: [{'start': '3800000', 'end': '7800000'}]
+VIVOSSPK14_277.wav: [{'start': '5100000', 'end': '7500000'}]
+VIVOSSPK14_294.wav: [{'start': '11800000', 'end': '14900000'}]
+}
+chieesc
+:{ 
+VIVOSSPK14_004.wav: [{'start': '24500000', 'end': '27100000'}]
+VIVOSSPK14_068.wav: [{'start': '12300000', 'end': '15300000'}]
+VIVOSSPK14_090.wav: [{'start': '11800000', 'end': '15100000'}]
+VIVOSSPK14_152.wav: [{'start': '8200000', 'end': '10800000'}]
+VIVOSSPK14_159.wav: [{'start': '27300000', 'end': '30600000'}]
+VIVOSSPK14_162.wav: [{'start': '23900000', 'end': '27800000'}]
+VIVOSSPK14_182.wav: [{'start': '15100000', 'end': '18400000'}]
+}
+las
+:{ 
+VIVOSSPK14_004.wav: [{'start': '27100000', 'end': '29500000'}]
+VIVOSSPK14_034.wav: [{'start': '23400000', 'end': '27900000'}]
+VIVOSSPK14_286.wav: [{'start': '30000000', 'end': '32800000'}]
+VIVOSSPK14_288.wav: [{'start': '23200000', 'end': '27700000'}]
+}
+vafng
+:{ 
+VIVOSSPK14_004.wav: [{'start': '29500000', 'end': '33900000'}]
+VIVOSSPK14_255.wav: [{'start': '24000000', 'end': '27400000'}]
+VIVOSSPK14_259.wav: [{'start': '41400000', 'end': '45200000'}]
+}
+kieen
+:{ 
+VIVOSSPK14_005.wav: [{'start': '7500000', 'end': '12100000'}]
+}
+hari
+:{ 
+VIVOSSPK14_005.wav: [{'start': '12100000', 'end': '18500000'}]
+VIVOSSPK14_197.wav: [{'start': '19100000', 'end': '21800000'}]
+}
+thoong
+:{ 
+VIVOSSPK14_006.wav: [{'start': '7200000', 'end': '9900000'}]
+VIVOSSPK14_021.wav: [{'start': '43700000', 'end': '47200000'}]
+VIVOSSPK14_032.wav: [{'start': '7100000', 'end': '10300000'}]
+VIVOSSPK14_079.wav: [{'start': '23100000', 'end': '26200000'}]
+VIVOSSPK14_116.wav: [{'start': '23700000', 'end': '27200000'}]
+VIVOSSPK14_289.wav: [{'start': '27800000', 'end': '31100000'}]
+}
+baso
+:{ 
+VIVOSSPK14_006.wav: [{'start': '9900000', 'end': '12700000'}]
+VIVOSSPK14_169.wav: [{'start': '15100000', 'end': '17900000'}]
+VIVOSSPK14_263.wav: [{'start': '7200000', 'end': '10100000'}]
+}
+nhuwxng
+:{ 
+VIVOSSPK14_006.wav: [{'start': '12700000', 'end': '15500000'}]
+VIVOSSPK14_031.wav: [{'start': '4700000', 'end': '7700000'}]
+VIVOSSPK14_047.wav: [{'start': '8000000', 'end': '11000000'}]
+VIVOSSPK14_070.wav: [{'start': '3800000', 'end': '7200000'}]
+VIVOSSPK14_088.wav: [{'start': '16400000', 'end': '20600000'}]
+VIVOSSPK14_092.wav: [{'start': '20600000', 'end': '24200000'}]
+VIVOSSPK14_105.wav: [{'start': '12300000', 'end': '16100000'}]
+VIVOSSPK14_108.wav: [{'start': '3600000', 'end': '7700000'}]
+VIVOSSPK14_117.wav: [{'start': '21900000', 'end': '24900000'}]
+VIVOSSPK14_120.wav: [{'start': '8700000', 'end': '11800000'}]
+VIVOSSPK14_126.wav: [{'start': '19000000', 'end': '21700000'}]
+VIVOSSPK14_130.wav: [{'start': '3300000', 'end': '6100000'}]
+VIVOSSPK14_150.wav: [{'start': '4700000', 'end': '8300000'}]
+VIVOSSPK14_156.wav: [{'start': '8500000', 'end': '11600000'}]
+VIVOSSPK14_177.wav: [{'start': '19200000', 'end': '23500000'}]
+VIVOSSPK14_182.wav: [{'start': '11800000', 'end': '15100000'}]
+VIVOSSPK14_185.wav: [{'start': '12900000', 'end': '15600000'}]
+VIVOSSPK14_188.wav: [{'start': '3600000', 'end': '6300000'}]
+VIVOSSPK14_195.wav: [{'start': '3100000', 'end': '6300000'}, {'start': '22000000', 'end': '25000000'}]
+VIVOSSPK14_261.wav: [{'start': '4500000', 'end': '7300000'}]
+VIVOSSPK14_267.wav: [{'start': '5900000', 'end': '8500000'}]
+}
+thafnh
+:{ 
+VIVOSSPK14_006.wav: [{'start': '15500000', 'end': '18100000'}]
+VIVOSSPK14_172.wav: [{'start': '11700000', 'end': '15400000'}]
+VIVOSSPK14_259.wav: [{'start': '29300000', 'end': '32700000'}]
+VIVOSSPK14_264.wav: [{'start': '10800000', 'end': '13600000'}]
+VIVOSSPK14_265.wav: [{'start': '30000000', 'end': '33000000'}]
+}
+tuwju
+:{ 
+VIVOSSPK14_006.wav: [{'start': '18100000', 'end': '20100000'}]
+}
+kinh
+:{ 
+VIVOSSPK14_006.wav: [{'start': '20100000', 'end': '23700000'}]
+VIVOSSPK14_027.wav: [{'start': '25600000', 'end': '28700000'}]
+}
+tees
+:{ 
+VIVOSSPK14_006.wav: [{'start': '23700000', 'end': '26000000'}]
+}
+xax
+:{ 
+VIVOSSPK14_006.wav: [{'start': '26000000', 'end': '28400000'}]
+VIVOSSPK14_059.wav: [{'start': '33000000', 'end': '36600000'}]
+VIVOSSPK14_082.wav: [{'start': '1200000', 'end': '5900000'}]
+VIVOSSPK14_127.wav: [{'start': '11200000', 'end': '14400000'}]
+}
+hooji
+:{ 
+VIVOSSPK14_006.wav: [{'start': '28400000', 'end': '31400000'}]
+VIVOSSPK14_059.wav: [{'start': '36600000', 'end': '40200000'}]
+VIVOSSPK14_180.wav: [{'start': '2300000', 'end': '5200000'}]
+}
+noori
+:{ 
+VIVOSSPK14_006.wav: [{'start': '31400000', 'end': '34300000'}]
+}
+baajt
+:{ 
+VIVOSSPK14_006.wav: [{'start': '34300000', 'end': '36200000'}]
+VIVOSSPK14_286.wav: [{'start': '44500000', 'end': '47200000'}]
+}
+nhaast
+:{ 
+VIVOSSPK14_006.wav: [{'start': '36200000', 'end': '37500000'}]
+VIVOSSPK14_102.wav: [{'start': '26200000', 'end': '29200000'}]
+VIVOSSPK14_296.wav: [{'start': '31200000', 'end': '34300000'}]
+}
+cura
+:{ 
+VIVOSSPK14_006.wav: [{'start': '37500000', 'end': '39900000'}]
+VIVOSSPK14_019.wav: [{'start': '17200000', 'end': '21400000'}]
+VIVOSSPK14_031.wav: [{'start': '20300000', 'end': '23200000'}]
+VIVOSSPK14_037.wav: [{'start': '24200000', 'end': '27400000'}]
+VIVOSSPK14_039.wav: [{'start': '26000000', 'end': '29000000'}]
+VIVOSSPK14_042.wav: [{'start': '13300000', 'end': '16400000'}]
+VIVOSSPK14_066.wav: [{'start': '43100000', 'end': '46000000'}]
+VIVOSSPK14_085.wav: [{'start': '29300000', 'end': '32100000'}]
+VIVOSSPK14_106.wav: [{'start': '23000000', 'end': '26700000'}]
+VIVOSSPK14_109.wav: [{'start': '14400000', 'end': '16600000'}]
+VIVOSSPK14_122.wav: [{'start': '17100000', 'end': '20000000'}]
+VIVOSSPK14_136.wav: [{'start': '27200000', 'end': '30200000'}]
+VIVOSSPK14_153.wav: [{'start': '9900000', 'end': '12700000'}]
+VIVOSSPK14_156.wav: [{'start': '26200000', 'end': '28600000'}]
+VIVOSSPK14_158.wav: [{'start': '26200000', 'end': '29300000'}]
+VIVOSSPK14_162.wav: [{'start': '20700000', 'end': '23900000'}]
+VIVOSSPK14_165.wav: [{'start': '30200000', 'end': '34500000'}]
+VIVOSSPK14_170.wav: [{'start': '5500000', 'end': '8100000'}]
+VIVOSSPK14_192.wav: [{'start': '4200000', 'end': '7000000'}]
+VIVOSSPK14_196.wav: [{'start': '6800000', 'end': '9900000'}]
+VIVOSSPK14_260.wav: [{'start': '36400000', 'end': '39800000'}]
+}
+nuwowsc
+:{ 
+VIVOSSPK14_006.wav: [{'start': '39900000', 'end': '42400000'}]
+VIVOSSPK14_044.wav: [{'start': '3000000', 'end': '6400000'}]
+VIVOSSPK14_096.wav: [{'start': '11900000', 'end': '15100000'}]
+VIVOSSPK14_134.wav: [{'start': '33500000', 'end': '37300000'}]
+VIVOSSPK14_262.wav: [{'start': '23100000', 'end': '25700000'}]
+}
+ddeer
+:{ 
+VIVOSSPK14_007.wav: [{'start': '7200000', 'end': '9500000'}]
+VIVOSSPK14_066.wav: [{'start': '27600000', 'end': '30300000'}]
+VIVOSSPK14_068.wav: [{'start': '2900000', 'end': '5900000'}]
+VIVOSSPK14_096.wav: [{'start': '17900000', 'end': '20900000'}]
+VIVOSSPK14_123.wav: [{'start': '2800000', 'end': '4900000'}]
+VIVOSSPK14_283.wav: [{'start': '13100000', 'end': '15800000'}]
+}
+chasu
+:{ 
+VIVOSSPK14_007.wav: [{'start': '9500000', 'end': '12700000'}]
+VIVOSSPK14_064.wav: [{'start': '19900000', 'end': '23000000'}]
+}
+ngoofi
+:{ 
+VIVOSSPK14_007.wav: [{'start': '12700000', 'end': '16100000'}]
+}
+taajp
+:{ 
+VIVOSSPK14_007.wav: [{'start': '16100000', 'end': '20300000'}]
+VIVOSSPK14_278.wav: [{'start': '11500000', 'end': '14200000'}]
+VIVOSSPK14_284.wav: [{'start': '26000000', 'end': '29300000'}]
+}
+vieest
+:{ 
+VIVOSSPK14_007.wav: [{'start': '20300000', 'end': '22900000'}]
+}
+theem
+:{ 
+VIVOSSPK14_007.wav: [{'start': '22900000', 'end': '26400000'}]
+VIVOSSPK14_053.wav: [{'start': '9500000', 'end': '13000000'}]
+}
+keer
+:{ 
+VIVOSSPK14_008.wav: [{'start': '6900000', 'end': '9800000'}]
+VIVOSSPK14_014.wav: [{'start': '18000000', 'end': '21600000'}]
+VIVOSSPK14_092.wav: [{'start': '27300000', 'end': '30000000'}]
+}
+tuwf
+:{ 
+VIVOSSPK14_008.wav: [{'start': '9800000', 'end': '13000000'}]
+VIVOSSPK14_017.wav: [{'start': '17900000', 'end': '21300000'}]
+VIVOSSPK14_078.wav: [{'start': '200000', 'end': '2600000'}]
+VIVOSSPK14_081.wav: [{'start': '30200000', 'end': '33200000'}]
+VIVOSSPK14_196.wav: [{'start': '9900000', 'end': '13300000'}]
+VIVOSSPK14_271.wav: [{'start': '5200000', 'end': '7600000'}]
+}
+ddaafu
+:{ 
+VIVOSSPK14_008.wav: [{'start': '13000000', 'end': '16200000'}]
+VIVOSSPK14_034.wav: [{'start': '20500000', 'end': '23400000'}]
+VIVOSSPK14_060.wav: [{'start': '30100000', 'end': '33400000'}]
+VIVOSSPK14_145.wav: [{'start': '39700000', 'end': '43800000'}]
+VIVOSSPK14_153.wav: [{'start': '36800000', 'end': '39300000'}]
+VIVOSSPK14_164.wav: [{'start': '28200000', 'end': '32000000'}]
+VIVOSSPK14_298.wav: [{'start': '25700000', 'end': '28400000'}]
+}
+mufa
+:{ 
+VIVOSSPK14_008.wav: [{'start': '16200000', 'end': '22100000'}]
+VIVOSSPK14_138.wav: [{'start': '11800000', 'end': '14500000'}]
+VIVOSSPK14_276.wav: [{'start': '10500000', 'end': '13400000'}]
+}
+khoo
+:{ 
+VIVOSSPK14_008.wav: [{'start': '22100000', 'end': '22700000'}]
+}
+ddeesn
+:{ 
+VIVOSSPK14_008.wav: [{'start': '22700000', 'end': '25100000'}]
+VIVOSSPK14_017.wav: [{'start': '32600000', 'end': '36200000'}]
+VIVOSSPK14_023.wav: [{'start': '12100000', 'end': '14700000'}]
+VIVOSSPK14_095.wav: [{'start': '21700000', 'end': '24800000'}]
+VIVOSSPK14_102.wav: [{'start': '20300000', 'end': '22600000'}]
+VIVOSSPK14_121.wav: [{'start': '9700000', 'end': '12800000'}]
+VIVOSSPK14_147.wav: [{'start': '16500000', 'end': '18800000'}]
+VIVOSSPK14_186.wav: [{'start': '11600000', 'end': '14800000'}]
+}
+nay
+:{ 
+VIVOSSPK14_008.wav: [{'start': '25100000', 'end': '29100000'}]
+VIVOSSPK14_095.wav: [{'start': '5100000', 'end': '8700000'}]
+VIVOSSPK14_300.wav: [{'start': '16900000', 'end': '19500000'}]
+}
+anh
+:{ 
+VIVOSSPK14_009.wav: [{'start': '6900000', 'end': '9000000'}]
+VIVOSSPK14_099.wav: [{'start': '3200000', 'end': '5700000'}]
+VIVOSSPK14_266.wav: [{'start': '22600000', 'end': '25500000'}]
+VIVOSSPK14_267.wav: [{'start': '32600000', 'end': '35300000'}]
+VIVOSSPK14_268.wav: [{'start': '27200000', 'end': '30100000'}]
+VIVOSSPK14_270.wav: [{'start': '6800000', 'end': '9400000'}]
+}
+nosi
+:{ 
+VIVOSSPK14_009.wav: [{'start': '9000000', 'end': '12600000'}]
+VIVOSSPK14_050.wav: [{'start': '9500000', 'end': '12800000'}]
+VIVOSSPK14_091.wav: [{'start': '9500000', 'end': '14400000'}]
+VIVOSSPK14_102.wav: [{'start': '17300000', 'end': '20300000'}]
+VIVOSSPK14_118.wav: [{'start': '3800000', 'end': '6900000'}]
+VIVOSSPK14_267.wav: [{'start': '11900000', 'end': '15100000'}]
+VIVOSSPK14_280.wav: [{'start': '10600000', 'end': '15200000'}]
+}
+ddos
+:{ 
+VIVOSSPK14_009.wav: [{'start': '12600000', 'end': '15400000'}]
+VIVOSSPK14_012.wav: [{'start': '32300000', 'end': '36200000'}]
+VIVOSSPK14_022.wav: [{'start': '4300000', 'end': '7300000'}]
+VIVOSSPK14_037.wav: [{'start': '700000', 'end': '4000000'}]
+VIVOSSPK14_084.wav: [{'start': '25300000', 'end': '28200000'}]
+VIVOSSPK14_119.wav: [{'start': '7000000', 'end': '9100000'}]
+VIVOSSPK14_184.wav: [{'start': '8400000', 'end': '10800000'}]
+VIVOSSPK14_258.wav: [{'start': '11200000', 'end': '14200000'}]
+VIVOSSPK14_271.wav: [{'start': '7600000', 'end': '10600000'}]
+}
+chir
+:{ 
+VIVOSSPK14_009.wav: [{'start': '15400000', 'end': '18700000'}]
+VIVOSSPK14_060.wav: [{'start': '6200000', 'end': '9400000'}]
+VIVOSSPK14_159.wav: [{'start': '5500000', 'end': '8700000'}]
+VIVOSSPK14_286.wav: [{'start': '3300000', 'end': '5500000'}]
+}
+laf
+:{ 
+VIVOSSPK14_009.wav: [{'start': '18700000', 'end': '21100000'}]
+VIVOSSPK14_014.wav: [{'start': '11400000', 'end': '14400000'}]
+VIVOSSPK14_022.wav: [{'start': '7300000', 'end': '10300000'}]
+VIVOSSPK14_028.wav: [{'start': '14400000', 'end': '17200000'}]
+VIVOSSPK14_029.wav: [{'start': '26200000', 'end': '28800000'}]
+VIVOSSPK14_037.wav: [{'start': '4000000', 'end': '6800000'}]
+VIVOSSPK14_077.wav: [{'start': '900000', 'end': '4800000'}]
+VIVOSSPK14_097.wav: [{'start': '12200000', 'end': '14500000'}]
+VIVOSSPK14_109.wav: [{'start': '26200000', 'end': '28600000'}]
+VIVOSSPK14_112.wav: [{'start': '6600000', 'end': '9300000'}]
+VIVOSSPK14_119.wav: [{'start': '12400000', 'end': '14900000'}]
+VIVOSSPK14_136.wav: [{'start': '15100000', 'end': '17800000'}]
+VIVOSSPK14_139.wav: [{'start': '14400000', 'end': '17700000'}]
+VIVOSSPK14_151.wav: [{'start': '7800000', 'end': '10700000'}]
+VIVOSSPK14_153.wav: [{'start': '16000000', 'end': '18700000'}]
+VIVOSSPK14_180.wav: [{'start': '14600000', 'end': '17100000'}]
+VIVOSSPK14_184.wav: [{'start': '14000000', 'end': '16500000'}]
+VIVOSSPK14_189.wav: [{'start': '5300000', 'end': '7900000'}]
+VIVOSSPK14_199.wav: [{'start': '26500000', 'end': '29400000'}]
+VIVOSSPK14_286.wav: [{'start': '21600000', 'end': '24200000'}]
+VIVOSSPK14_294.wav: [{'start': '26300000', 'end': '28500000'}]
+VIVOSSPK14_296.wav: [{'start': '8900000', 'end': '11600000'}]
+}
+list
+:{ 
+VIVOSSPK14_009.wav: [{'start': '24900000', 'end': '26800000'}]
+}
+xawng
+:{ 
+VIVOSSPK14_009.wav: [{'start': '26800000', 'end': '30300000'}]
+}
+thif
+:{ 
+VIVOSSPK14_010.wav: [{'start': '5100000', 'end': '8100000'}]
+VIVOSSPK14_030.wav: [{'start': '5000000', 'end': '7800000'}]
+VIVOSSPK14_039.wav: [{'start': '1700000', 'end': '4500000'}]
+VIVOSSPK14_048.wav: [{'start': '21600000', 'end': '24500000'}]
+VIVOSSPK14_060.wav: [{'start': '23800000', 'end': '26200000'}]
+VIVOSSPK14_084.wav: [{'start': '2900000', 'end': '6000000'}]
+VIVOSSPK14_088.wav: [{'start': '7200000', 'end': '10200000'}]
+VIVOSSPK14_119.wav: [{'start': '4200000', 'end': '7000000'}]
+VIVOSSPK14_164.wav: [{'start': '18100000', 'end': '20600000'}]
+VIVOSSPK14_191.wav: [{'start': '4300000', 'end': '6900000'}]
+VIVOSSPK14_251.wav: [{'start': '9700000', 'end': '12800000'}, {'start': '24200000', 'end': '26900000'}]
+VIVOSSPK14_269.wav: [{'start': '23500000', 'end': '26900000'}]
+VIVOSSPK14_282.wav: [{'start': '7200000', 'end': '10500000'}]
+}
+tooi
+:{ 
+VIVOSSPK14_010.wav: [{'start': '8100000', 'end': '11700000'}]
+VIVOSSPK14_011.wav: [{'start': '45700000', 'end': '49300000'}]
+VIVOSSPK14_025.wav: [{'start': '4700000', 'end': '7000000'}]
+VIVOSSPK14_043.wav: [{'start': '8100000', 'end': '11000000'}]
+VIVOSSPK14_050.wav: [{'start': '26000000', 'end': '29100000'}]
+VIVOSSPK14_057.wav: [{'start': '3200000', 'end': '6200000'}]
+VIVOSSPK14_074.wav: [{'start': '15900000', 'end': '19400000'}]
+VIVOSSPK14_126.wav: [{'start': '5000000', 'end': '7100000'}]
+VIVOSSPK14_134.wav: [{'start': '10500000', 'end': '13000000'}]
+VIVOSSPK14_153.wav: [{'start': '12700000', 'end': '16000000'}]
+VIVOSSPK14_155.wav: [{'start': '7300000', 'end': '9800000'}]
+VIVOSSPK14_161.wav: [{'start': '6700000', 'end': '10100000'}]
+VIVOSSPK14_165.wav: [{'start': '7400000', 'end': '10800000'}]
+VIVOSSPK14_177.wav: [{'start': '2800000', 'end': '6200000'}]
+VIVOSSPK14_266.wav: [{'start': '11000000', 'end': '13800000'}]
+VIVOSSPK14_268.wav: [{'start': '15300000', 'end': '17900000'}]
+VIVOSSPK14_269.wav: [{'start': '6700000', 'end': '9500000'}, {'start': '33000000', 'end': '35600000'}]
+VIVOSSPK14_271.wav: [{'start': '16700000', 'end': '19600000'}]
+VIVOSSPK14_272.wav: [{'start': '16100000', 'end': '18100000'}]
+}
+cuxng
+:{ 
+VIVOSSPK14_010.wav: [{'start': '11700000', 'end': '15400000'}]
+VIVOSSPK14_018.wav: [{'start': '5400000', 'end': '7700000'}]
+VIVOSSPK14_042.wav: [{'start': '19700000', 'end': '22600000'}]
+VIVOSSPK14_061.wav: [{'start': '9700000', 'end': '12800000'}]
+VIVOSSPK14_074.wav: [{'start': '19400000', 'end': '22800000'}]
+VIVOSSPK14_116.wav: [{'start': '4400000', 'end': '7100000'}]
+VIVOSSPK14_126.wav: [{'start': '13500000', 'end': '16000000'}]
+VIVOSSPK14_127.wav: [{'start': '26100000', 'end': '28800000'}]
+VIVOSSPK14_161.wav: [{'start': '10100000', 'end': '13600000'}]
+VIVOSSPK14_165.wav: [{'start': '10800000', 'end': '13600000'}]
+VIVOSSPK14_182.wav: [{'start': '2900000', 'end': '5300000'}]
+VIVOSSPK14_252.wav: [{'start': '26700000', 'end': '29200000'}]
+VIVOSSPK14_257.wav: [{'start': '26800000', 'end': '30400000'}]
+VIVOSSPK14_296.wav: [{'start': '6300000', 'end': '8900000'}]
+VIVOSSPK14_300.wav: [{'start': '22700000', 'end': '25400000'}]
+}
+ddur
+:{ 
+VIVOSSPK14_010.wav: [{'start': '15400000', 'end': '17300000'}]
+VIVOSSPK14_098.wav: [{'start': '18800000', 'end': '21600000'}]
+VIVOSSPK14_117.wav: [{'start': '7800000', 'end': '10200000'}]
+}
+kieesm
+:{ 
+VIVOSSPK14_010.wav: [{'start': '17300000', 'end': '21500000'}]
+VIVOSSPK14_190.wav: [{'start': '30700000', 'end': '34200000'}]
+}
+soosng
+:{ 
+VIVOSSPK14_010.wav: [{'start': '21500000', 'end': '25500000'}]
+VIVOSSPK14_031.wav: [{'start': '26100000', 'end': '30600000'}]
+VIVOSSPK14_122.wav: [{'start': '8500000', 'end': '11900000'}]
+VIVOSSPK14_167.wav: [{'start': '4100000', 'end': '8600000'}]
+}
+qua
+:{ 
+VIVOSSPK14_010.wav: [{'start': '25500000', 'end': '28300000'}]
+VIVOSSPK14_079.wav: [{'start': '26200000', 'end': '30700000'}]
+VIVOSSPK14_161.wav: [{'start': '20200000', 'end': '23900000'}]
+}
+ngafy
+:{ 
+VIVOSSPK14_010.wav: [{'start': '28300000', 'end': '32300000'}]
+VIVOSSPK14_061.wav: [{'start': '3000000', 'end': '6000000'}]
+VIVOSSPK14_075.wav: [{'start': '6100000', 'end': '9000000'}]
+VIVOSSPK14_122.wav: [{'start': '14400000', 'end': '17100000'}]
+VIVOSSPK14_136.wav: [{'start': '8700000', 'end': '11700000'}]
+VIVOSSPK14_253.wav: [{'start': '6600000', 'end': '9500000'}]
+VIVOSSPK14_298.wav: [{'start': '11300000', 'end': '14000000'}]
+}
+hai
+:{ 
+VIVOSSPK14_011.wav: [{'start': '4200000', 'end': '8100000'}, {'start': '17900000', 'end': '19500000'}]
+VIVOSSPK14_032.wav: [{'start': '13800000', 'end': '16900000'}]
+VIVOSSPK14_075.wav: [{'start': '2100000', 'end': '6100000'}]
+VIVOSSPK14_102.wav: [{'start': '4800000', 'end': '8500000'}]
+VIVOSSPK14_199.wav: [{'start': '5000000', 'end': '7700000'}]
+VIVOSSPK14_201.wav: [{'start': '11000000', 'end': '15100000'}]
+VIVOSSPK14_204.wav: [{'start': '12600000', 'end': '16600000'}]
+VIVOSSPK14_207.wav: [{'start': '6900000', 'end': '9400000'}, {'start': '13600000', 'end': '16300000'}]
+VIVOSSPK14_208.wav: [{'start': '6800000', 'end': '9100000'}, {'start': '11100000', 'end': '15400000'}, {'start': '15400000', 'end': '17800000'}]
+VIVOSSPK14_209.wav: [{'start': '3800000', 'end': '5900000'}, {'start': '12700000', 'end': '14500000'}]
+VIVOSSPK14_210.wav: [{'start': '3900000', 'end': '5800000'}, {'start': '12400000', 'end': '14500000'}]
+VIVOSSPK14_211.wav: [{'start': '3700000', 'end': '5700000'}, {'start': '11900000', 'end': '13500000'}]
+VIVOSSPK14_213.wav: [{'start': '8400000', 'end': '12800000'}]
+VIVOSSPK14_218.wav: [{'start': '6800000', 'end': '10800000'}]
+VIVOSSPK14_223.wav: [{'start': '7400000', 'end': '11500000'}]
+VIVOSSPK14_228.wav: [{'start': '6300000', 'end': '9700000'}]
+VIVOSSPK14_233.wav: [{'start': '6000000', 'end': '10000000'}]
+VIVOSSPK14_238.wav: [{'start': '7600000', 'end': '11500000'}]
+VIVOSSPK14_243.wav: [{'start': '5900000', 'end': '9800000'}]
+VIVOSSPK14_247.wav: [{'start': '15800000', 'end': '17600000'}]
+VIVOSSPK14_249.wav: [{'start': '7700000', 'end': '12100000'}]
+VIVOSSPK14_250.wav: [{'start': '7800000', 'end': '11300000'}]
+VIVOSSPK14_269.wav: [{'start': '17700000', 'end': '20300000'}]
+}
+tay
+:{ 
+VIVOSSPK14_011.wav: [{'start': '8100000', 'end': '11200000'}]
+VIVOSSPK14_053.wav: [{'start': '16300000', 'end': '19000000'}]
+VIVOSSPK14_299.wav: [{'start': '14200000', 'end': '17100000'}]
+}
+coo
+:{ 
+VIVOSSPK14_011.wav: [{'start': '11200000', 'end': '13900000'}]
+VIVOSSPK14_042.wav: [{'start': '16400000', 'end': '19700000'}]
+VIVOSSPK14_074.wav: [{'start': '3000000', 'end': '6000000'}]
+VIVOSSPK14_159.wav: [{'start': '14900000', 'end': '17400000'}]
+}
+bosp
+:{ 
+VIVOSSPK14_011.wav: [{'start': '13900000', 'end': '16400000'}]
+}
+nhej
+:{ 
+VIVOSSPK14_011.wav: [{'start': '16400000', 'end': '17900000'}]
+VIVOSSPK14_286.wav: [{'start': '10800000', 'end': '14000000'}]
+}
+bar
+:{ 
+VIVOSSPK14_011.wav: [{'start': '19500000', 'end': '22500000'}]
+}
+vai
+:{ 
+VIVOSSPK14_011.wav: [{'start': '22500000', 'end': '26400000'}]
+VIVOSSPK14_040.wav: [{'start': '20000000', 'end': '24100000'}]
+VIVOSSPK14_076.wav: [{'start': '5700000', 'end': '9200000'}]
+VIVOSSPK14_176.wav: [{'start': '25600000', 'end': '30000000'}]
+}
+roofi
+:{ 
+VIVOSSPK14_011.wav: [{'start': '26400000', 'end': '29700000'}]
+VIVOSSPK14_013.wav: [{'start': '21100000', 'end': '24400000'}]
+VIVOSSPK14_046.wav: [{'start': '30500000', 'end': '34700000'}]
+VIVOSSPK14_125.wav: [{'start': '14100000', 'end': '16600000'}]
+VIVOSSPK14_141.wav: [{'start': '15600000', 'end': '18500000'}]
+VIVOSSPK14_176.wav: [{'start': '4700000', 'end': '9000000'}]
+VIVOSSPK14_184.wav: [{'start': '2000000', 'end': '5100000'}]
+VIVOSSPK14_186.wav: [{'start': '1000000', 'end': '4700000'}]
+}
+xoa
+:{ 
+VIVOSSPK14_011.wav: [{'start': '29700000', 'end': '32700000'}, {'start': '32700000', 'end': '36300000'}]
+}
+xuoosng
+:{ 
+VIVOSSPK14_011.wav: [{'start': '36300000', 'end': '40300000'}]
+}
+voofng
+:{ 
+VIVOSSPK14_011.wav: [{'start': '40300000', 'end': '42500000'}]
+}
+nguwjc
+:{ 
+VIVOSSPK14_011.wav: [{'start': '42500000', 'end': '45500000'}]
+}
+nhuwng
+:{ 
+VIVOSSPK14_012.wav: [{'start': '7000000', 'end': '10300000'}]
+VIVOSSPK14_021.wav: [{'start': '4400000', 'end': '7800000'}]
+VIVOSSPK14_058.wav: [{'start': '2200000', 'end': '5300000'}]
+VIVOSSPK14_066.wav: [{'start': '2600000', 'end': '5800000'}]
+VIVOSSPK14_086.wav: [{'start': '4700000', 'end': '7500000'}]
+VIVOSSPK14_094.wav: [{'start': '1600000', 'end': '5300000'}]
+VIVOSSPK14_113.wav: [{'start': '3900000', 'end': '6900000'}]
+VIVOSSPK14_145.wav: [{'start': '2900000', 'end': '5800000'}]
+VIVOSSPK14_155.wav: [{'start': '4000000', 'end': '7300000'}]
+}
+bajn
+:{ 
+VIVOSSPK14_012.wav: [{'start': '10300000', 'end': '13400000'}]
+VIVOSSPK14_058.wav: [{'start': '11900000', 'end': '15300000'}]
+VIVOSSPK14_073.wav: [{'start': '1600000', 'end': '4800000'}]
+VIVOSSPK14_084.wav: [{'start': '6000000', 'end': '9300000'}]
+VIVOSSPK14_085.wav: [{'start': '32100000', 'end': '35300000'}]
+VIVOSSPK14_128.wav: [{'start': '3000000', 'end': '5600000'}]
+VIVOSSPK14_143.wav: [{'start': '4700000', 'end': '7600000'}]
+VIVOSSPK14_169.wav: [{'start': '3300000', 'end': '6200000'}]
+VIVOSSPK14_193.wav: [{'start': '10900000', 'end': '14100000'}]
+VIVOSSPK14_284.wav: [{'start': '17100000', 'end': '20300000'}]
+}
+caafn
+:{ 
+VIVOSSPK14_012.wav: [{'start': '13400000', 'end': '16600000'}]
+VIVOSSPK14_286.wav: [{'start': '5500000', 'end': '8600000'}]
+}
+bieest
+:{ 
+VIVOSSPK14_012.wav: [{'start': '16600000', 'end': '19500000'}]
+VIVOSSPK14_114.wav: [{'start': '32000000', 'end': '35000000'}]
+VIVOSSPK14_126.wav: [{'start': '7100000', 'end': '9100000'}]
+VIVOSSPK14_130.wav: [{'start': '20800000', 'end': '23800000'}]
+VIVOSSPK14_161.wav: [{'start': '13600000', 'end': '15800000'}]
+VIVOSSPK14_162.wav: [{'start': '5400000', 'end': '8700000'}]
+VIVOSSPK14_169.wav: [{'start': '28200000', 'end': '30900000'}]
+VIVOSSPK14_193.wav: [{'start': '14100000', 'end': '16500000'}]
+VIVOSSPK14_295.wav: [{'start': '11600000', 'end': '13800000'}]
+}
+casch
+:{ 
+VIVOSSPK14_012.wav: [{'start': '19500000', 'end': '22100000'}]
+VIVOSSPK14_277.wav: [{'start': '7500000', 'end': '10500000'}]
+VIVOSSPK14_283.wav: [{'start': '10100000', 'end': '13100000'}]
+}
+giari
+:{ 
+VIVOSSPK14_012.wav: [{'start': '22100000', 'end': '25400000'}]
+VIVOSSPK14_116.wav: [{'start': '9400000', 'end': '12600000'}]
+VIVOSSPK14_137.wav: [{'start': '9600000', 'end': '12500000'}]
+}
+quyeest
+:{ 
+VIVOSSPK14_012.wav: [{'start': '25400000', 'end': '28800000'}]
+VIVOSSPK14_079.wav: [{'start': '7600000', 'end': '10200000'}]
+}
+ddieefu
+:{ 
+VIVOSSPK14_012.wav: [{'start': '29500000', 'end': '32300000'}]
+VIVOSSPK14_043.wav: [{'start': '200000', 'end': '2000000'}]
+VIVOSSPK14_048.wav: [{'start': '6000000', 'end': '8800000'}]
+VIVOSSPK14_059.wav: [{'start': '16100000', 'end': '19300000'}]
+VIVOSSPK14_084.wav: [{'start': '21800000', 'end': '25300000'}]
+VIVOSSPK14_092.wav: [{'start': '8900000', 'end': '11500000'}, {'start': '24200000', 'end': '27300000'}]
+VIVOSSPK14_134.wav: [{'start': '15500000', 'end': '18200000'}]
+VIVOSSPK14_159.wav: [{'start': '11600000', 'end': '14900000'}]
+}
+tisch
+:{ 
+VIVOSSPK14_013.wav: [{'start': '7400000', 'end': '9600000'}]
+VIVOSSPK14_117.wav: [{'start': '2200000', 'end': '4400000'}]
+}
+cosp
+:{ 
+VIVOSSPK14_013.wav: [{'start': '10700000', 'end': '14700000'}]
+VIVOSSPK14_117.wav: [{'start': '4800000', 'end': '7800000'}]
+}
+voosn
+:{ 
+VIVOSSPK14_013.wav: [{'start': '14700000', 'end': '17500000'}]
+VIVOSSPK14_062.wav: [{'start': '13700000', 'end': '17000000'}]
+}
+lieesng
+:{ 
+VIVOSSPK14_013.wav: [{'start': '17500000', 'end': '21100000'}]
+}
+ra
+:{ 
+VIVOSSPK14_013.wav: [{'start': '24400000', 'end': '27400000'}]
+VIVOSSPK14_021.wav: [{'start': '14600000', 'end': '18100000'}]
+VIVOSSPK14_061.wav: [{'start': '12800000', 'end': '16400000'}]
+VIVOSSPK14_062.wav: [{'start': '29600000', 'end': '33200000'}]
+VIVOSSPK14_066.wav: [{'start': '8000000', 'end': '11700000'}]
+VIVOSSPK14_069.wav: [{'start': '12000000', 'end': '15700000'}]
+VIVOSSPK14_104.wav: [{'start': '23600000', 'end': '26000000'}]
+VIVOSSPK14_115.wav: [{'start': '11700000', 'end': '14800000'}]
+VIVOSSPK14_200.wav: [{'start': '8300000', 'end': '11600000'}]
+VIVOSSPK14_257.wav: [{'start': '40000000', 'end': '42800000'}]
+VIVOSSPK14_269.wav: [{'start': '38700000', 'end': '41300000'}]
+}
+chowj
+:{ 
+VIVOSSPK14_013.wav: [{'start': '27400000', 'end': '31600000'}]
+VIVOSSPK14_046.wav: [{'start': '27100000', 'end': '30500000'}]
+}
+ler
+:{ 
+VIVOSSPK14_013.wav: [{'start': '34300000', 'end': '38600000'}]
+}
+aasy
+:{ 
+VIVOSSPK14_014.wav: [{'start': '8700000', 'end': '11400000'}]
+VIVOSSPK14_050.wav: [{'start': '7100000', 'end': '9500000'}]
+VIVOSSPK14_153.wav: [{'start': '42800000', 'end': '46500000'}]
+}
+chuwa
+:{ 
+VIVOSSPK14_014.wav: [{'start': '14400000', 'end': '18000000'}]
+VIVOSSPK14_074.wav: [{'start': '22800000', 'end': '26200000'}]
+VIVOSSPK14_079.wav: [{'start': '13200000', 'end': '16400000'}]
+VIVOSSPK14_094.wav: [{'start': '15000000', 'end': '18100000'}]
+VIVOSSPK14_099.wav: [{'start': '8900000', 'end': '12200000'}]
+}
+ddasm
+:{ 
+VIVOSSPK14_014.wav: [{'start': '21600000', 'end': '25300000'}]
+}
+thanh
+:{ 
+VIVOSSPK14_014.wav: [{'start': '25300000', 'end': '28500000'}]
+VIVOSSPK14_101.wav: [{'start': '13600000', 'end': '16400000'}]
+VIVOSSPK14_190.wav: [{'start': '27400000', 'end': '30700000'}]
+}
+nieen
+:{ 
+VIVOSSPK14_014.wav: [{'start': '28500000', 'end': '33500000'}]
+}
+casc
+:{ 
+VIVOSSPK14_015.wav: [{'start': '7400000', 'end': '9200000'}]
+VIVOSSPK14_027.wav: [{'start': '10200000', 'end': '13500000'}]
+VIVOSSPK14_063.wav: [{'start': '7400000', 'end': '10400000'}]
+VIVOSSPK14_107.wav: [{'start': '6200000', 'end': '8900000'}]
+VIVOSSPK14_138.wav: [{'start': '17700000', 'end': '21300000'}]
+VIVOSSPK14_170.wav: [{'start': '8100000', 'end': '12500000'}]
+VIVOSSPK14_180.wav: [{'start': '36400000', 'end': '39700000'}]
+VIVOSSPK14_190.wav: [{'start': '24400000', 'end': '27400000'}]
+VIVOSSPK14_260.wav: [{'start': '10300000', 'end': '13800000'}, {'start': '39800000', 'end': '43100000'}]
+VIVOSSPK14_291.wav: [{'start': '2900000', 'end': '5300000'}]
+VIVOSSPK14_299.wav: [{'start': '3800000', 'end': '6800000'}]
+}
+tieest
+:{ 
+VIVOSSPK14_015.wav: [{'start': '9200000', 'end': '12500000'}]
+VIVOSSPK14_263.wav: [{'start': '12900000', 'end': '15900000'}]
+VIVOSSPK14_293.wav: [{'start': '10200000', 'end': '13000000'}]
+}
+mujc
+:{ 
+VIVOSSPK14_015.wav: [{'start': '12500000', 'end': '15700000'}]
+VIVOSSPK14_120.wav: [{'start': '34300000', 'end': '36700000'}]
+}
+theer
+:{ 
+VIVOSSPK14_015.wav: [{'start': '15700000', 'end': '18800000'}]
+VIVOSSPK14_039.wav: [{'start': '10500000', 'end': '13900000'}]
+VIVOSSPK14_066.wav: [{'start': '30300000', 'end': '34200000'}]
+VIVOSSPK14_079.wav: [{'start': '16400000', 'end': '19600000'}]
+VIVOSSPK14_084.wav: [{'start': '33900000', 'end': '38300000'}]
+VIVOSSPK14_085.wav: [{'start': '11100000', 'end': '14200000'}]
+VIVOSSPK14_090.wav: [{'start': '27700000', 'end': '31200000'}]
+VIVOSSPK14_097.wav: [{'start': '17500000', 'end': '20400000'}]
+VIVOSSPK14_132.wav: [{'start': '5300000', 'end': '8000000'}]
+VIVOSSPK14_133.wav: [{'start': '19500000', 'end': '22700000'}]
+VIVOSSPK14_143.wav: [{'start': '10000000', 'end': '13500000'}]
+VIVOSSPK14_150.wav: [{'start': '17400000', 'end': '20500000'}]
+VIVOSSPK14_161.wav: [{'start': '32700000', 'end': '35800000'}]
+VIVOSSPK14_169.wav: [{'start': '9200000', 'end': '12100000'}]
+VIVOSSPK14_263.wav: [{'start': '18000000', 'end': '20500000'}]
+VIVOSSPK14_265.wav: [{'start': '23600000', 'end': '26400000'}]
+VIVOSSPK14_268.wav: [{'start': '20600000', 'end': '23700000'}]
+}
+hieejn
+:{ 
+VIVOSSPK14_015.wav: [{'start': '18800000', 'end': '21300000'}]
+VIVOSSPK14_020.wav: [{'start': '6200000', 'end': '10200000'}]
+VIVOSSPK14_066.wav: [{'start': '34200000', 'end': '36900000'}]
+VIVOSSPK14_085.wav: [{'start': '14200000', 'end': '17100000'}]
+VIVOSSPK14_097.wav: [{'start': '23600000', 'end': '26200000'}]
+VIVOSSPK14_150.wav: [{'start': '20500000', 'end': '24000000'}]
+VIVOSSPK14_200.wav: [{'start': '5800000', 'end': '8300000'}]
+VIVOSSPK14_285.wav: [{'start': '24000000', 'end': '26500000'}]
+}
+suwj
+:{ 
+VIVOSSPK14_015.wav: [{'start': '21300000', 'end': '23800000'}]
+VIVOSSPK14_023.wav: [{'start': '14700000', 'end': '18100000'}]
+VIVOSSPK14_136.wav: [{'start': '17800000', 'end': '21100000'}]
+VIVOSSPK14_260.wav: [{'start': '27000000', 'end': '30100000'}]
+VIVOSSPK14_265.wav: [{'start': '2700000', 'end': '6400000'}]
+}
+dda
+:{ 
+VIVOSSPK14_015.wav: [{'start': '23800000', 'end': '26800000'}]
+VIVOSSPK14_110.wav: [{'start': '28400000', 'end': '30600000'}]
+}
+dajng
+:{ 
+VIVOSSPK14_015.wav: [{'start': '26800000', 'end': '31000000'}]
+}
+vaf
+:{ 
+VIVOSSPK14_015.wav: [{'start': '31000000', 'end': '33500000'}]
+VIVOSSPK14_033.wav: [{'start': '31800000', 'end': '34700000'}]
+VIVOSSPK14_034.wav: [{'start': '1400000', 'end': '4600000'}]
+VIVOSSPK14_059.wav: [{'start': '3200000', 'end': '6100000'}]
+VIVOSSPK14_074.wav: [{'start': '12400000', 'end': '15900000'}]
+VIVOSSPK14_077.wav: [{'start': '17900000', 'end': '20600000'}]
+VIVOSSPK14_087.wav: [{'start': '16500000', 'end': '18700000'}]
+VIVOSSPK14_100.wav: [{'start': '22900000', 'end': '25500000'}]
+VIVOSSPK14_101.wav: [{'start': '19900000', 'end': '23000000'}]
+VIVOSSPK14_111.wav: [{'start': '4300000', 'end': '7000000'}]
+VIVOSSPK14_121.wav: [{'start': '4000000', 'end': '6100000'}]
+VIVOSSPK14_140.wav: [{'start': '17900000', 'end': '20800000'}]
+VIVOSSPK14_145.wav: [{'start': '21100000', 'end': '23600000'}]
+VIVOSSPK14_151.wav: [{'start': '2700000', 'end': '5000000'}]
+VIVOSSPK14_161.wav: [{'start': '3800000', 'end': '6700000'}]
+VIVOSSPK14_172.wav: [{'start': '4300000', 'end': '7600000'}]
+VIVOSSPK14_181.wav: [{'start': '22300000', 'end': '24600000'}]
+VIVOSSPK14_187.wav: [{'start': '3400000', 'end': '5700000'}]
+VIVOSSPK14_261.wav: [{'start': '33300000', 'end': '35900000'}]
+VIVOSSPK14_268.wav: [{'start': '6500000', 'end': '9300000'}]
+VIVOSSPK14_286.wav: [{'start': '27700000', 'end': '30000000'}]
+VIVOSSPK14_292.wav: [{'start': '18100000', 'end': '20500000'}]
+}
+ddoojc
+:{ 
+VIVOSSPK14_015.wav: [{'start': '33500000', 'end': '36200000'}]
+}
+ddaso
+:{ 
+VIVOSSPK14_015.wav: [{'start': '36200000', 'end': '41600000'}]
+}
+xarm
+:{ 
+VIVOSSPK14_016.wav: [{'start': '6700000', 'end': '12600000'}]
+}
+xif
+:{ 
+VIVOSSPK14_016.wav: [{'start': '12600000', 'end': '18500000'}]
+}
+dojc
+:{ 
+VIVOSSPK14_017.wav: [{'start': '8900000', 'end': '12600000'}]
+VIVOSSPK14_288.wav: [{'start': '9200000', 'end': '12200000'}]
+}
+phoos
+:{ 
+VIVOSSPK14_017.wav: [{'start': '12600000', 'end': '15500000'}]
+VIVOSSPK14_254.wav: [{'start': '13400000', 'end': '16700000'}]
+VIVOSSPK14_255.wav: [{'start': '6400000', 'end': '9100000'}]
+VIVOSSPK14_259.wav: [{'start': '32700000', 'end': '35600000'}]
+VIVOSSPK14_264.wav: [{'start': '13600000', 'end': '18400000'}]
+VIVOSSPK14_276.wav: [{'start': '7100000', 'end': '10500000'}]
+}
+ddoajn
+:{ 
+VIVOSSPK14_017.wav: [{'start': '15500000', 'end': '17900000'}]
+VIVOSSPK14_296.wav: [{'start': '14300000', 'end': '17200000'}]
+}
+coorng
+:{ 
+VIVOSSPK14_017.wav: [{'start': '21300000', 'end': '24900000'}]
+VIVOSSPK14_256.wav: [{'start': '5400000', 'end': '8300000'}]
+}
+truwowfng
+:{ 
+VIVOSSPK14_017.wav: [{'start': '24900000', 'end': '28600000'}]
+VIVOSSPK14_029.wav: [{'start': '8000000', 'end': '11100000'}]
+VIVOSSPK14_158.wav: [{'start': '29300000', 'end': '32600000'}]
+VIVOSSPK14_281.wav: [{'start': '7300000', 'end': '10800000'}]
+VIVOSSPK14_296.wav: [{'start': '20200000', 'end': '23200000'}]
+}
+quay
+:{ 
+VIVOSSPK14_017.wav: [{'start': '28600000', 'end': '32600000'}]
+}
+cuoosi
+:{ 
+VIVOSSPK14_017.wav: [{'start': '36200000', 'end': '39500000'}]
+VIVOSSPK14_070.wav: [{'start': '10500000', 'end': '13800000'}]
+VIVOSSPK14_131.wav: [{'start': '23800000', 'end': '26300000'}]
+}
+quasn
+:{ 
+VIVOSSPK14_017.wav: [{'start': '39500000', 'end': '43700000'}]
+}
+bia
+:{ 
+VIVOSSPK14_017.wav: [{'start': '43700000', 'end': '47200000'}]
+}
+nhuw
+:{ 
+VIVOSSPK14_018.wav: [{'start': '7700000', 'end': '10900000'}]
+VIVOSSPK14_063.wav: [{'start': '24600000', 'end': '28100000'}]
+VIVOSSPK14_120.wav: [{'start': '5500000', 'end': '8700000'}]
+VIVOSSPK14_126.wav: [{'start': '16000000', 'end': '19000000'}]
+VIVOSSPK14_141.wav: [{'start': '9800000', 'end': '12500000'}]
+VIVOSSPK14_145.wav: [{'start': '30300000', 'end': '33200000'}]
+VIVOSSPK14_173.wav: [{'start': '14800000', 'end': '17100000'}]
+VIVOSSPK14_182.wav: [{'start': '5300000', 'end': '8500000'}]
+VIVOSSPK14_195.wav: [{'start': '18500000', 'end': '22000000'}]
+VIVOSSPK14_199.wav: [{'start': '23700000', 'end': '26500000'}]
+VIVOSSPK14_282.wav: [{'start': '19100000', 'end': '21500000'}]
+}
+doanh
+:{ 
+VIVOSSPK14_018.wav: [{'start': '10900000', 'end': '13600000'}]
+VIVOSSPK14_107.wav: [{'start': '8900000', 'end': '12000000'}]
+VIVOSSPK14_131.wav: [{'start': '12100000', 'end': '14800000'}]
+VIVOSSPK14_260.wav: [{'start': '43100000', 'end': '46500000'}]
+}
+nghieejp
+:{ 
+VIVOSSPK14_018.wav: [{'start': '13600000', 'end': '17500000'}]
+VIVOSSPK14_089.wav: [{'start': '19400000', 'end': '22500000'}]
+VIVOSSPK14_107.wav: [{'start': '12000000', 'end': '15200000'}]
+VIVOSSPK14_260.wav: [{'start': '46500000', 'end': '49900000'}]
+}
+sau
+:{ 
+VIVOSSPK14_018.wav: [{'start': '17500000', 'end': '20900000'}]
+VIVOSSPK14_155.wav: [{'start': '31000000', 'end': '34500000'}]
+VIVOSSPK14_181.wav: [{'start': '11000000', 'end': '15000000'}]
+VIVOSSPK14_184.wav: [{'start': '5100000', 'end': '8400000'}]
+VIVOSSPK14_272.wav: [{'start': '3400000', 'end': '7200000'}]
+}
+coor
+:{ 
+VIVOSSPK14_018.wav: [{'start': '20900000', 'end': '23700000'}]
+VIVOSSPK14_076.wav: [{'start': '9200000', 'end': '12400000'}]
+VIVOSSPK14_191.wav: [{'start': '25300000', 'end': '28200000'}]
+}
+phaafn
+:{ 
+VIVOSSPK14_018.wav: [{'start': '23700000', 'end': '27400000'}]
+VIVOSSPK14_085.wav: [{'start': '17100000', 'end': '19800000'}]
+VIVOSSPK14_108.wav: [{'start': '19700000', 'end': '23000000'}]
+VIVOSSPK14_119.wav: [{'start': '17500000', 'end': '20700000'}]
+VIVOSSPK14_189.wav: [{'start': '26900000', 'end': '30500000'}, {'start': '36000000', 'end': '39800000'}]
+VIVOSSPK14_190.wav: [{'start': '6300000', 'end': '8900000'}]
+VIVOSSPK14_191.wav: [{'start': '19000000', 'end': '22500000'}]
+VIVOSSPK14_260.wav: [{'start': '4400000', 'end': '7000000'}]
+}
+hosa
+:{ 
+VIVOSSPK14_018.wav: [{'start': '27400000', 'end': '31800000'}]
+}
+vowsi
+:{ 
+VIVOSSPK14_019.wav: [{'start': '7900000', 'end': '10800000'}]
+VIVOSSPK14_072.wav: [{'start': '3800000', 'end': '7600000'}]
+VIVOSSPK14_080.wav: [{'start': '25900000', 'end': '29200000'}]
+VIVOSSPK14_086.wav: [{'start': '13700000', 'end': '16500000'}]
+VIVOSSPK14_116.wav: [{'start': '15900000', 'end': '17600000'}]
+VIVOSSPK14_133.wav: [{'start': '31900000', 'end': '34300000'}]
+VIVOSSPK14_280.wav: [{'start': '15200000', 'end': '17800000'}]
+VIVOSSPK14_292.wav: [{'start': '3300000', 'end': '5200000'}]
+}
+ddaji
+:{ 
+VIVOSSPK14_019.wav: [{'start': '10800000', 'end': '13500000'}]
+VIVOSSPK14_191.wav: [{'start': '28200000', 'end': '31500000'}]
+}
+quaan
+:{ 
+VIVOSSPK14_019.wav: [{'start': '13500000', 'end': '17200000'}]
+VIVOSSPK14_069.wav: [{'start': '2600000', 'end': '5800000'}]
+VIVOSSPK14_194.wav: [{'start': '9000000', 'end': '12600000'}]
+}
+an
+:{ 
+VIVOSSPK14_019.wav: [{'start': '21400000', 'end': '23900000'}]
+VIVOSSPK14_082.wav: [{'start': '11100000', 'end': '13300000'}]
+VIVOSSPK14_127.wav: [{'start': '9000000', 'end': '11200000'}]
+VIVOSSPK14_156.wav: [{'start': '40200000', 'end': '44100000'}]
+VIVOSSPK14_180.wav: [{'start': '11800000', 'end': '14600000'}]
+VIVOSSPK14_289.wav: [{'start': '20300000', 'end': '22500000'}]
+}
+loojc
+:{ 
+VIVOSSPK14_019.wav: [{'start': '23900000', 'end': '26400000'}]
+}
+sown
+:{ 
+VIVOSSPK14_019.wav: [{'start': '26400000', 'end': '31200000'}]
+VIVOSSPK14_082.wav: [{'start': '13300000', 'end': '18200000'}]
+VIVOSSPK14_158.wav: [{'start': '32600000', 'end': '36200000'}]
+VIVOSSPK14_257.wav: [{'start': '42800000', 'end': '47600000'}]
+}
+taji
+:{ 
+VIVOSSPK14_020.wav: [{'start': '13600000', 'end': '17300000'}]
+VIVOSSPK14_110.wav: [{'start': '19700000', 'end': '22200000'}]
+VIVOSSPK14_261.wav: [{'start': '12600000', 'end': '15300000'}]
+}
+em
+:{ 
+VIVOSSPK14_021.wav: [{'start': '7800000', 'end': '11800000'}]
+VIVOSSPK14_104.wav: [{'start': '8600000', 'end': '11900000'}]
+}
+ddax
+:{ 
+VIVOSSPK14_021.wav: [{'start': '11800000', 'end': '14600000'}]
+VIVOSSPK14_022.wav: [{'start': '24300000', 'end': '26200000'}]
+VIVOSSPK14_024.wav: [{'start': '14400000', 'end': '15000000'}]
+VIVOSSPK14_041.wav: [{'start': '6200000', 'end': '8600000'}]
+VIVOSSPK14_045.wav: [{'start': '12000000', 'end': '14400000'}]
+VIVOSSPK14_046.wav: [{'start': '1400000', 'end': '4400000'}]
+VIVOSSPK14_058.wav: [{'start': '19000000', 'end': '22400000'}]
+VIVOSSPK14_062.wav: [{'start': '23900000', 'end': '26400000'}]
+VIVOSSPK14_116.wav: [{'start': '7100000', 'end': '9400000'}]
+VIVOSSPK14_130.wav: [{'start': '33900000', 'end': '36300000'}]
+VIVOSSPK14_154.wav: [{'start': '12700000', 'end': '15000000'}]
+VIVOSSPK14_258.wav: [{'start': '20200000', 'end': '22900000'}]
+VIVOSSPK14_259.wav: [{'start': '35600000', 'end': '38400000'}]
+VIVOSSPK14_266.wav: [{'start': '13800000', 'end': '16300000'}]
+VIVOSSPK14_267.wav: [{'start': '23500000', 'end': '25600000'}]
+VIVOSSPK14_270.wav: [{'start': '9400000', 'end': '11700000'}]
+VIVOSSPK14_288.wav: [{'start': '17700000', 'end': '20000000'}]
+}
+ddi
+:{ 
+VIVOSSPK14_021.wav: [{'start': '18100000', 'end': '21900000'}]
+VIVOSSPK14_035.wav: [{'start': '7800000', 'end': '12300000'}]
+VIVOSSPK14_046.wav: [{'start': '24400000', 'end': '27100000'}]
+VIVOSSPK14_048.wav: [{'start': '34300000', 'end': '38000000'}]
+VIVOSSPK14_110.wav: [{'start': '12000000', 'end': '14300000'}]
+VIVOSSPK14_132.wav: [{'start': '32500000', 'end': '34600000'}]
+VIVOSSPK14_252.wav: [{'start': '20200000', 'end': '22900000'}]
+}
+maxi
+:{ 
+VIVOSSPK14_021.wav: [{'start': '21900000', 'end': '25400000'}, {'start': '25400000', 'end': '28700000'}]
+}
+trong
+:{ 
+VIVOSSPK14_021.wav: [{'start': '28700000', 'end': '32100000'}]
+VIVOSSPK14_035.wav: [{'start': '500000', 'end': '4200000'}]
+VIVOSSPK14_070.wav: [{'start': '1100000', 'end': '3800000'}]
+VIVOSSPK14_092.wav: [{'start': '14800000', 'end': '17300000'}]
+VIVOSSPK14_115.wav: [{'start': '14800000', 'end': '17800000'}]
+VIVOSSPK14_122.wav: [{'start': '4000000', 'end': '6400000'}]
+VIVOSSPK14_170.wav: [{'start': '25600000', 'end': '28300000'}]
+VIVOSSPK14_176.wav: [{'start': '22700000', 'end': '25600000'}]
+VIVOSSPK14_258.wav: [{'start': '5100000', 'end': '8100000'}]
+VIVOSSPK14_259.wav: [{'start': '26500000', 'end': '29300000'}]
+VIVOSSPK14_265.wav: [{'start': '12700000', 'end': '16000000'}]
+}
+tai
+:{ 
+VIVOSSPK14_021.wav: [{'start': '35300000', 'end': '37900000'}]
+VIVOSSPK14_031.wav: [{'start': '7700000', 'end': '10800000'}]
+}
+najn
+:{ 
+VIVOSSPK14_021.wav: [{'start': '37900000', 'end': '40900000'}]
+VIVOSSPK14_262.wav: [{'start': '28900000', 'end': '31700000'}]
+}
+giao
+:{ 
+VIVOSSPK14_021.wav: [{'start': '40900000', 'end': '43700000'}]
+VIVOSSPK14_289.wav: [{'start': '25100000', 'end': '27800000'}]
+}
+tifnh
+:{ 
+VIVOSSPK14_022.wav: [{'start': '10300000', 'end': '13700000'}]
+VIVOSSPK14_025.wav: [{'start': '17500000', 'end': '20100000'}]
+VIVOSSPK14_135.wav: [{'start': '10000000', 'end': '13000000'}]
+VIVOSSPK14_145.wav: [{'start': '5800000', 'end': '9300000'}]
+}
+huoosng
+:{ 
+VIVOSSPK14_022.wav: [{'start': '13700000', 'end': '17600000'}]
+}
+trojng
+:{ 
+VIVOSSPK14_022.wav: [{'start': '17600000', 'end': '20400000'}]
+VIVOSSPK14_043.wav: [{'start': '5100000', 'end': '8100000'}]
+VIVOSSPK14_083.wav: [{'start': '14400000', 'end': '17900000'}]
+VIVOSSPK14_138.wav: [{'start': '30500000', 'end': '32900000'}]
+VIVOSSPK14_162.wav: [{'start': '17500000', 'end': '20700000'}]
+VIVOSSPK14_193.wav: [{'start': '19500000', 'end': '22700000'}]
+VIVOSSPK14_273.wav: [{'start': '5500000', 'end': '8300000'}]
+}
+tafi
+:{ 
+VIVOSSPK14_022.wav: [{'start': '20400000', 'end': '24300000'}]
+VIVOSSPK14_273.wav: [{'start': '8300000', 'end': '11400000'}]
+}
+sai
+:{ 
+VIVOSSPK14_022.wav: [{'start': '26200000', 'end': '31300000'}]
+VIVOSSPK14_052.wav: [{'start': '3000000', 'end': '6900000'}]
+VIVOSSPK14_153.wav: [{'start': '2600000', 'end': '6500000'}]
+VIVOSSPK14_263.wav: [{'start': '20500000', 'end': '24800000'}]
+}
+dduwfng
+:{ 
+VIVOSSPK14_023.wav: [{'start': '6700000', 'end': '8600000'}]
+}
+nghix
+:{ 
+VIVOSSPK14_023.wav: [{'start': '8600000', 'end': '12100000'}, {'start': '35100000', 'end': '39400000'}]
+VIVOSSPK14_043.wav: [{'start': '11000000', 'end': '14000000'}]
+VIVOSSPK14_072.wav: [{'start': '10200000', 'end': '13400000'}]
+VIVOSSPK14_141.wav: [{'start': '6500000', 'end': '9800000'}]
+VIVOSSPK14_267.wav: [{'start': '20900000', 'end': '23500000'}]
+}
+hofa
+:{ 
+VIVOSSPK14_023.wav: [{'start': '18100000', 'end': '21000000'}]
+VIVOSSPK14_100.wav: [{'start': '37800000', 'end': '40100000'}]
+VIVOSSPK14_136.wav: [{'start': '21100000', 'end': '23500000'}]
+}
+howjp
+:{ 
+VIVOSSPK14_023.wav: [{'start': '21000000', 'end': '24600000'}]
+VIVOSSPK14_088.wav: [{'start': '27100000', 'end': '30900000'}]
+}
+quas
+:{ 
+VIVOSSPK14_023.wav: [{'start': '24600000', 'end': '26500000'}]
+VIVOSSPK14_051.wav: [{'start': '20300000', 'end': '25000000'}]
+VIVOSSPK14_058.wav: [{'start': '22400000', 'end': '26500000'}]
+VIVOSSPK14_160.wav: [{'start': '15100000', 'end': '17800000'}]
+VIVOSSPK14_252.wav: [{'start': '16900000', 'end': '20200000'}]
+}
+muwsc
+:{ 
+VIVOSSPK14_023.wav: [{'start': '26500000', 'end': '30100000'}]
+}
+vif
+:{ 
+VIVOSSPK14_023.wav: [{'start': '30100000', 'end': '32400000'}]
+VIVOSSPK14_045.wav: [{'start': '24600000', 'end': '26800000'}]
+VIVOSSPK14_165.wav: [{'start': '23400000', 'end': '26800000'}]
+VIVOSSPK14_263.wav: [{'start': '24800000', 'end': '27200000'}]
+}
+suy
+:{ 
+VIVOSSPK14_023.wav: [{'start': '32400000', 'end': '35100000'}]
+VIVOSSPK14_267.wav: [{'start': '17700000', 'end': '20900000'}]
+}
+nafy
+:{ 
+VIVOSSPK14_023.wav: [{'start': '39400000', 'end': '42800000'}]
+VIVOSSPK14_033.wav: [{'start': '41400000', 'end': '44500000'}]
+VIVOSSPK14_078.wav: [{'start': '8700000', 'end': '11900000'}]
+VIVOSSPK14_079.wav: [{'start': '10200000', 'end': '13200000'}]
+VIVOSSPK14_083.wav: [{'start': '7900000', 'end': '11200000'}]
+VIVOSSPK14_097.wav: [{'start': '9200000', 'end': '12200000'}]
+VIVOSSPK14_115.wav: [{'start': '23200000', 'end': '27200000'}]
+VIVOSSPK14_120.wav: [{'start': '19300000', 'end': '22800000'}]
+VIVOSSPK14_121.wav: [{'start': '17700000', 'end': '22000000'}]
+VIVOSSPK14_128.wav: [{'start': '30300000', 'end': '34300000'}]
+VIVOSSPK14_134.wav: [{'start': '18200000', 'end': '21600000'}]
+VIVOSSPK14_138.wav: [{'start': '32900000', 'end': '36800000'}]
+VIVOSSPK14_155.wav: [{'start': '40700000', 'end': '44800000'}]
+VIVOSSPK14_174.wav: [{'start': '32100000', 'end': '34800000'}]
+VIVOSSPK14_260.wav: [{'start': '18500000', 'end': '21800000'}]
+VIVOSSPK14_268.wav: [{'start': '12400000', 'end': '15300000'}]
+VIVOSSPK14_274.wav: [{'start': '8000000', 'end': '11200000'}]
+VIVOSSPK14_295.wav: [{'start': '38700000', 'end': '42800000'}]
+}
+raast
+:{ 
+VIVOSSPK14_023.wav: [{'start': '42800000', 'end': '45800000'}]
+VIVOSSPK14_037.wav: [{'start': '14400000', 'end': '17600000'}]
+VIVOSSPK14_077.wav: [{'start': '4800000', 'end': '8200000'}]
+VIVOSSPK14_111.wav: [{'start': '7000000', 'end': '9400000'}]
+VIVOSSPK14_133.wav: [{'start': '6200000', 'end': '9100000'}]
+VIVOSSPK14_171.wav: [{'start': '10400000', 'end': '13400000'}]
+}
+vieexn
+:{ 
+VIVOSSPK14_023.wav: [{'start': '45800000', 'end': '49200000'}]
+VIVOSSPK14_080.wav: [{'start': '34800000', 'end': '38500000'}]
+}
+voong
+:{ 
+VIVOSSPK14_023.wav: [{'start': '49200000', 'end': '53000000'}]
+}
+con
+:{ 
+VIVOSSPK14_024.wav: [{'start': '7900000', 'end': '10400000'}]
+VIVOSSPK14_051.wav: [{'start': '6700000', 'end': '10800000'}]
+VIVOSSPK14_095.wav: [{'start': '14800000', 'end': '18400000'}]
+VIVOSSPK14_106.wav: [{'start': '9500000', 'end': '13200000'}]
+VIVOSSPK14_142.wav: [{'start': '18300000', 'end': '21100000'}]
+VIVOSSPK14_153.wav: [{'start': '27700000', 'end': '31000000'}]
+VIVOSSPK14_178.wav: [{'start': '3600000', 'end': '7400000'}]
+VIVOSSPK14_195.wav: [{'start': '6300000', 'end': '9500000'}]
+VIVOSSPK14_261.wav: [{'start': '7300000', 'end': '9600000'}, {'start': '27200000', 'end': '30100000'}]
+}
+saau
+:{ 
+VIVOSSPK14_024.wav: [{'start': '10400000', 'end': '14400000'}]
+VIVOSSPK14_162.wav: [{'start': '33600000', 'end': '39000000'}]
+}
+lafm
+:{ 
+VIVOSSPK14_024.wav: [{'start': '15000000', 'end': '17400000'}]
+VIVOSSPK14_028.wav: [{'start': '22800000', 'end': '24200000'}]
+VIVOSSPK14_048.wav: [{'start': '12000000', 'end': '14800000'}]
+VIVOSSPK14_059.wav: [{'start': '22500000', 'end': '26200000'}]
+VIVOSSPK14_070.wav: [{'start': '20700000', 'end': '24900000'}]
+VIVOSSPK14_075.wav: [{'start': '16200000', 'end': '19200000'}]
+VIVOSSPK14_089.wav: [{'start': '10300000', 'end': '12900000'}]
+VIVOSSPK14_128.wav: [{'start': '15300000', 'end': '18300000'}]
+VIVOSSPK14_140.wav: [{'start': '20800000', 'end': '23600000'}]
+VIVOSSPK14_179.wav: [{'start': '15200000', 'end': '18100000'}]
+VIVOSSPK14_253.wav: [{'start': '18700000', 'end': '22200000'}]
+VIVOSSPK14_278.wav: [{'start': '14200000', 'end': '16500000'}]
+VIVOSSPK14_297.wav: [{'start': '13600000', 'end': '16400000'}]
+}
+raafu
+:{ 
+VIVOSSPK14_024.wav: [{'start': '17400000', 'end': '20700000'}]
+}
+noofi
+:{ 
+VIVOSSPK14_024.wav: [{'start': '20700000', 'end': '23900000'}]
+}
+canh
+:{ 
+VIVOSSPK14_024.wav: [{'start': '23900000', 'end': '27400000'}]
+}
+khieesn
+:{ 
+VIVOSSPK14_024.wav: [{'start': '27400000', 'end': '30700000'}]
+VIVOSSPK14_062.wav: [{'start': '3400000', 'end': '7100000'}]
+VIVOSSPK14_183.wav: [{'start': '2600000', 'end': '7400000'}]
+}
+chusng
+:{ 
+VIVOSSPK14_024.wav: [{'start': '30700000', 'end': '33700000'}]
+VIVOSSPK14_050.wav: [{'start': '22800000', 'end': '26000000'}]
+VIVOSSPK14_134.wav: [{'start': '7300000', 'end': '10500000'}]
+VIVOSSPK14_190.wav: [{'start': '14000000', 'end': '17600000'}]
+VIVOSSPK14_269.wav: [{'start': '3900000', 'end': '6700000'}]
+}
+lo
+:{ 
+VIVOSSPK14_024.wav: [{'start': '36600000', 'end': '39500000'}]
+VIVOSSPK14_038.wav: [{'start': '21000000', 'end': '23800000'}]
+}
+ngaji
+:{ 
+VIVOSSPK14_024.wav: [{'start': '39500000', 'end': '43100000'}]
+VIVOSSPK14_038.wav: [{'start': '23800000', 'end': '27600000'}]
+}
+quen
+:{ 
+VIVOSSPK14_025.wav: [{'start': '7000000', 'end': '10300000'}]
+}
+bieern
+:{ 
+VIVOSSPK14_025.wav: [{'start': '10300000', 'end': '14000000'}]
+VIVOSSPK14_103.wav: [{'start': '17700000', 'end': '20900000'}]
+}
+thaajt
+:{ 
+VIVOSSPK14_025.wav: [{'start': '14000000', 'end': '16900000'}]
+VIVOSSPK14_066.wav: [{'start': '5800000', 'end': '8000000'}]
+}
+cowf
+:{ 
+VIVOSSPK14_025.wav: [{'start': '20100000', 'end': '24300000'}]
+}
+vowfn
+:{ 
+VIVOSSPK14_026.wav: [{'start': '5100000', 'end': '8800000'}]
+}
+ddooi
+:{ 
+VIVOSSPK14_026.wav: [{'start': '11800000', 'end': '14200000'}]
+}
+mawst
+:{ 
+VIVOSSPK14_026.wav: [{'start': '14200000', 'end': '17100000'}]
+VIVOSSPK14_086.wav: [{'start': '35200000', 'end': '38600000'}]
+VIVOSSPK14_129.wav: [{'start': '8000000', 'end': '10900000'}]
+VIVOSSPK14_134.wav: [{'start': '37300000', 'end': '40200000'}]
+}
+cojp
+:{ 
+VIVOSSPK14_026.wav: [{'start': '17100000', 'end': '21300000'}]
+}
+voo
+:{ 
+VIVOSSPK14_026.wav: [{'start': '21300000', 'end': '23700000'}]
+VIVOSSPK14_033.wav: [{'start': '6600000', 'end': '9700000'}]
+}
+hoofn
+:{ 
+VIVOSSPK14_026.wav: [{'start': '23700000', 'end': '27300000'}]
+VIVOSSPK14_176.wav: [{'start': '12200000', 'end': '15300000'}]
+}
+trofn
+:{ 
+VIVOSSPK14_026.wav: [{'start': '27300000', 'end': '30200000'}]
+}
+xoe
+:{ 
+VIVOSSPK14_026.wav: [{'start': '30200000', 'end': '34900000'}]
+}
+cho
+:{ 
+VIVOSSPK14_027.wav: [{'start': '3500000', 'end': '6800000'}]
+VIVOSSPK14_028.wav: [{'start': '24200000', 'end': '26700000'}]
+VIVOSSPK14_045.wav: [{'start': '9000000', 'end': '12000000'}]
+VIVOSSPK14_077.wav: [{'start': '11600000', 'end': '14100000'}]
+VIVOSSPK14_095.wav: [{'start': '24800000', 'end': '28800000'}]
+VIVOSSPK14_114.wav: [{'start': '29000000', 'end': '32000000'}]
+VIVOSSPK14_123.wav: [{'start': '30500000', 'end': '33000000'}]
+VIVOSSPK14_130.wav: [{'start': '18200000', 'end': '20800000'}]
+VIVOSSPK14_132.wav: [{'start': '13700000', 'end': '16600000'}]
+VIVOSSPK14_169.wav: [{'start': '17900000', 'end': '20800000'}]
+VIVOSSPK14_174.wav: [{'start': '34800000', 'end': '38800000'}]
+VIVOSSPK14_182.wav: [{'start': '8500000', 'end': '11800000'}]
+VIVOSSPK14_265.wav: [{'start': '45100000', 'end': '49200000'}]
+VIVOSSPK14_294.wav: [{'start': '40400000', 'end': '43500000'}]
+VIVOSSPK14_295.wav: [{'start': '9200000', 'end': '11600000'}]
+VIVOSSPK14_298.wav: [{'start': '9000000', 'end': '11300000'}]
+}
+phesp
+:{ 
+VIVOSSPK14_027.wav: [{'start': '6800000', 'end': '10200000'}]
+VIVOSSPK14_081.wav: [{'start': '10100000', 'end': '13800000'}]
+}
+vaajn
+:{ 
+VIVOSSPK14_027.wav: [{'start': '13500000', 'end': '15400000'}]
+VIVOSSPK14_180.wav: [{'start': '46200000', 'end': '49300000'}]
+VIVOSSPK14_258.wav: [{'start': '26200000', 'end': '28400000'}]
+}
+ddoojng
+:{ 
+VIVOSSPK14_027.wav: [{'start': '15600000', 'end': '18800000'}]
+VIVOSSPK14_100.wav: [{'start': '11000000', 'end': '14600000'}]
+VIVOSSPK14_151.wav: [{'start': '25500000', 'end': '29500000'}]
+VIVOSSPK14_260.wav: [{'start': '15700000', 'end': '18500000'}]
+VIVOSSPK14_261.wav: [{'start': '35900000', 'end': '38700000'}]
+VIVOSSPK14_265.wav: [{'start': '52100000', 'end': '54700000'}]
+}
+vieen
+:{ 
+VIVOSSPK14_027.wav: [{'start': '18800000', 'end': '22600000'}]
+VIVOSSPK14_170.wav: [{'start': '22100000', 'end': '25600000'}]
+VIVOSSPK14_256.wav: [{'start': '26500000', 'end': '30400000'}]
+VIVOSSPK14_278.wav: [{'start': '20000000', 'end': '23100000'}]
+VIVOSSPK14_284.wav: [{'start': '37800000', 'end': '41600000'}]
+}
+ddieefn
+:{ 
+VIVOSSPK14_027.wav: [{'start': '22600000', 'end': '25600000'}]
+}
+kieerm
+:{ 
+VIVOSSPK14_027.wav: [{'start': '28700000', 'end': '31300000'}]
+VIVOSSPK14_285.wav: [{'start': '3800000', 'end': '6600000'}]
+}
+soast
+:{ 
+VIVOSSPK14_027.wav: [{'start': '31300000', 'end': '34700000'}]
+}
+chawjt
+:{ 
+VIVOSSPK14_027.wav: [{'start': '34700000', 'end': '37900000'}]
+}
+chex
+:{ 
+VIVOSSPK14_027.wav: [{'start': '37900000', 'end': '41000000'}]
+}
+thaan
+:{ 
+VIVOSSPK14_027.wav: [{'start': '41000000', 'end': '45200000'}]
+VIVOSSPK14_193.wav: [{'start': '25700000', 'end': '28900000'}]
+}
+nhieejt
+:{ 
+VIVOSSPK14_027.wav: [{'start': '45200000', 'end': '47900000'}]
+VIVOSSPK14_177.wav: [{'start': '29800000', 'end': '34200000'}]
+}
+saan
+:{ 
+VIVOSSPK14_028.wav: [{'start': '3900000', 'end': '8200000'}]
+VIVOSSPK14_160.wav: [{'start': '7100000', 'end': '10900000'}]
+VIVOSSPK14_291.wav: [{'start': '24800000', 'end': '27900000'}]
+}
+cur
+:{ 
+VIVOSSPK14_028.wav: [{'start': '8200000', 'end': '10800000'}]
+}
+chi
+:{ 
+VIVOSSPK14_028.wav: [{'start': '10800000', 'end': '14400000'}]
+VIVOSSPK14_104.wav: [{'start': '5800000', 'end': '8600000'}]
+VIVOSSPK14_170.wav: [{'start': '12500000', 'end': '15400000'}]
+VIVOSSPK14_187.wav: [{'start': '5700000', 'end': '8700000'}]
+VIVOSSPK14_295.wav: [{'start': '33000000', 'end': '36100000'}]
+}
+nowi
+:{ 
+VIVOSSPK14_028.wav: [{'start': '17200000', 'end': '20600000'}]
+VIVOSSPK14_161.wav: [{'start': '26600000', 'end': '30200000'}]
+}
+tuwfng
+:{ 
+VIVOSSPK14_028.wav: [{'start': '20600000', 'end': '22800000'}]
+}
+nhieefu
+:{ 
+VIVOSSPK14_028.wav: [{'start': '26700000', 'end': '30200000'}]
+VIVOSSPK14_038.wav: [{'start': '17300000', 'end': '21000000'}]
+VIVOSSPK14_052.wav: [{'start': '12500000', 'end': '16400000'}]
+VIVOSSPK14_102.wav: [{'start': '22600000', 'end': '26200000'}]
+VIVOSSPK14_130.wav: [{'start': '23800000', 'end': '28000000'}]
+VIVOSSPK14_251.wav: [{'start': '26900000', 'end': '32000000'}]
+VIVOSSPK14_252.wav: [{'start': '14000000', 'end': '16900000'}]
+VIVOSSPK14_254.wav: [{'start': '7200000', 'end': '10300000'}]
+VIVOSSPK14_257.wav: [{'start': '12900000', 'end': '17300000'}]
+VIVOSSPK14_259.wav: [{'start': '5900000', 'end': '8700000'}]
+VIVOSSPK14_283.wav: [{'start': '6400000', 'end': '10100000'}]
+VIVOSSPK14_284.wav: [{'start': '14700000', 'end': '17100000'}]
+VIVOSSPK14_296.wav: [{'start': '23200000', 'end': '25800000'}]
+}
+ddooji
+:{ 
+VIVOSSPK14_028.wav: [{'start': '30200000', 'end': '33100000'}]
+}
+khasch
+:{ 
+VIVOSSPK14_028.wav: [{'start': '33100000', 'end': '36500000'}]
+VIVOSSPK14_285.wav: [{'start': '11700000', 'end': '14600000'}]
+VIVOSSPK14_299.wav: [{'start': '28400000', 'end': '30800000'}]
+VIVOSSPK14_300.wav: [{'start': '3400000', 'end': '6500000'}]
+}
+khosc
+:{ 
+VIVOSSPK14_028.wav: [{'start': '36500000', 'end': '39900000'}]
+}
+dowr
+:{ 
+VIVOSSPK14_028.wav: [{'start': '39900000', 'end': '44200000'}, {'start': '47500000', 'end': '52200000'}]
+}
+meesu
+:{ 
+VIVOSSPK14_028.wav: [{'start': '44200000', 'end': '47500000'}]
+}
+thij
+:{ 
+VIVOSSPK14_029.wav: [{'start': '4900000', 'end': '8000000'}]
+VIVOSSPK14_064.wav: [{'start': '10900000', 'end': '13900000'}]
+VIVOSSPK14_259.wav: [{'start': '23100000', 'end': '26500000'}]
+VIVOSSPK14_263.wav: [{'start': '29800000', 'end': '33600000'}]
+VIVOSSPK14_296.wav: [{'start': '17200000', 'end': '20200000'}]
+}
+xe
+:{ 
+VIVOSSPK14_029.wav: [{'start': '11100000', 'end': '14400000'}]
+VIVOSSPK14_132.wav: [{'start': '34600000', 'end': '37300000'}]
+VIVOSSPK14_285.wav: [{'start': '9100000', 'end': '11700000'}]
+}
+gawsn
+:{ 
+VIVOSSPK14_029.wav: [{'start': '14400000', 'end': '17400000'}]
+}
+masy
+:{ 
+VIVOSSPK14_029.wav: [{'start': '17400000', 'end': '20200000'}]
+VIVOSSPK14_090.wav: [{'start': '15100000', 'end': '17800000'}]
+VIVOSSPK14_162.wav: [{'start': '27800000', 'end': '31100000'}]
+}
+thasi
+:{ 
+VIVOSSPK14_029.wav: [{'start': '20200000', 'end': '23200000'}]
+}
+lan
+:{ 
+VIVOSSPK14_029.wav: [{'start': '23200000', 'end': '26200000'}]
+}
+bafi
+:{ 
+VIVOSSPK14_029.wav: [{'start': '28800000', 'end': '31700000'}]
+}
+hojc
+:{ 
+VIVOSSPK14_029.wav: [{'start': '31700000', 'end': '35000000'}]
+VIVOSSPK14_033.wav: [{'start': '16000000', 'end': '19100000'}, {'start': '28400000', 'end': '31800000'}]
+VIVOSSPK14_060.wav: [{'start': '19800000', 'end': '23800000'}]
+VIVOSSPK14_133.wav: [{'start': '11500000', 'end': '14300000'}, {'start': '25700000', 'end': '28800000'}]
+VIVOSSPK14_272.wav: [{'start': '9800000', 'end': '12400000'}]
+}
+nhaxn
+:{ 
+VIVOSSPK14_029.wav: [{'start': '35000000', 'end': '38000000'}]
+}
+tieefn
+:{ 
+VIVOSSPK14_029.wav: [{'start': '38000000', 'end': '42500000'}]
+VIVOSSPK14_057.wav: [{'start': '13200000', 'end': '16900000'}]
+VIVOSSPK14_071.wav: [{'start': '6200000', 'end': '8900000'}]
+VIVOSSPK14_106.wav: [{'start': '3600000', 'end': '6600000'}]
+VIVOSSPK14_174.wav: [{'start': '28700000', 'end': '32100000'}]
+VIVOSSPK14_257.wav: [{'start': '36400000', 'end': '40000000'}]
+VIVOSSPK14_294.wav: [{'start': '31200000', 'end': '34500000'}]
+}
+suwxa
+:{ 
+VIVOSSPK14_030.wav: [{'start': '7800000', 'end': '11400000'}]
+VIVOSSPK14_099.wav: [{'start': '17700000', 'end': '20800000'}]
+VIVOSSPK14_178.wav: [{'start': '19300000', 'end': '23600000'}]
+}
+daang
+:{ 
+VIVOSSPK14_030.wav: [{'start': '11400000', 'end': '14300000'}]
+}
+leen
+:{ 
+VIVOSSPK14_030.wav: [{'start': '14300000', 'end': '17500000'}]
+VIVOSSPK14_038.wav: [{'start': '14800000', 'end': '17300000'}]
+VIVOSSPK14_044.wav: [{'start': '14200000', 'end': '18500000'}]
+VIVOSSPK14_071.wav: [{'start': '12100000', 'end': '14300000'}]
+VIVOSSPK14_153.wav: [{'start': '34200000', 'end': '36800000'}]
+VIVOSSPK14_178.wav: [{'start': '23600000', 'end': '26800000'}]
+VIVOSSPK14_256.wav: [{'start': '17800000', 'end': '21100000'}]
+VIVOSSPK14_286.wav: [{'start': '39200000', 'end': '42100000'}]
+}
+char
+:{ 
+VIVOSSPK14_030.wav: [{'start': '17500000', 'end': '20400000'}]
+VIVOSSPK14_279.wav: [{'start': '7600000', 'end': '10500000'}]
+}
+thua
+:{ 
+VIVOSSPK14_030.wav: [{'start': '20400000', 'end': '23500000'}]
+}
+gif
+:{ 
+VIVOSSPK14_030.wav: [{'start': '23500000', 'end': '26800000'}]
+VIVOSSPK14_105.wav: [{'start': '16100000', 'end': '19600000'}]
+VIVOSSPK14_253.wav: [{'start': '15300000', 'end': '18700000'}]
+}
+trieefu
+:{ 
+VIVOSSPK14_030.wav: [{'start': '26800000', 'end': '29400000'}]
+VIVOSSPK14_044.wav: [{'start': '6900000', 'end': '10800000'}]
+}
+cuwowfng
+:{ 
+VIVOSSPK14_030.wav: [{'start': '29400000', 'end': '33400000'}]
+}
+uwowng
+:{ 
+VIVOSSPK14_031.wav: [{'start': '10800000', 'end': '13200000'}]
+}
+khoon
+:{ 
+VIVOSSPK14_031.wav: [{'start': '13200000', 'end': '16100000'}]
+}
+luwowfng
+:{ 
+VIVOSSPK14_031.wav: [{'start': '16100000', 'end': '20300000'}]
+}
+ddowfi
+:{ 
+VIVOSSPK14_031.wav: [{'start': '23200000', 'end': '26100000'}]
+VIVOSSPK14_122.wav: [{'start': '6400000', 'end': '8500000'}]
+VIVOSSPK14_271.wav: [{'start': '13500000', 'end': '16700000'}]
+}
+bawng
+:{ 
+VIVOSSPK14_032.wav: [{'start': '4200000', 'end': '7100000'}]
+}
+roojng
+:{ 
+VIVOSSPK14_032.wav: [{'start': '10300000', 'end': '13800000'}]
+}
+chieefu
+:{ 
+VIVOSSPK14_032.wav: [{'start': '16900000', 'end': '21700000'}]
+}
+cos
+:{ 
+VIVOSSPK14_033.wav: [{'start': '3700000', 'end': '6600000'}]
+VIVOSSPK14_039.wav: [{'start': '8000000', 'end': '10500000'}]
+VIVOSSPK14_043.wav: [{'start': '17800000', 'end': '22100000'}]
+VIVOSSPK14_045.wav: [{'start': '3800000', 'end': '6300000'}]
+VIVOSSPK14_053.wav: [{'start': '6600000', 'end': '9500000'}]
+VIVOSSPK14_064.wav: [{'start': '17300000', 'end': '19900000'}]
+VIVOSSPK14_084.wav: [{'start': '31300000', 'end': '33900000'}]
+VIVOSSPK14_088.wav: [{'start': '13800000', 'end': '16400000'}]
+VIVOSSPK14_090.wav: [{'start': '24700000', 'end': '27700000'}]
+VIVOSSPK14_092.wav: [{'start': '6500000', 'end': '8900000'}]
+VIVOSSPK14_098.wav: [{'start': '16700000', 'end': '18800000'}]
+VIVOSSPK14_120.wav: [{'start': '600000', 'end': '2700000'}]
+VIVOSSPK14_128.wav: [{'start': '8100000', 'end': '10100000'}]
+VIVOSSPK14_133.wav: [{'start': '17000000', 'end': '19500000'}]
+VIVOSSPK14_143.wav: [{'start': '7600000', 'end': '10000000'}]
+VIVOSSPK14_159.wav: [{'start': '8700000', 'end': '11600000'}]
+VIVOSSPK14_161.wav: [{'start': '30200000', 'end': '32700000'}]
+VIVOSSPK14_174.wav: [{'start': '19700000', 'end': '23100000'}]
+VIVOSSPK14_179.wav: [{'start': '6100000', 'end': '8500000'}]
+VIVOSSPK14_180.wav: [{'start': '23600000', 'end': '26500000'}]
+VIVOSSPK14_253.wav: [{'start': '12700000', 'end': '15300000'}]
+VIVOSSPK14_260.wav: [{'start': '24400000', 'end': '27000000'}]
+VIVOSSPK14_261.wav: [{'start': '41400000', 'end': '43800000'}]
+VIVOSSPK14_263.wav: [{'start': '15900000', 'end': '18000000'}]
+VIVOSSPK14_265.wav: [{'start': '21100000', 'end': '23600000'}]
+VIVOSSPK14_268.wav: [{'start': '17900000', 'end': '20600000'}]
+VIVOSSPK14_283.wav: [{'start': '4400000', 'end': '6400000'}]
+}
+vafn
+:{ 
+VIVOSSPK14_033.wav: [{'start': '9700000', 'end': '13200000'}]
+}
+khosa
+:{ 
+VIVOSSPK14_033.wav: [{'start': '13200000', 'end': '16000000'}]
+}
+veef
+:{ 
+VIVOSSPK14_033.wav: [{'start': '19100000', 'end': '22600000'}]
+VIVOSSPK14_038.wav: [{'start': '27600000', 'end': '30300000'}]
+VIVOSSPK14_059.wav: [{'start': '19300000', 'end': '22500000'}]
+VIVOSSPK14_108.wav: [{'start': '14300000', 'end': '16400000'}]
+VIVOSSPK14_120.wav: [{'start': '29200000', 'end': '31000000'}]
+VIVOSSPK14_157.wav: [{'start': '21200000', 'end': '23900000'}]
+VIVOSSPK14_161.wav: [{'start': '23900000', 'end': '26600000'}]
+VIVOSSPK14_192.wav: [{'start': '25900000', 'end': '28100000'}]
+VIVOSSPK14_258.wav: [{'start': '33100000', 'end': '35400000'}]
+VIVOSSPK14_295.wav: [{'start': '28100000', 'end': '29900000'}]
+}
+moon
+:{ 
+VIVOSSPK14_033.wav: [{'start': '22600000', 'end': '26300000'}]
+}
+khoa
+:{ 
+VIVOSSPK14_033.wav: [{'start': '26300000', 'end': '28400000'}]
+VIVOSSPK14_110.wav: [{'start': '30600000', 'end': '33900000'}]
+}
+ngheej
+:{ 
+VIVOSSPK14_033.wav: [{'start': '34700000', 'end': '37700000'}]
+VIVOSSPK14_037.wav: [{'start': '33800000', 'end': '37400000'}]
+VIVOSSPK14_053.wav: [{'start': '19000000', 'end': '22300000'}]
+}
+thuaajt
+:{ 
+VIVOSSPK14_033.wav: [{'start': '37700000', 'end': '41400000'}]
+}
+dduwa
+:{ 
+VIVOSSPK14_034.wav: [{'start': '4600000', 'end': '7300000'}]
+VIVOSSPK14_110.wav: [{'start': '9600000', 'end': '12000000'}]
+VIVOSSPK14_135.wav: [{'start': '4600000', 'end': '7600000'}]
+VIVOSSPK14_174.wav: [{'start': '23100000', 'end': '25500000'}]
+}
+vafo
+:{ 
+VIVOSSPK14_034.wav: [{'start': '7300000', 'end': '10300000'}]
+VIVOSSPK14_096.wav: [{'start': '9300000', 'end': '11900000'}]
+VIVOSSPK14_286.wav: [{'start': '14000000', 'end': '16400000'}]
+VIVOSSPK14_287.wav: [{'start': '11400000', 'end': '13800000'}]
+VIVOSSPK14_290.wav: [{'start': '14900000', 'end': '17400000'}]
+}
+oosng
+:{ 
+VIVOSSPK14_034.wav: [{'start': '13900000', 'end': '16600000'}]
+}
+xoay
+:{ 
+VIVOSSPK14_034.wav: [{'start': '16600000', 'end': '20500000'}]
+}
+dasng
+:{ 
+VIVOSSPK14_035.wav: [{'start': '4200000', 'end': '7800000'}]
+}
+lieeu
+:{ 
+VIVOSSPK14_035.wav: [{'start': '12300000', 'end': '14600000'}]
+}
+xieeu
+:{ 
+VIVOSSPK14_035.wav: [{'start': '14600000', 'end': '19900000'}]
+}
+dawm
+:{ 
+VIVOSSPK14_036.wav: [{'start': '3000000', 'end': '7100000'}]
+}
+chaaju
+:{ 
+VIVOSSPK14_036.wav: [{'start': '7100000', 'end': '10300000'}]
+}
+boong
+:{ 
+VIVOSSPK14_036.wav: [{'start': '10300000', 'end': '13300000'}]
+}
+giar
+:{ 
+VIVOSSPK14_036.wav: [{'start': '13300000', 'end': '17000000'}]
+VIVOSSPK14_176.wav: [{'start': '18400000', 'end': '22700000'}]
+}
+ddieerm
+:{ 
+VIVOSSPK14_036.wav: [{'start': '17000000', 'end': '20200000'}]
+VIVOSSPK14_049.wav: [{'start': '3500000', 'end': '8100000'}]
+VIVOSSPK14_132.wav: [{'start': '22800000', 'end': '25800000'}]
+}
+too
+:{ 
+VIVOSSPK14_036.wav: [{'start': '20200000', 'end': '24500000'}]
+}
+nhaajn
+:{ 
+VIVOSSPK14_037.wav: [{'start': '6800000', 'end': '10000000'}]
+VIVOSSPK14_057.wav: [{'start': '6200000', 'end': '10100000'}]
+VIVOSSPK14_074.wav: [{'start': '9100000', 'end': '12400000'}]
+VIVOSSPK14_174.wav: [{'start': '15800000', 'end': '19700000'}]
+}
+xest
+:{ 
+VIVOSSPK14_037.wav: [{'start': '10000000', 'end': '14400000'}]
+}
+coong
+:{ 
+VIVOSSPK14_037.wav: [{'start': '17600000', 'end': '20500000'}]
+VIVOSSPK14_121.wav: [{'start': '12800000', 'end': '15100000'}]
+VIVOSSPK14_127.wav: [{'start': '6700000', 'end': '9000000'}]
+VIVOSSPK14_137.wav: [{'start': '3600000', 'end': '6500000'}]
+VIVOSSPK14_142.wav: [{'start': '4100000', 'end': '6800000'}]
+VIVOSSPK14_156.wav: [{'start': '17500000', 'end': '20100000'}]
+VIVOSSPK14_198.wav: [{'start': '3800000', 'end': '6800000'}]
+VIVOSSPK14_254.wav: [{'start': '16700000', 'end': '19300000'}]
+VIVOSSPK14_256.wav: [{'start': '23700000', 'end': '26500000'}]
+VIVOSSPK14_265.wav: [{'start': '16000000', 'end': '18400000'}]
+VIVOSSPK14_284.wav: [{'start': '34800000', 'end': '37800000'}]
+}
+bawfng
+:{ 
+VIVOSSPK14_037.wav: [{'start': '20500000', 'end': '24200000'}]
+VIVOSSPK14_041.wav: [{'start': '24800000', 'end': '28200000'}]
+VIVOSSPK14_137.wav: [{'start': '19600000', 'end': '23100000'}]
+VIVOSSPK14_152.wav: [{'start': '14100000', 'end': '17200000'}]
+VIVOSSPK14_159.wav: [{'start': '40100000', 'end': '42800000'}]
+VIVOSSPK14_262.wav: [{'start': '20000000', 'end': '23100000'}]
+}
+giowsi
+:{ 
+VIVOSSPK14_037.wav: [{'start': '27400000', 'end': '30800000'}]
+VIVOSSPK14_116.wav: [{'start': '17600000', 'end': '20600000'}]
+VIVOSSPK14_288.wav: [{'start': '14400000', 'end': '17700000'}]
+}
+vawn
+:{ 
+VIVOSSPK14_037.wav: [{'start': '30800000', 'end': '33800000'}]
+VIVOSSPK14_142.wav: [{'start': '6800000', 'end': '9900000'}]
+VIVOSSPK14_174.wav: [{'start': '7100000', 'end': '10100000'}]
+}
+vuj
+:{ 
+VIVOSSPK14_038.wav: [{'start': '1000000', 'end': '5000000'}]
+VIVOSSPK14_039.wav: [{'start': '22700000', 'end': '26000000'}]
+VIVOSSPK14_120.wav: [{'start': '11800000', 'end': '14100000'}]
+VIVOSSPK14_179.wav: [{'start': '12100000', 'end': '15200000'}]
+VIVOSSPK14_297.wav: [{'start': '11400000', 'end': '13600000'}]
+VIVOSSPK14_300.wav: [{'start': '39700000', 'end': '42400000'}]
+}
+vieejc
+:{ 
+VIVOSSPK14_038.wav: [{'start': '5000000', 'end': '8700000'}]
+VIVOSSPK14_070.wav: [{'start': '17700000', 'end': '20700000'}]
+VIVOSSPK14_128.wav: [{'start': '18300000', 'end': '22600000'}]
+VIVOSSPK14_153.wav: [{'start': '25100000', 'end': '27700000'}]
+VIVOSSPK14_173.wav: [{'start': '1700000', 'end': '5400000'}]
+VIVOSSPK14_265.wav: [{'start': '18400000', 'end': '21100000'}]
+VIVOSSPK14_272.wav: [{'start': '24500000', 'end': '27400000'}]
+}
+ddang
+:{ 
+VIVOSSPK14_038.wav: [{'start': '8700000', 'end': '11400000'}]
+VIVOSSPK14_044.wav: [{'start': '10800000', 'end': '14200000'}]
+VIVOSSPK14_120.wav: [{'start': '22800000', 'end': '25800000'}]
+VIVOSSPK14_192.wav: [{'start': '19700000', 'end': '22900000'}]
+VIVOSSPK14_254.wav: [{'start': '22500000', 'end': '25400000'}]
+VIVOSSPK14_278.wav: [{'start': '8400000', 'end': '11500000'}]
+}
+daasy
+:{ 
+VIVOSSPK14_038.wav: [{'start': '11400000', 'end': '14800000'}]
+}
+sarn
+:{ 
+VIVOSSPK14_038.wav: [{'start': '30300000', 'end': '34100000'}]
+VIVOSSPK14_067.wav: [{'start': '16000000', 'end': '19300000'}]
+VIVOSSPK14_087.wav: [{'start': '9400000', 'end': '12600000'}]
+VIVOSSPK14_107.wav: [{'start': '23300000', 'end': '28500000'}]
+VIVOSSPK14_135.wav: [{'start': '18400000', 'end': '23800000'}]
+}
+phaarm
+:{ 
+VIVOSSPK14_038.wav: [{'start': '34100000', 'end': '37400000'}]
+}
+thuoosc
+:{ 
+VIVOSSPK14_038.wav: [{'start': '37400000', 'end': '41500000'}]
+VIVOSSPK14_045.wav: [{'start': '21000000', 'end': '24600000'}]
+VIVOSSPK14_140.wav: [{'start': '3400000', 'end': '6000000'}]
+}
+mowsi
+:{ 
+VIVOSSPK14_039.wav: [{'start': '4500000', 'end': '8000000'}]
+VIVOSSPK14_178.wav: [{'start': '7400000', 'end': '9900000'}]
+VIVOSSPK14_186.wav: [{'start': '25900000', 'end': '28800000'}]
+VIVOSSPK14_199.wav: [{'start': '13500000', 'end': '16600000'}]
+VIVOSSPK14_259.wav: [{'start': '57300000', 'end': '61900000'}]
+}
+hieeru
+:{ 
+VIVOSSPK14_039.wav: [{'start': '13900000', 'end': '17100000'}]
+VIVOSSPK14_191.wav: [{'start': '10300000', 'end': '12900000'}]
+}
+nhieejm
+:{ 
+VIVOSSPK14_039.wav: [{'start': '20400000', 'end': '22700000'}]
+VIVOSSPK14_179.wav: [{'start': '8500000', 'end': '12100000'}]
+}
+chos
+:{ 
+VIVOSSPK14_039.wav: [{'start': '29000000', 'end': '32500000'}]
+}
+giuwx
+:{ 
+VIVOSSPK14_039.wav: [{'start': '32500000', 'end': '35100000'}]
+}
+nhaf
+:{ 
+VIVOSSPK14_039.wav: [{'start': '35100000', 'end': '39500000'}]
+VIVOSSPK14_047.wav: [{'start': '11000000', 'end': '14600000'}]
+VIVOSSPK14_064.wav: [{'start': '2400000', 'end': '5200000'}]
+VIVOSSPK14_067.wav: [{'start': '13300000', 'end': '16000000'}]
+VIVOSSPK14_087.wav: [{'start': '6400000', 'end': '9400000'}]
+VIVOSSPK14_158.wav: [{'start': '20100000', 'end': '22600000'}]
+}
+masi
+:{ 
+VIVOSSPK14_040.wav: [{'start': '400000', 'end': '3300000'}]
+}
+tosc
+:{ 
+VIVOSSPK14_040.wav: [{'start': '3300000', 'end': '6300000'}]
+VIVOSSPK14_140.wav: [{'start': '14600000', 'end': '17900000'}, {'start': '30000000', 'end': '32600000'}]
+}
+dden
+:{ 
+VIVOSSPK14_040.wav: [{'start': '6300000', 'end': '9500000'}]
+VIVOSSPK14_076.wav: [{'start': '23300000', 'end': '26900000'}]
+}
+dafi
+:{ 
+VIVOSSPK14_040.wav: [{'start': '9500000', 'end': '13100000'}]
+VIVOSSPK14_159.wav: [{'start': '36600000', 'end': '40100000'}]
+}
+xoxa
+:{ 
+VIVOSSPK14_040.wav: [{'start': '13100000', 'end': '17100000'}]
+}
+been
+:{ 
+VIVOSSPK14_040.wav: [{'start': '17100000', 'end': '20000000'}]
+VIVOSSPK14_139.wav: [{'start': '8800000', 'end': '11900000'}]
+}
+nos
+:{ 
+VIVOSSPK14_041.wav: [{'start': '3200000', 'end': '6200000'}]
+VIVOSSPK14_066.wav: [{'start': '46000000', 'end': '50600000'}]
+VIVOSSPK14_104.wav: [{'start': '17000000', 'end': '19900000'}]
+VIVOSSPK14_109.wav: [{'start': '16600000', 'end': '20000000'}]
+VIVOSSPK14_143.wav: [{'start': '19600000', 'end': '24400000'}]
+}
+nawsn
+:{ 
+VIVOSSPK14_041.wav: [{'start': '8600000', 'end': '12300000'}]
+VIVOSSPK14_053.wav: [{'start': '28300000', 'end': '32600000'}]
+}
+nhosm
+:{ 
+VIVOSSPK14_041.wav: [{'start': '18300000', 'end': '20600000'}]
+}
+ddaast
+:{ 
+VIVOSSPK14_041.wav: [{'start': '28200000', 'end': '30500000'}]
+VIVOSSPK14_265.wav: [{'start': '35800000', 'end': '38500000'}]
+}
+nhaxo
+:{ 
+VIVOSSPK14_041.wav: [{'start': '30500000', 'end': '35200000'}]
+}
+casi
+:{ 
+VIVOSSPK14_042.wav: [{'start': '7300000', 'end': '10000000'}]
+VIVOSSPK14_076.wav: [{'start': '16100000', 'end': '19200000'}]
+VIVOSSPK14_095.wav: [{'start': '18400000', 'end': '21700000'}]
+VIVOSSPK14_109.wav: [{'start': '6100000', 'end': '8400000'}, {'start': '31700000', 'end': '35100000'}]
+VIVOSSPK14_153.wav: [{'start': '31000000', 'end': '34200000'}]
+}
+cheest
+:{ 
+VIVOSSPK14_042.wav: [{'start': '10000000', 'end': '13300000'}]
+VIVOSSPK14_064.wav: [{'start': '23000000', 'end': '26000000'}]
+VIVOSSPK14_073.wav: [{'start': '14600000', 'end': '18000000'}]
+VIVOSSPK14_270.wav: [{'start': '21200000', 'end': '24400000'}]
+}
+keso
+:{ 
+VIVOSSPK14_042.wav: [{'start': '22600000', 'end': '25700000'}]
+}
+theo
+:{ 
+VIVOSSPK14_042.wav: [{'start': '25700000', 'end': '29000000'}]
+VIVOSSPK14_049.wav: [{'start': '15000000', 'end': '18000000'}]
+VIVOSSPK14_131.wav: [{'start': '9700000', 'end': '12100000'}]
+VIVOSSPK14_133.wav: [{'start': '22700000', 'end': '25700000'}]
+VIVOSSPK14_289.wav: [{'start': '3200000', 'end': '6100000'}]
+VIVOSSPK14_294.wav: [{'start': '2900000', 'end': '5900000'}]
+}
+loajt
+:{ 
+VIVOSSPK14_042.wav: [{'start': '32900000', 'end': '36200000'}]
+}
+thowfi
+:{ 
+VIVOSSPK14_042.wav: [{'start': '36200000', 'end': '39200000'}]
+VIVOSSPK14_080.wav: [{'start': '16500000', 'end': '19700000'}]
+VIVOSSPK14_158.wav: [{'start': '45400000', 'end': '50300000'}]
+VIVOSSPK14_263.wav: [{'start': '10100000', 'end': '12900000'}]
+VIVOSSPK14_293.wav: [{'start': '7500000', 'end': '10200000'}]
+}
+thosa
+:{ 
+VIVOSSPK14_042.wav: [{'start': '39200000', 'end': '42200000'}]
+}
+maj
+:{ 
+VIVOSSPK14_042.wav: [{'start': '42200000', 'end': '46200000'}]
+VIVOSSPK14_266.wav: [{'start': '19400000', 'end': '22600000'}]
+}
+quan
+:{ 
+VIVOSSPK14_043.wav: [{'start': '2000000', 'end': '5100000'}]
+VIVOSSPK14_083.wav: [{'start': '11200000', 'end': '14400000'}]
+VIVOSSPK14_162.wav: [{'start': '14800000', 'end': '17500000'}]
+VIVOSSPK14_180.wav: [{'start': '19800000', 'end': '23600000'}]
+}
+mifnh
+:{ 
+VIVOSSPK14_043.wav: [{'start': '14000000', 'end': '17800000'}]
+VIVOSSPK14_123.wav: [{'start': '33000000', 'end': '37200000'}]
+VIVOSSPK14_141.wav: [{'start': '30600000', 'end': '34900000'}]
+VIVOSSPK14_188.wav: [{'start': '18700000', 'end': '22900000'}]
+VIVOSSPK14_193.wav: [{'start': '28900000', 'end': '32500000'}]
+}
+lusc
+:{ 
+VIVOSSPK14_045.wav: [{'start': '6300000', 'end': '9000000'}]
+VIVOSSPK14_150.wav: [{'start': '8300000', 'end': '11300000'}]
+}
+phari
+:{ 
+VIVOSSPK14_045.wav: [{'start': '14400000', 'end': '18300000'}]
+VIVOSSPK14_052.wav: [{'start': '28800000', 'end': '33200000'}]
+VIVOSSPK14_054.wav: [{'start': '7800000', 'end': '12000000'}]
+VIVOSSPK14_081.wav: [{'start': '13800000', 'end': '17900000'}]
+VIVOSSPK14_274.wav: [{'start': '13900000', 'end': '17300000'}]
+}
+uoosng
+:{ 
+VIVOSSPK14_045.wav: [{'start': '18300000', 'end': '21000000'}]
+}
+traafm
+:{ 
+VIVOSSPK14_045.wav: [{'start': '26800000', 'end': '30500000'}]
+}
+uaast
+:{ 
+VIVOSSPK14_045.wav: [{'start': '30500000', 'end': '33100000'}]
+}
+haso
+:{ 
+VIVOSSPK14_046.wav: [{'start': '4400000', 'end': '7500000'}]
+}
+huwsc
+:{ 
+VIVOSSPK14_046.wav: [{'start': '7500000', 'end': '9900000'}]
+}
+cufng
+:{ 
+VIVOSSPK14_046.wav: [{'start': '10200000', 'end': '13200000'}]
+VIVOSSPK14_071.wav: [{'start': '17900000', 'end': '21200000'}]
+VIVOSSPK14_291.wav: [{'start': '11000000', 'end': '13700000'}]
+}
+oong
+:{ 
+VIVOSSPK14_046.wav: [{'start': '13200000', 'end': '15800000'}]
+VIVOSSPK14_078.wav: [{'start': '19700000', 'end': '21600000'}]
+VIVOSSPK14_095.wav: [{'start': '28800000', 'end': '31600000'}]
+VIVOSSPK14_133.wav: [{'start': '34300000', 'end': '37500000'}]
+VIVOSSPK14_165.wav: [{'start': '34500000', 'end': '37000000'}]
+VIVOSSPK14_174.wav: [{'start': '38800000', 'end': '41000000'}]
+}
+baf
+:{ 
+VIVOSSPK14_046.wav: [{'start': '15800000', 'end': '18400000'}]
+VIVOSSPK14_051.wav: [{'start': '3700000', 'end': '6700000'}]
+VIVOSSPK14_054.wav: [{'start': '12000000', 'end': '15400000'}]
+VIVOSSPK14_064.wav: [{'start': '5200000', 'end': '8100000'}]
+VIVOSSPK14_078.wav: [{'start': '6100000', 'end': '8700000'}]
+VIVOSSPK14_153.wav: [{'start': '39300000', 'end': '42800000'}]
+VIVOSSPK14_157.wav: [{'start': '26700000', 'end': '31600000'}]
+}
+cha
+:{ 
+VIVOSSPK14_046.wav: [{'start': '18400000', 'end': '21300000'}]
+VIVOSSPK14_165.wav: [{'start': '4700000', 'end': '7400000'}]
+}
+nhowf
+:{ 
+VIVOSSPK14_047.wav: [{'start': '4600000', 'end': '8000000'}]
+VIVOSSPK14_152.wav: [{'start': '1400000', 'end': '4300000'}]
+}
+hufng
+:{ 
+VIVOSSPK14_047.wav: [{'start': '14600000', 'end': '17700000'}]
+VIVOSSPK14_150.wav: [{'start': '30900000', 'end': '35000000'}]
+}
+bieejn
+:{ 
+VIVOSSPK14_047.wav: [{'start': '17700000', 'end': '20600000'}]
+}
+dis
+:{ 
+VIVOSSPK14_047.wav: [{'start': '20600000', 'end': '23500000'}]
+}
+dosm
+:{ 
+VIVOSSPK14_047.wav: [{'start': '23500000', 'end': '27400000'}]
+}
+hafi
+:{ 
+VIVOSSPK14_047.wav: [{'start': '27400000', 'end': '31400000'}]
+}
+huwowsc
+:{ 
+VIVOSSPK14_047.wav: [{'start': '31400000', 'end': '34300000'}]
+}
+cofn
+:{ 
+VIVOSSPK14_048.wav: [{'start': '2800000', 'end': '6000000'}]
+VIVOSSPK14_085.wav: [{'start': '7500000', 'end': '11100000'}]
+VIVOSSPK14_105.wav: [{'start': '19600000', 'end': '22500000'}]
+VIVOSSPK14_131.wav: [{'start': '4900000', 'end': '7700000'}]
+}
+kieejn
+:{ 
+VIVOSSPK14_048.wav: [{'start': '8800000', 'end': '12000000'}]
+}
+khoor
+:{ 
+VIVOSSPK14_048.wav: [{'start': '14800000', 'end': '17500000'}]
+}
+sowr
+:{ 
+VIVOSSPK14_048.wav: [{'start': '17500000', 'end': '21600000'}]
+VIVOSSPK14_114.wav: [{'start': '8100000', 'end': '11500000'}]
+}
+bij
+:{ 
+VIVOSSPK14_048.wav: [{'start': '24500000', 'end': '27400000'}]
+VIVOSSPK14_059.wav: [{'start': '13400000', 'end': '16100000'}]
+VIVOSSPK14_125.wav: [{'start': '7800000', 'end': '10900000'}]
+VIVOSSPK14_127.wav: [{'start': '28800000', 'end': '31600000'}]
+VIVOSSPK14_298.wav: [{'start': '6400000', 'end': '9000000'}]
+}
+giaasu
+:{ 
+VIVOSSPK14_048.wav: [{'start': '27400000', 'end': '30500000'}]
+}
+nhejm
+:{ 
+VIVOSSPK14_048.wav: [{'start': '30500000', 'end': '34300000'}]
+}
+trusng
+:{ 
+VIVOSSPK14_049.wav: [{'start': '8100000', 'end': '11100000'}]
+}
+tuyeern
+:{ 
+VIVOSSPK14_049.wav: [{'start': '11100000', 'end': '15000000'}]
+}
+ngafnh
+:{ 
+VIVOSSPK14_049.wav: [{'start': '18000000', 'end': '21700000'}]
+VIVOSSPK14_128.wav: [{'start': '24900000', 'end': '27400000'}]
+}
+caaju
+:{ 
+VIVOSSPK14_050.wav: [{'start': '3200000', 'end': '7100000'}]
+}
+usp
+:{ 
+VIVOSSPK14_050.wav: [{'start': '12800000', 'end': '15600000'}]
+}
+mowr
+:{ 
+VIVOSSPK14_050.wav: [{'start': '15600000', 'end': '18700000'}]
+}
+rawfng
+:{ 
+VIVOSSPK14_050.wav: [{'start': '18700000', 'end': '22800000'}]
+VIVOSSPK14_072.wav: [{'start': '13400000', 'end': '18400000'}]
+VIVOSSPK14_126.wav: [{'start': '9100000', 'end': '13500000'}]
+}
+sex
+:{ 
+VIVOSSPK14_050.wav: [{'start': '29100000', 'end': '32600000'}]
+VIVOSSPK14_115.wav: [{'start': '2600000', 'end': '5900000'}]
+VIVOSSPK14_164.wav: [{'start': '20600000', 'end': '24500000'}]
+VIVOSSPK14_286.wav: [{'start': '32800000', 'end': '36000000'}]
+VIVOSSPK14_295.wav: [{'start': '13800000', 'end': '16900000'}]
+}
+thu
+:{ 
+VIVOSSPK14_050.wav: [{'start': '32600000', 'end': '35800000'}]
+VIVOSSPK14_101.wav: [{'start': '11000000', 'end': '13600000'}]
+VIVOSSPK14_251.wav: [{'start': '4800000', 'end': '6700000'}]
+}
+xeesp
+:{ 
+VIVOSSPK14_050.wav: [{'start': '35800000', 'end': '39600000'}]
+VIVOSSPK14_282.wav: [{'start': '15500000', 'end': '19100000'}]
+VIVOSSPK14_283.wav: [{'start': '19100000', 'end': '22700000'}]
+}
+keeu
+:{ 
+VIVOSSPK14_051.wav: [{'start': '10800000', 'end': '13900000'}]
+}
+ca
+:{ 
+VIVOSSPK14_051.wav: [{'start': '13900000', 'end': '17300000'}]
+VIVOSSPK14_080.wav: [{'start': '22600000', 'end': '25900000'}]
+VIVOSSPK14_168.wav: [{'start': '5600000', 'end': '7300000'}]
+}
+duwx
+:{ 
+VIVOSSPK14_051.wav: [{'start': '17300000', 'end': '20300000'}]
+}
+laafm
+:{ 
+VIVOSSPK14_052.wav: [{'start': '6900000', 'end': '10100000'}]
+VIVOSSPK14_153.wav: [{'start': '6500000', 'end': '9900000'}]
+}
+quarn
+:{ 
+VIVOSSPK14_052.wav: [{'start': '16400000', 'end': '18800000'}]
+}
+lys
+:{ 
+VIVOSSPK14_052.wav: [{'start': '18800000', 'end': '22400000'}]
+VIVOSSPK14_081.wav: [{'start': '23800000', 'end': '26700000'}]
+VIVOSSPK14_088.wav: [{'start': '30900000', 'end': '35000000'}]
+VIVOSSPK14_199.wav: [{'start': '32800000', 'end': '36600000'}]
+}
+thuwowfng
+:{ 
+VIVOSSPK14_052.wav: [{'start': '22400000', 'end': '26400000'}]
+VIVOSSPK14_088.wav: [{'start': '3800000', 'end': '7200000'}]
+VIVOSSPK14_293.wav: [{'start': '15700000', 'end': '19400000'}]
+}
+mawsc
+:{ 
+VIVOSSPK14_052.wav: [{'start': '26400000', 'end': '28800000'}]
+}
+neesu
+:{ 
+VIVOSSPK14_053.wav: [{'start': '3000000', 'end': '6600000'}]
+VIVOSSPK14_060.wav: [{'start': '3000000', 'end': '6200000'}]
+VIVOSSPK14_081.wav: [{'start': '900000', 'end': '3900000'}]
+VIVOSSPK14_084.wav: [{'start': '28200000', 'end': '31300000'}]
+}
+bafn
+:{ 
+VIVOSSPK14_053.wav: [{'start': '13000000', 'end': '16300000'}]
+VIVOSSPK14_071.wav: [{'start': '14300000', 'end': '17900000'}]
+}
+nhaan
+:{ 
+VIVOSSPK14_053.wav: [{'start': '22300000', 'end': '25800000'}]
+VIVOSSPK14_096.wav: [{'start': '27800000', 'end': '30400000'}]
+VIVOSSPK14_131.wav: [{'start': '14800000', 'end': '17200000'}]
+VIVOSSPK14_189.wav: [{'start': '17400000', 'end': '20500000'}]
+VIVOSSPK14_254.wav: [{'start': '19300000', 'end': '22500000'}]
+VIVOSSPK14_262.wav: [{'start': '31700000', 'end': '35400000'}]
+}
+uoosn
+:{ 
+VIVOSSPK14_053.wav: [{'start': '25800000', 'end': '28300000'}]
+}
+ddujng
+:{ 
+VIVOSSPK14_054.wav: [{'start': '4800000', 'end': '7800000'}]
+}
+ve
+:{ 
+VIVOSSPK14_054.wav: [{'start': '18900000', 'end': '21500000'}]
+}
+chai
+:{ 
+VIVOSSPK14_054.wav: [{'start': '21500000', 'end': '27000000'}]
+}
+aafu
+:{ 
+VIVOSSPK14_055.wav: [{'start': '5900000', 'end': '10600000'}]
+}
+ow
+:{ 
+VIVOSSPK14_055.wav: [{'start': '10600000', 'end': '13500000'}]
+}
+vis
+:{ 
+VIVOSSPK14_055.wav: [{'start': '13500000', 'end': '17700000'}]
+}
+daafu
+:{ 
+VIVOSSPK14_055.wav: [{'start': '17700000', 'end': '21700000'}]
+}
+aay
+:{ 
+VIVOSSPK14_056.wav: [{'start': '4300000', 'end': '8400000'}, {'start': '13100000', 'end': '16800000'}]
+}
+da
+:{ 
+VIVOSSPK14_056.wav: [{'start': '8400000', 'end': '13100000'}, {'start': '16800000', 'end': '21000000'}]
+VIVOSSPK14_066.wav: [{'start': '23900000', 'end': '27600000'}]
+}
+boa
+:{ 
+VIVOSSPK14_057.wav: [{'start': '16900000', 'end': '21800000'}]
+}
+khoong
+:{ 
+VIVOSSPK14_058.wav: [{'start': '5300000', 'end': '8700000'}]
+VIVOSSPK14_070.wav: [{'start': '13800000', 'end': '17700000'}]
+VIVOSSPK14_073.wav: [{'start': '10900000', 'end': '14600000'}]
+VIVOSSPK14_081.wav: [{'start': '3900000', 'end': '7800000'}]
+VIVOSSPK14_092.wav: [{'start': '3400000', 'end': '6500000'}]
+VIVOSSPK14_097.wav: [{'start': '14500000', 'end': '17500000'}]
+VIVOSSPK14_128.wav: [{'start': '5600000', 'end': '8100000'}]
+VIVOSSPK14_132.wav: [{'start': '2700000', 'end': '5300000'}]
+VIVOSSPK14_147.wav: [{'start': '3400000', 'end': '6700000'}]
+VIVOSSPK14_152.wav: [{'start': '20800000', 'end': '23400000'}]
+VIVOSSPK14_169.wav: [{'start': '6200000', 'end': '9200000'}]
+VIVOSSPK14_191.wav: [{'start': '6900000', 'end': '10300000'}]
+VIVOSSPK14_201.wav: [{'start': '2500000', 'end': '7400000'}]
+VIVOSSPK14_249.wav: [{'start': '2700000', 'end': '7700000'}]
+VIVOSSPK14_253.wav: [{'start': '9500000', 'end': '12700000'}]
+VIVOSSPK14_259.wav: [{'start': '45200000', 'end': '48200000'}]
+VIVOSSPK14_300.wav: [{'start': '25400000', 'end': '28000000'}]
+}
+ist
+:{ 
+VIVOSSPK14_058.wav: [{'start': '8700000', 'end': '11100000'}]
+VIVOSSPK14_133.wav: [{'start': '9100000', 'end': '11500000'}]
+VIVOSSPK14_251.wav: [{'start': '12800000', 'end': '15400000'}]
+}
+trer
+:{ 
+VIVOSSPK14_058.wav: [{'start': '15300000', 'end': '19000000'}]
+VIVOSSPK14_192.wav: [{'start': '16600000', 'end': '19700000'}]
+VIVOSSPK14_284.wav: [{'start': '20300000', 'end': '23600000'}]
+}
+laxng
+:{ 
+VIVOSSPK14_058.wav: [{'start': '26500000', 'end': '29900000'}]
+}
+phis
+:{ 
+VIVOSSPK14_058.wav: [{'start': '29900000', 'end': '34800000'}]
+VIVOSSPK14_187.wav: [{'start': '8700000', 'end': '12000000'}]
+VIVOSSPK14_294.wav: [{'start': '43500000', 'end': '46400000'}]
+VIVOSSPK14_295.wav: [{'start': '36100000', 'end': '38700000'}]
+}
+gax
+:{ 
+VIVOSSPK14_059.wav: [{'start': '6100000', 'end': '9200000'}]
+}
+theej
+:{ 
+VIVOSSPK14_059.wav: [{'start': '9200000', 'end': '13400000'}]
+}
+truwowrng
+:{ 
+VIVOSSPK14_059.wav: [{'start': '26200000', 'end': '29600000'}]
+VIVOSSPK14_127.wav: [{'start': '3700000', 'end': '6700000'}]
+VIVOSSPK14_157.wav: [{'start': '12100000', 'end': '14800000'}]
+}
+phofng
+:{ 
+VIVOSSPK14_059.wav: [{'start': '29600000', 'end': '33000000'}]
+VIVOSSPK14_197.wav: [{'start': '21800000', 'end': '25900000'}]
+}
+huyeejn
+:{ 
+VIVOSSPK14_059.wav: [{'start': '40200000', 'end': '43600000'}]
+}
+sasp
+:{ 
+VIVOSSPK14_060.wav: [{'start': '9400000', 'end': '13500000'}]
+}
+nhaajp
+:{ 
+VIVOSSPK14_060.wav: [{'start': '13500000', 'end': '17200000'}]
+VIVOSSPK14_197.wav: [{'start': '7300000', 'end': '10000000'}]
+VIVOSSPK14_251.wav: [{'start': '6700000', 'end': '9700000'}]
+}
+cow
+:{ 
+VIVOSSPK14_060.wav: [{'start': '17200000', 'end': '19800000'}]
+VIVOSSPK14_180.wav: [{'start': '17100000', 'end': '19800000'}]
+}
+mooxi
+:{ 
+VIVOSSPK14_060.wav: [{'start': '33400000', 'end': '36900000'}]
+VIVOSSPK14_261.wav: [{'start': '46700000', 'end': '49900000'}]
+}
+vaasn
+:{ 
+VIVOSSPK14_060.wav: [{'start': '36900000', 'end': '40800000'}]
+}
+y
+:{ 
+VIVOSSPK14_060.wav: [{'start': '40800000', 'end': '43200000'}]
+}
+nguyeen
+:{ 
+VIVOSSPK14_060.wav: [{'start': '43200000', 'end': '47200000'}]
+VIVOSSPK14_287.wav: [{'start': '8000000', 'end': '11400000'}]
+}
+nafo
+:{ 
+VIVOSSPK14_061.wav: [{'start': '6000000', 'end': '9700000'}]
+VIVOSSPK14_085.wav: [{'start': '19800000', 'end': '23200000'}]
+VIVOSSPK14_090.wav: [{'start': '20900000', 'end': '24700000'}]
+VIVOSSPK14_092.wav: [{'start': '11500000', 'end': '14800000'}]
+VIVOSSPK14_099.wav: [{'start': '26900000', 'end': '31000000'}]
+VIVOSSPK14_280.wav: [{'start': '6500000', 'end': '10600000'}]
+}
+bowf
+:{ 
+VIVOSSPK14_061.wav: [{'start': '16400000', 'end': '19400000'}]
+VIVOSSPK14_139.wav: [{'start': '5900000', 'end': '8800000'}]
+}
+soong
+:{ 
+VIVOSSPK14_061.wav: [{'start': '19400000', 'end': '23100000'}]
+VIVOSSPK14_167.wav: [{'start': '11400000', 'end': '15200000'}]
+}
+giawjt
+:{ 
+VIVOSSPK14_061.wav: [{'start': '23100000', 'end': '27100000'}]
+}
+ddoof
+:{ 
+VIVOSSPK14_061.wav: [{'start': '27100000', 'end': '31200000'}]
+VIVOSSPK14_117.wav: [{'start': '13000000', 'end': '16300000'}]
+}
+bes
+:{ 
+VIVOSSPK14_062.wav: [{'start': '7100000', 'end': '10100000'}]
+}
+phong
+:{ 
+VIVOSSPK14_062.wav: [{'start': '10100000', 'end': '13700000'}]
+}
+ddaam
+:{ 
+VIVOSSPK14_062.wav: [{'start': '26400000', 'end': '29600000'}]
+VIVOSSPK14_270.wav: [{'start': '18400000', 'end': '21200000'}]
+}
+im
+:{ 
+VIVOSSPK14_062.wav: [{'start': '33200000', 'end': '36100000'}]
+}
+lawjng
+:{ 
+VIVOSSPK14_062.wav: [{'start': '36100000', 'end': '39300000'}]
+}
+thuoojc
+:{ 
+VIVOSSPK14_063.wav: [{'start': '3800000', 'end': '7200000'}]
+}
+lixnh
+:{ 
+VIVOSSPK14_063.wav: [{'start': '10400000', 'end': '13200000'}]
+}
+vuwjc
+:{ 
+VIVOSSPK14_063.wav: [{'start': '13200000', 'end': '15900000'}]
+VIVOSSPK14_151.wav: [{'start': '13600000', 'end': '16600000'}]
+VIVOSSPK14_197.wav: [{'start': '16000000', 'end': '19100000'}]
+}
+ddafo
+:{ 
+VIVOSSPK14_063.wav: [{'start': '15900000', 'end': '18800000'}]
+VIVOSSPK14_114.wav: [{'start': '17000000', 'end': '19800000'}]
+}
+tajo
+:{ 
+VIVOSSPK14_063.wav: [{'start': '18800000', 'end': '21800000'}]
+VIVOSSPK14_111.wav: [{'start': '13500000', 'end': '17000000'}]
+VIVOSSPK14_114.wav: [{'start': '19800000', 'end': '22900000'}]
+VIVOSSPK14_189.wav: [{'start': '20500000', 'end': '23500000'}]
+VIVOSSPK14_265.wav: [{'start': '57900000', 'end': '61300000'}]
+}
+ngheef
+:{ 
+VIVOSSPK14_063.wav: [{'start': '21800000', 'end': '24600000'}]
+VIVOSSPK14_128.wav: [{'start': '27400000', 'end': '30300000'}]
+VIVOSSPK14_177.wav: [{'start': '41500000', 'end': '45100000'}]
+}
+ddieejn
+:{ 
+VIVOSSPK14_063.wav: [{'start': '28100000', 'end': '31200000'}]
+}
+lajnh
+:{ 
+VIVOSSPK14_063.wav: [{'start': '31200000', 'end': '34200000'}]
+VIVOSSPK14_138.wav: [{'start': '14500000', 'end': '17700000'}]
+}
+hoof
+:{ 
+VIVOSSPK14_064.wav: [{'start': '8100000', 'end': '10900000'}]
+VIVOSSPK14_182.wav: [{'start': '21200000', 'end': '25500000'}]
+}
+thoori
+:{ 
+VIVOSSPK14_064.wav: [{'start': '13900000', 'end': '17300000'}]
+}
+toafn
+:{ 
+VIVOSSPK14_065.wav: [{'start': '1800000', 'end': '4900000'}]
+VIVOSSPK14_168.wav: [{'start': '25200000', 'end': '29100000'}, {'start': '32000000', 'end': '36000000'}]
+VIVOSSPK14_189.wav: [{'start': '23500000', 'end': '26900000'}]
+VIVOSSPK14_289.wav: [{'start': '22500000', 'end': '25100000'}]
+}
+booj
+:{ 
+VIVOSSPK14_065.wav: [{'start': '4900000', 'end': '8000000'}]
+VIVOSSPK14_155.wav: [{'start': '16700000', 'end': '18900000'}]
+}
+cujm
+:{ 
+VIVOSSPK14_065.wav: [{'start': '8000000', 'end': '11700000'}]
+}
+rajp
+:{ 
+VIVOSSPK14_065.wav: [{'start': '11700000', 'end': '15400000'}]
+}
+trang
+:{ 
+VIVOSSPK14_065.wav: [{'start': '18300000', 'end': '21400000'}]
+VIVOSSPK14_255.wav: [{'start': '11900000', 'end': '15100000'}]
+VIVOSSPK14_294.wav: [{'start': '34500000', 'end': '37100000'}]
+}
+tris
+:{ 
+VIVOSSPK14_065.wav: [{'start': '21400000', 'end': '25800000'}]
+VIVOSSPK14_255.wav: [{'start': '15100000', 'end': '17800000'}]
+}
+tawsc
+:{ 
+VIVOSSPK14_066.wav: [{'start': '11700000', 'end': '15400000'}]
+}
+kef
+:{ 
+VIVOSSPK14_066.wav: [{'start': '15400000', 'end': '18200000'}]
+}
+ddoori
+:{ 
+VIVOSSPK14_066.wav: [{'start': '18200000', 'end': '20900000'}]
+VIVOSSPK14_271.wav: [{'start': '22700000', 'end': '26800000'}]
+}
+mafu
+:{ 
+VIVOSSPK14_066.wav: [{'start': '20900000', 'end': '23900000'}]
+VIVOSSPK14_255.wav: [{'start': '27400000', 'end': '30700000'}]
+VIVOSSPK14_265.wav: [{'start': '38500000', 'end': '41800000'}]
+}
+tisnh
+:{ 
+VIVOSSPK14_066.wav: [{'start': '36900000', 'end': '40100000'}]
+VIVOSSPK14_085.wav: [{'start': '25700000', 'end': '29300000'}]
+VIVOSSPK14_090.wav: [{'start': '17800000', 'end': '20900000'}]
+VIVOSSPK14_123.wav: [{'start': '24100000', 'end': '27300000'}]
+VIVOSSPK14_186.wav: [{'start': '32700000', 'end': '36300000'}]
+}
+khis
+:{ 
+VIVOSSPK14_066.wav: [{'start': '40100000', 'end': '43100000'}]
+VIVOSSPK14_147.wav: [{'start': '6700000', 'end': '10100000'}]
+VIVOSSPK14_259.wav: [{'start': '48200000', 'end': '51300000'}]
+}
+hoawjc
+:{ 
+VIVOSSPK14_067.wav: [{'start': '2900000', 'end': '7000000'}]
+VIVOSSPK14_189.wav: [{'start': '30500000', 'end': '33100000'}]
+}
+heej
+:{ 
+VIVOSSPK14_067.wav: [{'start': '9900000', 'end': '13300000'}]
+VIVOSSPK14_123.wav: [{'start': '16800000', 'end': '19100000'}]
+}
+xuaast
+:{ 
+VIVOSSPK14_067.wav: [{'start': '19300000', 'end': '23000000'}]
+VIVOSSPK14_087.wav: [{'start': '12600000', 'end': '16500000'}]
+VIVOSSPK14_197.wav: [{'start': '3900000', 'end': '7300000'}]
+VIVOSSPK14_292.wav: [{'start': '13000000', 'end': '15000000'}]
+}
+vuwown
+:{ 
+VIVOSSPK14_068.wav: [{'start': '5900000', 'end': '9500000'}]
+}
+towsi
+:{ 
+VIVOSSPK14_068.wav: [{'start': '9500000', 'end': '12300000'}]
+VIVOSSPK14_135.wav: [{'start': '7600000', 'end': '10000000'}]
+VIVOSSPK14_138.wav: [{'start': '9800000', 'end': '11800000'}]
+}
+vuwowng
+:{ 
+VIVOSSPK14_068.wav: [{'start': '15300000', 'end': '18700000'}]
+}
+mieejn
+:{ 
+VIVOSSPK14_068.wav: [{'start': '18700000', 'end': '21500000'}]
+}
+danh
+:{ 
+VIVOSSPK14_068.wav: [{'start': '21500000', 'end': '24900000'}]
+}
+ddijch
+:{ 
+VIVOSSPK14_069.wav: [{'start': '5800000', 'end': '9200000'}]
+}
+noosng
+:{ 
+VIVOSSPK14_069.wav: [{'start': '9200000', 'end': '12000000'}]
+}
+laasn
+:{ 
+VIVOSSPK14_069.wav: [{'start': '15700000', 'end': '18800000'}]
+}
+chieesm
+:{ 
+VIVOSSPK14_069.wav: [{'start': '18800000', 'end': '22800000'}]
+}
+vufng
+:{ 
+VIVOSSPK14_069.wav: [{'start': '22800000', 'end': '25700000'}]
+}
+xung
+:{ 
+VIVOSSPK14_069.wav: [{'start': '25700000', 'end': '29100000'}]
+}
+thasng
+:{ 
+VIVOSSPK14_070.wav: [{'start': '7200000', 'end': '10500000'}]
+}
+ddawjt
+:{ 
+VIVOSSPK14_071.wav: [{'start': '2700000', 'end': '6200000'}]
+VIVOSSPK14_180.wav: [{'start': '33000000', 'end': '36400000'}]
+}
+cojc
+:{ 
+VIVOSSPK14_071.wav: [{'start': '8900000', 'end': '12100000'}]
+}
+taasm
+:{ 
+VIVOSSPK14_071.wav: [{'start': '21200000', 'end': '24000000'}]
+VIVOSSPK14_177.wav: [{'start': '23500000', 'end': '26900000'}]
+}
+cajc
+:{ 
+VIVOSSPK14_071.wav: [{'start': '24000000', 'end': '27400000'}]
+}
+ys
+:{ 
+VIVOSSPK14_072.wav: [{'start': '7600000', 'end': '10200000'}]
+}
+may
+:{ 
+VIVOSSPK14_073.wav: [{'start': '4800000', 'end': '7300000'}]
+}
+mawsn
+:{ 
+VIVOSSPK14_073.wav: [{'start': '7300000', 'end': '10900000'}]
+}
+thus
+:{ 
+VIVOSSPK14_074.wav: [{'start': '6000000', 'end': '9100000'}]
+}
+bao
+:{ 
+VIVOSSPK14_074.wav: [{'start': '26200000', 'end': '29600000'}]
+}
+giowf
+:{ 
+VIVOSSPK14_074.wav: [{'start': '29600000', 'end': '33400000'}]
+VIVOSSPK14_109.wav: [{'start': '22900000', 'end': '26200000'}]
+VIVOSSPK14_132.wav: [{'start': '16600000', 'end': '19800000'}]
+VIVOSSPK14_186.wav: [{'start': '22700000', 'end': '25900000'}]
+VIVOSSPK14_252.wav: [{'start': '7500000', 'end': '10700000'}]
+}
+thisch
+:{ 
+VIVOSSPK14_074.wav: [{'start': '33400000', 'end': '36500000'}]
+VIVOSSPK14_116.wav: [{'start': '12600000', 'end': '15900000'}]
+VIVOSSPK14_155.wav: [{'start': '9800000', 'end': '12500000'}]
+}
+ddojc
+:{ 
+VIVOSSPK14_074.wav: [{'start': '37300000', 'end': '39700000'}]
+}
+ddeem
+:{ 
+VIVOSSPK14_075.wav: [{'start': '13100000', 'end': '16200000'}]
+}
+daan
+:{ 
+VIVOSSPK14_075.wav: [{'start': '19200000', 'end': '22800000'}]
+VIVOSSPK14_106.wav: [{'start': '26700000', 'end': '30100000'}]
+VIVOSSPK14_151.wav: [{'start': '16600000', 'end': '19900000'}]
+VIVOSSPK14_257.wav: [{'start': '7800000', 'end': '11500000'}]
+VIVOSSPK14_294.wav: [{'start': '8600000', 'end': '11800000'}]
+}
+mieejt
+:{ 
+VIVOSSPK14_075.wav: [{'start': '22800000', 'end': '26400000'}]
+}
+vuwowfn
+:{ 
+VIVOSSPK14_075.wav: [{'start': '26400000', 'end': '30000000'}]
+}
+treen
+:{ 
+VIVOSSPK14_076.wav: [{'start': '2100000', 'end': '5700000'}]
+VIVOSSPK14_092.wav: [{'start': '30000000', 'end': '34500000'}]
+VIVOSSPK14_130.wav: [{'start': '12400000', 'end': '14700000'}]
+VIVOSSPK14_254.wav: [{'start': '4600000', 'end': '7200000'}]
+}
+quaasn
+:{ 
+VIVOSSPK14_076.wav: [{'start': '12400000', 'end': '16100000'}]
+}
+khawn
+:{ 
+VIVOSSPK14_076.wav: [{'start': '19200000', 'end': '23300000'}]
+}
+toost
+:{ 
+VIVOSSPK14_077.wav: [{'start': '8200000', 'end': '11600000'}]
+VIVOSSPK14_089.wav: [{'start': '16200000', 'end': '19400000'}]
+}
+masu
+:{ 
+VIVOSSPK14_077.wav: [{'start': '14100000', 'end': '17900000'}]
+}
+tim
+:{ 
+VIVOSSPK14_077.wav: [{'start': '20600000', 'end': '23100000'}]
+}
+majch
+:{ 
+VIVOSSPK14_077.wav: [{'start': '23100000', 'end': '26600000'}]
+}
+bujng
+:{ 
+VIVOSSPK14_078.wav: [{'start': '2600000', 'end': '6100000'}, {'start': '15800000', 'end': '19700000'}]
+}
+sang
+:{ 
+VIVOSSPK14_078.wav: [{'start': '11900000', 'end': '15800000'}]
+VIVOSSPK14_127.wav: [{'start': '17100000', 'end': '20400000'}]
+VIVOSSPK14_138.wav: [{'start': '26600000', 'end': '30500000'}]
+}
+kia
+:{ 
+VIVOSSPK14_078.wav: [{'start': '21600000', 'end': '27000000'}]
+VIVOSSPK14_139.wav: [{'start': '11900000', 'end': '14400000'}]
+}
+nghij
+:{ 
+VIVOSSPK14_079.wav: [{'start': '4000000', 'end': '7600000'}]
+VIVOSSPK14_142.wav: [{'start': '11800000', 'end': '15400000'}]
+}
+hoj
+:{ 
+VIVOSSPK14_080.wav: [{'start': '7200000', 'end': '10000000'}]
+}
+trijnh
+:{ 
+VIVOSSPK14_080.wav: [{'start': '10000000', 'end': '12900000'}]
+}
+du
+:{ 
+VIVOSSPK14_080.wav: [{'start': '19700000', 'end': '22600000'}, {'start': '38500000', 'end': '42800000'}]
+}
+cown
+:{ 
+VIVOSSPK14_080.wav: [{'start': '29200000', 'end': '32200000'}]
+}
+moojng
+:{ 
+VIVOSSPK14_080.wav: [{'start': '32200000', 'end': '34800000'}]
+}
+caasp
+:{ 
+VIVOSSPK14_081.wav: [{'start': '7800000', 'end': '10100000'}]
+VIVOSSPK14_110.wav: [{'start': '14300000', 'end': '17000000'}]
+}
+neeu
+:{ 
+VIVOSSPK14_081.wav: [{'start': '17900000', 'end': '20700000'}]
+}
+rox
+:{ 
+VIVOSSPK14_081.wav: [{'start': '20700000', 'end': '23800000'}]
+}
+do
+:{ 
+VIVOSSPK14_081.wav: [{'start': '26700000', 'end': '30200000'}]
+VIVOSSPK14_148.wav: [{'start': '1800000', 'end': '4900000'}]
+VIVOSSPK14_293.wav: [{'start': '5200000', 'end': '7500000'}]
+}
+choosi
+:{ 
+VIVOSSPK14_081.wav: [{'start': '33200000', 'end': '38300000'}]
+}
+ddaro
+:{ 
+VIVOSSPK14_082.wav: [{'start': '5900000', 'end': '11100000'}]
+VIVOSSPK14_103.wav: [{'start': '20900000', 'end': '24100000'}]
+}
+yeesu
+:{ 
+VIVOSSPK14_083.wav: [{'start': '3000000', 'end': '5100000'}]
+VIVOSSPK14_181.wav: [{'start': '24600000', 'end': '27600000'}]
+}
+toos
+:{ 
+VIVOSSPK14_083.wav: [{'start': '5100000', 'end': '7900000'}]
+}
+hown
+:{ 
+VIVOSSPK14_083.wav: [{'start': '17900000', 'end': '21000000'}]
+VIVOSSPK14_181.wav: [{'start': '18700000', 'end': '22300000'}, {'start': '27600000', 'end': '30800000'}]
+VIVOSSPK14_264.wav: [{'start': '22200000', 'end': '25500000'}]
+VIVOSSPK14_285.wav: [{'start': '26500000', 'end': '29200000'}]
+VIVOSSPK14_300.wav: [{'start': '9100000', 'end': '11600000'}]
+}
+car
+:{ 
+VIVOSSPK14_083.wav: [{'start': '21000000', 'end': '25100000'}]
+VIVOSSPK14_086.wav: [{'start': '32600000', 'end': '35200000'}]
+VIVOSSPK14_253.wav: [{'start': '4300000', 'end': '6600000'}]
+VIVOSSPK14_279.wav: [{'start': '16500000', 'end': '20900000'}]
+}
+haxy
+:{ 
+VIVOSSPK14_084.wav: [{'start': '9300000', 'end': '11700000'}]
+}
+suwra
+:{ 
+VIVOSSPK14_084.wav: [{'start': '11700000', 'end': '15500000'}]
+VIVOSSPK14_257.wav: [{'start': '47600000', 'end': '51200000'}]
+}
+chuwxa
+:{ 
+VIVOSSPK14_084.wav: [{'start': '15500000', 'end': '18600000'}]
+}
+laji
+:{ 
+VIVOSSPK14_084.wav: [{'start': '18600000', 'end': '21800000'}]
+VIVOSSPK14_094.wav: [{'start': '21200000', 'end': '24800000'}]
+VIVOSSPK14_095.wav: [{'start': '8700000', 'end': '11500000'}]
+VIVOSSPK14_105.wav: [{'start': '25900000', 'end': '29400000'}]
+VIVOSSPK14_255.wav: [{'start': '17800000', 'end': '21100000'}]
+VIVOSSPK14_257.wav: [{'start': '51200000', 'end': '54600000'}]
+VIVOSSPK14_284.wav: [{'start': '23600000', 'end': '26000000'}]
+}
+cas
+:{ 
+VIVOSSPK14_085.wav: [{'start': '23200000', 'end': '25700000'}]
+}
+kheej
+:{ 
+VIVOSSPK14_086.wav: [{'start': '7500000', 'end': '10500000'}]
+}
+neej
+:{ 
+VIVOSSPK14_086.wav: [{'start': '10500000', 'end': '13700000'}]
+}
+hafng
+:{ 
+VIVOSSPK14_086.wav: [{'start': '16500000', 'end': '20000000'}]
+VIVOSSPK14_138.wav: [{'start': '23900000', 'end': '26600000'}]
+VIVOSSPK14_261.wav: [{'start': '22100000', 'end': '24600000'}]
+VIVOSSPK14_284.wav: [{'start': '9200000', 'end': '11700000'}]
+VIVOSSPK14_298.wav: [{'start': '22700000', 'end': '25700000'}]
+}
+tas
+:{ 
+VIVOSSPK14_086.wav: [{'start': '20000000', 'end': '22800000'}]
+}
+chuwsc
+:{ 
+VIVOSSPK14_086.wav: [{'start': '22800000', 'end': '26000000'}]
+VIVOSSPK14_187.wav: [{'start': '14300000', 'end': '17400000'}]
+}
+nawng
+:{ 
+VIVOSSPK14_086.wav: [{'start': '26000000', 'end': '29000000'}]
+VIVOSSPK14_128.wav: [{'start': '12500000', 'end': '15300000'}]
+VIVOSSPK14_280.wav: [{'start': '17800000', 'end': '21600000'}]
+}
+loajn
+:{ 
+VIVOSSPK14_086.wav: [{'start': '29000000', 'end': '32600000'}]
+}
+giuwxa
+:{ 
+VIVOSSPK14_087.wav: [{'start': '3000000', 'end': '6400000'}]
+}
+tieeu
+:{ 
+VIVOSSPK14_087.wav: [{'start': '22100000', 'end': '25300000'}]
+VIVOSSPK14_120.wav: [{'start': '36700000', 'end': '41100000'}]
+}
+dufng
+:{ 
+VIVOSSPK14_087.wav: [{'start': '25300000', 'end': '28800000'}]
+VIVOSSPK14_270.wav: [{'start': '11700000', 'end': '14900000'}]
+}
+luoon
+:{ 
+VIVOSSPK14_088.wav: [{'start': '10200000', 'end': '13800000'}]
+}
+trifnh
+:{ 
+VIVOSSPK14_088.wav: [{'start': '20600000', 'end': '24000000'}]
+VIVOSSPK14_100.wav: [{'start': '34700000', 'end': '37800000'}]
+VIVOSSPK14_155.wav: [{'start': '37600000', 'end': '40700000'}]
+}
+tuwj
+:{ 
+VIVOSSPK14_088.wav: [{'start': '24000000', 'end': '27100000'}]
+VIVOSSPK14_141.wav: [{'start': '18500000', 'end': '21200000'}]
+VIVOSSPK14_257.wav: [{'start': '30400000', 'end': '33500000'}]
+VIVOSSPK14_299.wav: [{'start': '11800000', 'end': '14200000'}]
+}
+chaajt
+:{ 
+VIVOSSPK14_089.wav: [{'start': '3300000', 'end': '6700000'}]
+}
+vaajt
+:{ 
+VIVOSSPK14_089.wav: [{'start': '6700000', 'end': '10300000'}]
+VIVOSSPK14_261.wav: [{'start': '38700000', 'end': '41400000'}]
+}
+vowr
+:{ 
+VIVOSSPK14_089.wav: [{'start': '12900000', 'end': '16200000'}]
+}
+ddajo
+:{ 
+VIVOSSPK14_089.wav: [{'start': '22500000', 'end': '25200000'}]
+VIVOSSPK14_194.wav: [{'start': '5900000', 'end': '9000000'}]
+}
+dieexn
+:{ 
+VIVOSSPK14_089.wav: [{'start': '25200000', 'end': '29600000'}]
+VIVOSSPK14_278.wav: [{'start': '16500000', 'end': '20000000'}]
+}
+baast
+:{ 
+VIVOSSPK14_090.wav: [{'start': '5400000', 'end': '8700000'}]
+}
+cuws
+:{ 
+VIVOSSPK14_090.wav: [{'start': '8700000', 'end': '11800000'}]
+VIVOSSPK14_282.wav: [{'start': '10500000', 'end': '12600000'}]
+}
+truy
+:{ 
+VIVOSSPK14_090.wav: [{'start': '31200000', 'end': '34400000'}]
+}
+caajp
+:{ 
+VIVOSSPK14_090.wav: [{'start': '34400000', 'end': '37700000'}]
+}
+caau
+:{ 
+VIVOSSPK14_093.wav: [{'start': '4600000', 'end': '7300000'}]
+VIVOSSPK14_094.wav: [{'start': '5300000', 'end': '8100000'}]
+VIVOSSPK14_199.wav: [{'start': '7700000', 'end': '10400000'}]
+VIVOSSPK14_292.wav: [{'start': '5200000', 'end': '8000000'}]
+}
+hori
+:{ 
+VIVOSSPK14_093.wav: [{'start': '7300000', 'end': '10700000'}]
+VIVOSSPK14_097.wav: [{'start': '6300000', 'end': '9200000'}]
+VIVOSSPK14_134.wav: [{'start': '13000000', 'end': '15500000'}]
+}
+vows
+:{ 
+VIVOSSPK14_093.wav: [{'start': '10700000', 'end': '13300000'}]
+}
+vaaxn
+:{ 
+VIVOSSPK14_093.wav: [{'start': '13300000', 'end': '17900000'}]
+VIVOSSPK14_094.wav: [{'start': '12000000', 'end': '15000000'}]
+VIVOSSPK14_145.wav: [{'start': '12100000', 'end': '14100000'}]
+VIVOSSPK14_177.wav: [{'start': '6200000', 'end': '9300000'}]
+VIVOSSPK14_297.wav: [{'start': '19600000', 'end': '21800000'}]
+}
+chuyeejn
+:{ 
+VIVOSSPK14_094.wav: [{'start': '8100000', 'end': '12000000'}]
+VIVOSSPK14_199.wav: [{'start': '10400000', 'end': '13500000'}]
+VIVOSSPK14_269.wav: [{'start': '41300000', 'end': '45000000'}]
+}
+duwfng
+:{ 
+VIVOSSPK14_094.wav: [{'start': '18100000', 'end': '21200000'}]
+}
+guwri
+:{ 
+VIVOSSPK14_095.wav: [{'start': '11500000', 'end': '14800000'}]
+VIVOSSPK14_121.wav: [{'start': '6100000', 'end': '9700000'}]
+}
+traf
+:{ 
+VIVOSSPK14_096.wav: [{'start': '2800000', 'end': '5600000'}]
+}
+troojn
+:{ 
+VIVOSSPK14_096.wav: [{'start': '5600000', 'end': '9300000'}]
+}
+phas
+:{ 
+VIVOSSPK14_096.wav: [{'start': '20900000', 'end': '24100000'}]
+VIVOSSPK14_100.wav: [{'start': '25500000', 'end': '28600000'}]
+VIVOSSPK14_135.wav: [{'start': '15800000', 'end': '18400000'}]
+VIVOSSPK14_187.wav: [{'start': '24800000', 'end': '27700000'}]
+}
+roosi
+:{ 
+VIVOSSPK14_096.wav: [{'start': '24100000', 'end': '27800000'}]
+}
+dijp
+:{ 
+VIVOSSPK14_096.wav: [{'start': '30400000', 'end': '33400000'}]
+}
+ddofi
+:{ 
+VIVOSSPK14_097.wav: [{'start': '3400000', 'end': '6300000'}]
+}
+thuwjc
+:{ 
+VIVOSSPK14_097.wav: [{'start': '20400000', 'end': '23600000'}]
+}
+gosi
+:{ 
+VIVOSSPK14_098.wav: [{'start': '4500000', 'end': '7200000'}]
+}
+xooi
+:{ 
+VIVOSSPK14_098.wav: [{'start': '7200000', 'end': '10400000'}]
+}
+ddaaju
+:{ 
+VIVOSSPK14_098.wav: [{'start': '10400000', 'end': '13700000'}, {'start': '28700000', 'end': '30800000'}]
+}
+xanh
+:{ 
+VIVOSSPK14_098.wav: [{'start': '13700000', 'end': '16700000'}]
+}
+duwfa
+:{ 
+VIVOSSPK14_098.wav: [{'start': '21600000', 'end': '24900000'}]
+}
+mef
+:{ 
+VIVOSSPK14_098.wav: [{'start': '24900000', 'end': '28700000'}]
+}
+phoojng
+:{ 
+VIVOSSPK14_098.wav: [{'start': '30800000', 'end': '34500000'}]
+}
+phus
+:{ 
+VIVOSSPK14_099.wav: [{'start': '5700000', 'end': '8900000'}]
+}
+bus
+:{ 
+VIVOSSPK14_099.wav: [{'start': '12200000', 'end': '15200000'}]
+VIVOSSPK14_178.wav: [{'start': '26800000', 'end': '31600000'}]
+}
+laafn
+:{ 
+VIVOSSPK14_099.wav: [{'start': '24000000', 'end': '26900000'}]
+VIVOSSPK14_188.wav: [{'start': '6300000', 'end': '10000000'}]
+VIVOSSPK14_268.wav: [{'start': '9300000', 'end': '12400000'}]
+}
+ngojn
+:{ 
+VIVOSSPK14_100.wav: [{'start': '3500000', 'end': '6400000'}]
+VIVOSSPK14_117.wav: [{'start': '24900000', 'end': '28000000'}]
+}
+luwra
+:{ 
+VIVOSSPK14_100.wav: [{'start': '6400000', 'end': '8300000'}]
+VIVOSSPK14_158.wav: [{'start': '39200000', 'end': '42300000'}]
+}
+bajo
+:{ 
+VIVOSSPK14_100.wav: [{'start': '8300000', 'end': '11000000'}]
+}
+owr
+:{ 
+VIVOSSPK14_100.wav: [{'start': '14600000', 'end': '17100000'}]
+VIVOSSPK14_128.wav: [{'start': '22600000', 'end': '24900000'}]
+VIVOSSPK14_140.wav: [{'start': '12100000', 'end': '14600000'}]
+VIVOSSPK14_148.wav: [{'start': '20000000', 'end': '22500000'}]
+VIVOSSPK14_191.wav: [{'start': '16700000', 'end': '19000000'}]
+VIVOSSPK14_256.wav: [{'start': '21100000', 'end': '23700000'}]
+VIVOSSPK14_257.wav: [{'start': '11500000', 'end': '12900000'}]
+VIVOSSPK14_284.wav: [{'start': '32200000', 'end': '34800000'}]
+}
+trung
+:{ 
+VIVOSSPK14_100.wav: [{'start': '17100000', 'end': '19800000'}]
+VIVOSSPK14_258.wav: [{'start': '35400000', 'end': '38600000'}]
+VIVOSSPK14_259.wav: [{'start': '8700000', 'end': '11600000'}]
+VIVOSSPK14_284.wav: [{'start': '29300000', 'end': '32200000'}]
+}
+ddoong
+:{ 
+VIVOSSPK14_100.wav: [{'start': '19800000', 'end': '22900000'}]
+VIVOSSPK14_132.wav: [{'start': '40200000', 'end': '43800000'}]
+}
+vowx
+:{ 
+VIVOSSPK14_100.wav: [{'start': '28600000', 'end': '31800000'}]
+}
+looj
+:{ 
+VIVOSSPK14_100.wav: [{'start': '31800000', 'end': '34700000'}]
+}
+bifnh
+:{ 
+VIVOSSPK14_100.wav: [{'start': '40100000', 'end': '43900000'}]
+VIVOSSPK14_101.wav: [{'start': '25700000', 'end': '29200000'}]
+VIVOSSPK14_178.wav: [{'start': '16900000', 'end': '19300000'}]
+}
+mufi
+:{ 
+VIVOSSPK14_101.wav: [{'start': '8100000', 'end': '11000000'}]
+VIVOSSPK14_136.wav: [{'start': '3200000', 'end': '5600000'}, {'start': '30200000', 'end': '33400000'}]
+}
+nhax
+:{ 
+VIVOSSPK14_101.wav: [{'start': '16400000', 'end': '19900000'}]
+}
+yeen
+:{ 
+VIVOSSPK14_101.wav: [{'start': '23000000', 'end': '25700000'}]
+}
+huwsa
+:{ 
+VIVOSSPK14_102.wav: [{'start': '8500000', 'end': '10800000'}]
+}
+hejn
+:{ 
+VIVOSSPK14_102.wav: [{'start': '10800000', 'end': '14200000'}]
+VIVOSSPK14_184.wav: [{'start': '23500000', 'end': '26600000'}]
+}
+ddeef
+:{ 
+VIVOSSPK14_103.wav: [{'start': '2400000', 'end': '4900000'}]
+VIVOSSPK14_142.wav: [{'start': '9900000', 'end': '11800000'}]
+}
+asn
+:{ 
+VIVOSSPK14_103.wav: [{'start': '4900000', 'end': '8100000'}]
+}
+khu
+:{ 
+VIVOSSPK14_103.wav: [{'start': '8100000', 'end': '10700000'}]
+VIVOSSPK14_151.wav: [{'start': '10700000', 'end': '13600000'}]
+VIVOSSPK14_197.wav: [{'start': '13500000', 'end': '16000000'}]
+VIVOSSPK14_257.wav: [{'start': '17300000', 'end': '20100000'}]
+}
+baro
+:{ 
+VIVOSSPK14_103.wav: [{'start': '10700000', 'end': '13800000'}]
+VIVOSSPK14_180.wav: [{'start': '8500000', 'end': '11800000'}]
+}
+toofn
+:{ 
+VIVOSSPK14_103.wav: [{'start': '13800000', 'end': '17700000'}]
+}
+coofn
+:{ 
+VIVOSSPK14_103.wav: [{'start': '24100000', 'end': '27800000'}]
+}
+cor
+:{ 
+VIVOSSPK14_103.wav: [{'start': '27800000', 'end': '32100000'}]
+VIVOSSPK14_160.wav: [{'start': '10900000', 'end': '15100000'}]
+}
+hefn
+:{ 
+VIVOSSPK14_104.wav: [{'start': '2500000', 'end': '5800000'}]
+}
+thaasy
+:{ 
+VIVOSSPK14_104.wav: [{'start': '11900000', 'end': '14300000'}]
+VIVOSSPK14_161.wav: [{'start': '39500000', 'end': '42600000'}]
+VIVOSSPK14_177.wav: [{'start': '9300000', 'end': '12600000'}]
+VIVOSSPK14_252.wav: [{'start': '29200000', 'end': '31400000'}]
+}
+mas
+:{ 
+VIVOSSPK14_104.wav: [{'start': '14300000', 'end': '17000000'}]
+}
+phisnh
+:{ 
+VIVOSSPK14_104.wav: [{'start': '19900000', 'end': '23600000'}]
+}
+chust
+:{ 
+VIVOSSPK14_104.wav: [{'start': '29600000', 'end': '32300000'}]
+}
+giusp
+:{ 
+VIVOSSPK14_105.wav: [{'start': '4100000', 'end': '6900000'}]
+}
+nhau
+:{ 
+VIVOSSPK14_105.wav: [{'start': '6900000', 'end': '10100000'}]
+VIVOSSPK14_269.wav: [{'start': '11700000', 'end': '14700000'}]
+}
+tifm
+:{ 
+VIVOSSPK14_105.wav: [{'start': '10100000', 'end': '12300000'}]
+VIVOSSPK14_161.wav: [{'start': '35800000', 'end': '39500000'}]
+VIVOSSPK14_262.wav: [{'start': '5300000', 'end': '8500000'}]
+}
+sost
+:{ 
+VIVOSSPK14_105.wav: [{'start': '22500000', 'end': '25900000'}]
+}
+musa
+:{ 
+VIVOSSPK14_106.wav: [{'start': '6600000', 'end': '9500000'}]
+}
+ddix
+:{ 
+VIVOSSPK14_106.wav: [{'start': '13200000', 'end': '15900000'}]
+}
+boofng
+:{ 
+VIVOSSPK14_106.wav: [{'start': '19500000', 'end': '23000000'}]
+}
+thawng
+:{ 
+VIVOSSPK14_106.wav: [{'start': '30100000', 'end': '32600000'}]
+}
+long
+:{ 
+VIVOSSPK14_106.wav: [{'start': '32600000', 'end': '35500000'}]
+VIVOSSPK14_156.wav: [{'start': '37400000', 'end': '40200000'}]
+}
+xuwa
+:{ 
+VIVOSSPK14_106.wav: [{'start': '35500000', 'end': '40600000'}]
+VIVOSSPK14_109.wav: [{'start': '11200000', 'end': '14400000'}]
+VIVOSSPK14_136.wav: [{'start': '11700000', 'end': '15100000'}]
+VIVOSSPK14_149.wav: [{'start': '15900000', 'end': '21700000'}]
+}
+chees
+:{ 
+VIVOSSPK14_107.wav: [{'start': '15200000', 'end': '17300000'}]
+VIVOSSPK14_187.wav: [{'start': '20900000', 'end': '24800000'}]
+VIVOSSPK14_274.wav: [{'start': '26000000', 'end': '30400000'}]
+}
+bieesn
+:{ 
+VIVOSSPK14_107.wav: [{'start': '17300000', 'end': '20800000'}]
+VIVOSSPK14_177.wav: [{'start': '16100000', 'end': '19200000'}]
+VIVOSSPK14_296.wav: [{'start': '25800000', 'end': '28900000'}]
+}
+thury
+:{ 
+VIVOSSPK14_107.wav: [{'start': '20800000', 'end': '23300000'}]
+}
+casm
+:{ 
+VIVOSSPK14_108.wav: [{'start': '7700000', 'end': '10600000'}]
+}
+doox
+:{ 
+VIVOSSPK14_108.wav: [{'start': '10600000', 'end': '14300000'}]
+}
+thuwowrng
+:{ 
+VIVOSSPK14_108.wav: [{'start': '23000000', 'end': '27200000'}]
+VIVOSSPK14_119.wav: [{'start': '20700000', 'end': '24100000'}]
+VIVOSSPK14_299.wav: [{'start': '30800000', 'end': '34200000'}]
+}
+neefn
+:{ 
+VIVOSSPK14_109.wav: [{'start': '8400000', 'end': '11200000'}]
+VIVOSSPK14_123.wav: [{'start': '13800000', 'end': '16800000'}]
+}
+baay
+:{ 
+VIVOSSPK14_109.wav: [{'start': '20000000', 'end': '22900000'}]
+VIVOSSPK14_252.wav: [{'start': '5100000', 'end': '7500000'}]
+}
+hoos
+:{ 
+VIVOSSPK14_109.wav: [{'start': '35100000', 'end': '38000000'}]
+}
+noong
+:{ 
+VIVOSSPK14_109.wav: [{'start': '38000000', 'end': '41000000'}]
+}
+choefn
+:{ 
+VIVOSSPK14_109.wav: [{'start': '41000000', 'end': '45800000'}]
+}
+ddejp
+:{ 
+VIVOSSPK14_110.wav: [{'start': '4700000', 'end': '6800000'}]
+VIVOSSPK14_297.wav: [{'start': '16400000', 'end': '19600000'}]
+}
+cuwsu
+:{ 
+VIVOSSPK14_110.wav: [{'start': '17000000', 'end': '19700000'}]
+}
+beejnh
+:{ 
+VIVOSSPK14_110.wav: [{'start': '22200000', 'end': '25500000'}]
+VIVOSSPK14_164.wav: [{'start': '15000000', 'end': '18100000'}]
+VIVOSSPK14_165.wav: [{'start': '17300000', 'end': '20700000'}, {'start': '26800000', 'end': '30200000'}]
+}
+vieejn
+:{ 
+VIVOSSPK14_110.wav: [{'start': '25500000', 'end': '28400000'}]
+VIVOSSPK14_165.wav: [{'start': '20700000', 'end': '23400000'}]
+}
+tirnh
+:{ 
+VIVOSSPK14_110.wav: [{'start': '33900000', 'end': '37100000'}]
+VIVOSSPK14_142.wav: [{'start': '15400000', 'end': '18300000'}]
+VIVOSSPK14_154.wav: [{'start': '3100000', 'end': '6300000'}]
+}
+ddoofng
+:{ 
+VIVOSSPK14_110.wav: [{'start': '37100000', 'end': '40200000'}]
+VIVOSSPK14_156.wav: [{'start': '31900000', 'end': '34600000'}]
+VIVOSSPK14_180.wav: [{'start': '5200000', 'end': '8500000'}]
+VIVOSSPK14_182.wav: [{'start': '18400000', 'end': '21200000'}]
+VIVOSSPK14_294.wav: [{'start': '23100000', 'end': '26300000'}]
+}
+thasp
+:{ 
+VIVOSSPK14_110.wav: [{'start': '40200000', 'end': '43400000'}]
+}
+sasng
+:{ 
+VIVOSSPK14_111.wav: [{'start': '9400000', 'end': '13500000'}]
+VIVOSSPK14_264.wav: [{'start': '7200000', 'end': '10800000'}]
+VIVOSSPK14_265.wav: [{'start': '54700000', 'end': '57900000'}]
+}
+ddusng
+:{ 
+VIVOSSPK14_112.wav: [{'start': '4200000', 'end': '6600000'}]
+}
+gaf
+:{ 
+VIVOSSPK14_112.wav: [{'start': '9300000', 'end': '12100000'}]
+}
+quef
+:{ 
+VIVOSSPK14_112.wav: [{'start': '12100000', 'end': '15600000'}]
+}
+awn
+:{ 
+VIVOSSPK14_112.wav: [{'start': '15600000', 'end': '18100000'}]
+VIVOSSPK14_251.wav: [{'start': '19400000', 'end': '20800000'}]
+}
+quaarn
+:{ 
+VIVOSSPK14_112.wav: [{'start': '18100000', 'end': '21300000'}]
+}
+coosi
+:{ 
+VIVOSSPK14_112.wav: [{'start': '21300000', 'end': '23600000'}]
+}
+xay
+:{ 
+VIVOSSPK14_112.wav: [{'start': '23600000', 'end': '28100000'}]
+}
+giaasc
+:{ 
+VIVOSSPK14_113.wav: [{'start': '6900000', 'end': '9700000'}]
+}
+ngur
+:{ 
+VIVOSSPK14_113.wav: [{'start': '9700000', 'end': '12500000'}]
+VIVOSSPK14_183.wav: [{'start': '16800000', 'end': '17400000'}]
+}
+chaajp
+:{ 
+VIVOSSPK14_113.wav: [{'start': '12500000', 'end': '16300000'}]
+}
+chowfn
+:{ 
+VIVOSSPK14_113.wav: [{'start': '16300000', 'end': '20100000'}]
+}
+giasm
+:{ 
+VIVOSSPK14_114.wav: [{'start': '1900000', 'end': '5700000'}]
+}
+ddoosc
+:{ 
+VIVOSSPK14_114.wav: [{'start': '5700000', 'end': '8100000'}]
+}
+giaso
+:{ 
+VIVOSSPK14_114.wav: [{'start': '11500000', 'end': '14100000'}]
+VIVOSSPK14_170.wav: [{'start': '19200000', 'end': '22100000'}]
+}
+dujc
+:{ 
+VIVOSSPK14_114.wav: [{'start': '14100000', 'end': '17000000'}]
+}
+ninh
+:{ 
+VIVOSSPK14_114.wav: [{'start': '22900000', 'end': '25800000'}]
+}
+thuaajn
+:{ 
+VIVOSSPK14_114.wav: [{'start': '25800000', 'end': '29000000'}]
+}
+beeu
+:{ 
+VIVOSSPK14_115.wav: [{'start': '9100000', 'end': '11700000'}]
+}
+phieen
+:{ 
+VIVOSSPK14_115.wav: [{'start': '17800000', 'end': '20800000'}]
+}
+tofa
+:{ 
+VIVOSSPK14_115.wav: [{'start': '20800000', 'end': '23200000'}]
+}
+truyeefn
+:{ 
+VIVOSSPK14_116.wav: [{'start': '20600000', 'end': '23700000'}]
+}
+thuws
+:{ 
+VIVOSSPK14_117.wav: [{'start': '10200000', 'end': '13000000'}]
+}
+lajc
+:{ 
+VIVOSSPK14_117.wav: [{'start': '16300000', 'end': '18700000'}]
+}
+xon
+:{ 
+VIVOSSPK14_117.wav: [{'start': '18700000', 'end': '21900000'}]
+}
+ddefn
+:{ 
+VIVOSSPK14_117.wav: [{'start': '28000000', 'end': '31600000'}]
+VIVOSSPK14_125.wav: [{'start': '4000000', 'end': '7800000'}]
+}
+gion
+:{ 
+VIVOSSPK14_118.wav: [{'start': '6900000', 'end': '9700000'}]
+}
+giorn
+:{ 
+VIVOSSPK14_118.wav: [{'start': '9700000', 'end': '15000000'}]
+}
+chisnh
+:{ 
+VIVOSSPK14_119.wav: [{'start': '9100000', 'end': '12400000'}]
+VIVOSSPK14_141.wav: [{'start': '27300000', 'end': '30600000'}]
+VIVOSSPK14_146.wav: [{'start': '4300000', 'end': '7700000'}]
+VIVOSSPK14_148.wav: [{'start': '4900000', 'end': '7800000'}]
+}
+quys
+:{ 
+VIVOSSPK14_119.wav: [{'start': '24100000', 'end': '26200000'}]
+}
+ver
+:{ 
+VIVOSSPK14_120.wav: [{'start': '2700000', 'end': '5500000'}]
+}
+lufm
+:{ 
+VIVOSSPK14_120.wav: [{'start': '14100000', 'end': '16800000'}]
+}
+xufm
+:{ 
+VIVOSSPK14_120.wav: [{'start': '16800000', 'end': '19300000'}]
+}
+huwowsng
+:{ 
+VIVOSSPK14_120.wav: [{'start': '25800000', 'end': '29200000'}]
+VIVOSSPK14_192.wav: [{'start': '10400000', 'end': '13900000'}]
+}
+ty
+:{ 
+VIVOSSPK14_121.wav: [{'start': '15100000', 'end': '17700000'}]
+}
+hawfng
+:{ 
+VIVOSSPK14_122.wav: [{'start': '11900000', 'end': '14400000'}]
+}
+vieejt
+:{ 
+VIVOSSPK14_122.wav: [{'start': '22900000', 'end': '25700000'}]
+VIVOSSPK14_148.wav: [{'start': '22500000', 'end': '25200000'}]
+}
+nam
+:{ 
+VIVOSSPK14_122.wav: [{'start': '25700000', 'end': '29600000'}]
+VIVOSSPK14_148.wav: [{'start': '25200000', 'end': '29600000'}]
+}
+xaay
+:{ 
+VIVOSSPK14_123.wav: [{'start': '4900000', 'end': '7800000'}]
+VIVOSSPK14_142.wav: [{'start': '24100000', 'end': '27400000'}]
+}
+duwjng
+:{ 
+VIVOSSPK14_123.wav: [{'start': '7800000', 'end': '10900000'}]
+VIVOSSPK14_142.wav: [{'start': '27400000', 'end': '30300000'}]
+VIVOSSPK14_256.wav: [{'start': '14500000', 'end': '17800000'}]
+}
+thoosng
+:{ 
+VIVOSSPK14_123.wav: [{'start': '19100000', 'end': '22100000'}]
+}
+dduwsc
+:{ 
+VIVOSSPK14_123.wav: [{'start': '22100000', 'end': '24100000'}]
+}
+rieeng
+:{ 
+VIVOSSPK14_123.wav: [{'start': '27300000', 'end': '30500000'}]
+}
+tawrn
+:{ 
+VIVOSSPK14_124.wav: [{'start': '4500000', 'end': '8100000'}]
+}
+mawrn
+:{ 
+VIVOSSPK14_124.wav: [{'start': '8100000', 'end': '13100000'}]
+}
+tir
+:{ 
+VIVOSSPK14_124.wav: [{'start': '13100000', 'end': '16300000'}]
+}
+mir
+:{ 
+VIVOSSPK14_124.wav: [{'start': '16300000', 'end': '21400000'}]
+}
+huw
+:{ 
+VIVOSSPK14_125.wav: [{'start': '10900000', 'end': '14100000'}]
+}
+ba
+:{ 
+VIVOSSPK14_125.wav: [{'start': '16600000', 'end': '21000000'}]
+VIVOSSPK14_201.wav: [{'start': '15100000', 'end': '18700000'}]
+VIVOSSPK14_204.wav: [{'start': '19200000', 'end': '24200000'}]
+VIVOSSPK14_208.wav: [{'start': '19800000', 'end': '24700000'}]
+VIVOSSPK14_212.wav: [{'start': '3800000', 'end': '7100000'}, {'start': '11300000', 'end': '13700000'}]
+VIVOSSPK14_213.wav: [{'start': '4700000', 'end': '6400000'}, {'start': '12800000', 'end': '14500000'}, {'start': '16700000', 'end': '21500000'}]
+VIVOSSPK14_214.wav: [{'start': '4700000', 'end': '6200000'}, {'start': '12400000', 'end': '14000000'}]
+VIVOSSPK14_215.wav: [{'start': '3500000', 'end': '5100000'}, {'start': '11500000', 'end': '13100000'}]
+VIVOSSPK14_216.wav: [{'start': '4200000', 'end': '5800000'}, {'start': '12100000', 'end': '13400000'}]
+VIVOSSPK14_218.wav: [{'start': '14700000', 'end': '19200000'}]
+VIVOSSPK14_223.wav: [{'start': '15400000', 'end': '20200000'}]
+VIVOSSPK14_228.wav: [{'start': '13800000', 'end': '18600000'}]
+VIVOSSPK14_233.wav: [{'start': '14000000', 'end': '18200000'}]
+VIVOSSPK14_238.wav: [{'start': '15500000', 'end': '20100000'}]
+VIVOSSPK14_243.wav: [{'start': '13900000', 'end': '18400000'}]
+VIVOSSPK14_247.wav: [{'start': '17600000', 'end': '21700000'}]
+VIVOSSPK14_248.wav: [{'start': '8100000', 'end': '11300000'}]
+VIVOSSPK14_250.wav: [{'start': '11300000', 'end': '14900000'}]
+VIVOSSPK14_285.wav: [{'start': '29200000', 'end': '31700000'}]
+}
+khasc
+:{ 
+VIVOSSPK14_126.wav: [{'start': '25200000', 'end': '28800000'}]
+VIVOSSPK14_169.wav: [{'start': '24400000', 'end': '28200000'}]
+}
+chajy
+:{ 
+VIVOSSPK14_127.wav: [{'start': '14400000', 'end': '17100000'}]
+}
+can
+:{ 
+VIVOSSPK14_127.wav: [{'start': '20400000', 'end': '23100000'}]
+}
+ngawn
+:{ 
+VIVOSSPK14_127.wav: [{'start': '23100000', 'end': '26100000'}]
+}
+tuyeesn
+:{ 
+VIVOSSPK14_127.wav: [{'start': '31600000', 'end': '34400000'}]
+VIVOSSPK14_254.wav: [{'start': '10300000', 'end': '13400000'}]
+}
+tieesp
+:{ 
+VIVOSSPK14_127.wav: [{'start': '36900000', 'end': '40500000'}]
+VIVOSSPK14_131.wav: [{'start': '7700000', 'end': '9700000'}]
+VIVOSSPK14_295.wav: [{'start': '16900000', 'end': '19300000'}]
+}
+khar
+:{ 
+VIVOSSPK14_128.wav: [{'start': '10100000', 'end': '12500000'}]
+VIVOSSPK14_292.wav: [{'start': '25900000', 'end': '29700000'}]
+}
+cawjp
+:{ 
+VIVOSSPK14_129.wav: [{'start': '5700000', 'end': '8000000'}]
+}
+nhifn
+:{ 
+VIVOSSPK14_129.wav: [{'start': '10900000', 'end': '14200000'}]
+VIVOSSPK14_279.wav: [{'start': '4300000', 'end': '7600000'}]
+}
+lim
+:{ 
+VIVOSSPK14_129.wav: [{'start': '14200000', 'end': '16800000'}]
+}
+dim
+:{ 
+VIVOSSPK14_129.wav: [{'start': '16800000', 'end': '19700000'}]
+}
+nhefm
+:{ 
+VIVOSSPK14_129.wav: [{'start': '19700000', 'end': '22700000'}]
+}
+nhejp
+:{ 
+VIVOSSPK14_129.wav: [{'start': '22700000', 'end': '26400000'}]
+}
+khoarng
+:{ 
+VIVOSSPK14_130.wav: [{'start': '6100000', 'end': '9400000'}]
+}
+troosng
+:{ 
+VIVOSSPK14_130.wav: [{'start': '9400000', 'end': '12400000'}]
+}
+tuwowfng
+:{ 
+VIVOSSPK14_130.wav: [{'start': '14700000', 'end': '18200000'}]
+}
+buwsc
+:{ 
+VIVOSSPK14_130.wav: [{'start': '28000000', 'end': '30800000'}]
+VIVOSSPK14_171.wav: [{'start': '23900000', 'end': '26700000'}]
+}
+tranh
+:{ 
+VIVOSSPK14_130.wav: [{'start': '30800000', 'end': '33900000'}]
+VIVOSSPK14_171.wav: [{'start': '26700000', 'end': '30300000'}]
+}
+safi
+:{ 
+VIVOSSPK14_131.wav: [{'start': '17200000', 'end': '20400000'}]
+}
+gofn
+:{ 
+VIVOSSPK14_131.wav: [{'start': '20400000', 'end': '23800000'}]
+}
+tuaafn
+:{ 
+VIVOSSPK14_131.wav: [{'start': '26300000', 'end': '30900000'}]
+VIVOSSPK14_284.wav: [{'start': '11700000', 'end': '14700000'}]
+}
+ddoor
+:{ 
+VIVOSSPK14_132.wav: [{'start': '8000000', 'end': '10700000'}]
+VIVOSSPK14_153.wav: [{'start': '18700000', 'end': '21900000'}]
+}
+looxi
+:{ 
+VIVOSSPK14_132.wav: [{'start': '10700000', 'end': '13700000'}]
+}
+neen
+:{ 
+VIVOSSPK14_132.wav: [{'start': '25800000', 'end': '29500000'}]
+VIVOSSPK14_133.wav: [{'start': '3800000', 'end': '6200000'}]
+VIVOSSPK14_293.wav: [{'start': '19400000', 'end': '22600000'}]
+VIVOSSPK14_300.wav: [{'start': '11600000', 'end': '14400000'}]
+}
+buyst
+:{ 
+VIVOSSPK14_132.wav: [{'start': '37300000', 'end': '40200000'}]
+}
+trof
+:{ 
+VIVOSSPK14_133.wav: [{'start': '14300000', 'end': '17000000'}]
+}
+nghe
+:{ 
+VIVOSSPK14_134.wav: [{'start': '5300000', 'end': '7300000'}]
+VIVOSSPK14_199.wav: [{'start': '16600000', 'end': '19600000'}]
+}
+chij
+:{ 
+VIVOSSPK14_134.wav: [{'start': '21600000', 'end': '24900000'}]
+}
+ngast
+:{ 
+VIVOSSPK14_134.wav: [{'start': '24900000', 'end': '28300000'}]
+}
+raan
+:{ 
+VIVOSSPK14_134.wav: [{'start': '28300000', 'end': '31100000'}]
+}
+raasn
+:{ 
+VIVOSSPK14_134.wav: [{'start': '31100000', 'end': '33500000'}]
+}
+trajng
+:{ 
+VIVOSSPK14_135.wav: [{'start': '13000000', 'end': '15800000'}]
+}
+quyeejn
+:{ 
+VIVOSSPK14_136.wav: [{'start': '23500000', 'end': '27200000'}]
+}
+vij
+:{ 
+VIVOSSPK14_136.wav: [{'start': '33400000', 'end': '36500000'}]
+}
+thieen
+:{ 
+VIVOSSPK14_136.wav: [{'start': '36500000', 'end': '39100000'}]
+VIVOSSPK14_281.wav: [{'start': '4200000', 'end': '7300000'}]
+}
+nhieen
+:{ 
+VIVOSSPK14_136.wav: [{'start': '39100000', 'end': '43200000'}]
+VIVOSSPK14_138.wav: [{'start': '5900000', 'end': '9800000'}]
+VIVOSSPK14_294.wav: [{'start': '46400000', 'end': '49000000'}]
+}
+tasc
+:{ 
+VIVOSSPK14_137.wav: [{'start': '6500000', 'end': '9600000'}]
+}
+phosng
+:{ 
+VIVOSSPK14_137.wav: [{'start': '12500000', 'end': '16200000'}]
+}
+mawjt
+:{ 
+VIVOSSPK14_137.wav: [{'start': '16200000', 'end': '19600000'}]
+VIVOSSPK14_160.wav: [{'start': '4400000', 'end': '7100000'}]
+VIVOSSPK14_292.wav: [{'start': '23500000', 'end': '25900000'}]
+}
+tuy
+:{ 
+VIVOSSPK14_138.wav: [{'start': '3800000', 'end': '5900000'}]
+VIVOSSPK14_166.wav: [{'start': '7600000', 'end': '11800000'}]
+}
+quaafy
+:{ 
+VIVOSSPK14_138.wav: [{'start': '21300000', 'end': '23900000'}]
+}
+phisa
+:{ 
+VIVOSSPK14_139.wav: [{'start': '4100000', 'end': '5900000'}]
+VIVOSSPK14_157.wav: [{'start': '23900000', 'end': '26700000'}]
+VIVOSSPK14_192.wav: [{'start': '28100000', 'end': '30700000'}]
+VIVOSSPK14_200.wav: [{'start': '14500000', 'end': '17000000'}]
+}
+daxy
+:{ 
+VIVOSSPK14_139.wav: [{'start': '17700000', 'end': '20800000'}]
+}
+ddoofi
+:{ 
+VIVOSSPK14_139.wav: [{'start': '20800000', 'end': '24200000'}]
+}
+phur
+:{ 
+VIVOSSPK14_139.wav: [{'start': '24200000', 'end': '27000000'}]
+VIVOSSPK14_148.wav: [{'start': '7800000', 'end': '10700000'}]
+}
+rowjp
+:{ 
+VIVOSSPK14_139.wav: [{'start': '27000000', 'end': '30600000'}]
+}
+bosng
+:{ 
+VIVOSSPK14_139.wav: [{'start': '30600000', 'end': '33200000'}]
+}
+caay
+:{ 
+VIVOSSPK14_139.wav: [{'start': '33200000', 'end': '36700000'}]
+VIVOSSPK14_286.wav: [{'start': '16400000', 'end': '18800000'}]
+}
+giarm
+:{ 
+VIVOSSPK14_140.wav: [{'start': '6000000', 'end': '9700000'}]
+VIVOSSPK14_172.wav: [{'start': '25000000', 'end': '28700000'}]
+VIVOSSPK14_274.wav: [{'start': '19900000', 'end': '23200000'}]
+}
+gaafu
+:{ 
+VIVOSSPK14_140.wav: [{'start': '9700000', 'end': '12100000'}]
+}
+nguwng
+:{ 
+VIVOSSPK14_140.wav: [{'start': '23600000', 'end': '27000000'}]
+}
+rujng
+:{ 
+VIVOSSPK14_140.wav: [{'start': '27000000', 'end': '30000000'}]
+}
+dieejp
+:{ 
+VIVOSSPK14_141.wav: [{'start': '3000000', 'end': '6500000'}]
+}
+vaajy
+:{ 
+VIVOSSPK14_141.wav: [{'start': '12500000', 'end': '15600000'}]
+VIVOSSPK14_282.wav: [{'start': '21500000', 'end': '25100000'}]
+}
+nhajo
+:{ 
+VIVOSSPK14_141.wav: [{'start': '24300000', 'end': '27300000'}]
+}
+tum
+:{ 
+VIVOSSPK14_142.wav: [{'start': '21100000', 'end': '24100000'}]
+}
+cuwra
+:{ 
+VIVOSSPK14_142.wav: [{'start': '30300000', 'end': '33100000'}]
+VIVOSSPK14_298.wav: [{'start': '20200000', 'end': '22700000'}]
+}
+khaaru
+:{ 
+VIVOSSPK14_142.wav: [{'start': '33100000', 'end': '37800000'}]
+VIVOSSPK14_197.wav: [{'start': '10000000', 'end': '13500000'}]
+}
+ghes
+:{ 
+VIVOSSPK14_143.wav: [{'start': '13500000', 'end': '16100000'}]
+}
+thawm
+:{ 
+VIVOSSPK14_143.wav: [{'start': '16100000', 'end': '19600000'}]
+}
+casy
+:{ 
+VIVOSSPK14_144.wav: [{'start': '9300000', 'end': '12400000'}, {'start': '15800000', 'end': '20300000'}]
+}
+basnh
+:{ 
+VIVOSSPK14_144.wav: [{'start': '12400000', 'end': '15800000'}]
+}
+yeeu
+:{ 
+VIVOSSPK14_145.wav: [{'start': '9300000', 'end': '12100000'}]
+VIVOSSPK14_177.wav: [{'start': '37600000', 'end': '41500000'}]
+VIVOSSPK14_269.wav: [{'start': '9500000', 'end': '11700000'}]
+}
+noofng
+:{ 
+VIVOSSPK14_145.wav: [{'start': '14100000', 'end': '17600000'}]
+}
+nafn
+:{ 
+VIVOSSPK14_145.wav: [{'start': '17600000', 'end': '21100000'}]
+}
+say
+:{ 
+VIVOSSPK14_145.wav: [{'start': '23600000', 'end': '29400000'}]
+}
+ddawsm
+:{ 
+VIVOSSPK14_145.wav: [{'start': '29400000', 'end': '30300000'}]
+}
+buoori
+:{ 
+VIVOSSPK14_145.wav: [{'start': '33200000', 'end': '36400000'}]
+VIVOSSPK14_264.wav: [{'start': '4900000', 'end': '7200000'}, {'start': '25500000', 'end': '28000000'}]
+}
+ban
+:{ 
+VIVOSSPK14_145.wav: [{'start': '36400000', 'end': '39700000'}]
+VIVOSSPK14_289.wav: [{'start': '17000000', 'end': '20300000'}]
+}
+quyeefn
+:{ 
+VIVOSSPK14_146.wav: [{'start': '7700000', 'end': '11100000'}]
+VIVOSSPK14_180.wav: [{'start': '26500000', 'end': '30300000'}]
+}
+ddija
+:{ 
+VIVOSSPK14_146.wav: [{'start': '11100000', 'end': '13600000'}]
+VIVOSSPK14_281.wav: [{'start': '10800000', 'end': '13300000'}]
+}
+phuwowng
+:{ 
+VIVOSSPK14_146.wav: [{'start': '13600000', 'end': '19100000'}]
+}
+khaarn
+:{ 
+VIVOSSPK14_147.wav: [{'start': '10100000', 'end': '13100000'}]
+}
+truwowng
+:{ 
+VIVOSSPK14_147.wav: [{'start': '13100000', 'end': '16500000'}]
+VIVOSSPK14_298.wav: [{'start': '16900000', 'end': '20200000'}]
+}
+nooxi
+:{ 
+VIVOSSPK14_147.wav: [{'start': '18800000', 'end': '24300000'}]
+}
+myx
+:{ 
+VIVOSSPK14_148.wav: [{'start': '10700000', 'end': '13700000'}]
+VIVOSSPK14_261.wav: [{'start': '15300000', 'end': '18500000'}]
+}
+tieesn
+:{ 
+VIVOSSPK14_148.wav: [{'start': '13700000', 'end': '16800000'}]
+VIVOSSPK14_192.wav: [{'start': '22900000', 'end': '25900000'}]
+}
+hafnh
+:{ 
+VIVOSSPK14_148.wav: [{'start': '16800000', 'end': '20000000'}]
+}
+thijt
+:{ 
+VIVOSSPK14_149.wav: [{'start': '2800000', 'end': '6300000'}]
+}
+hoor
+:{ 
+VIVOSSPK14_149.wav: [{'start': '6300000', 'end': '9400000'}]
+}
+xong
+:{ 
+VIVOSSPK14_149.wav: [{'start': '9400000', 'end': '12500000'}]
+VIVOSSPK14_272.wav: [{'start': '12400000', 'end': '16100000'}]
+}
+tufng
+:{ 
+VIVOSSPK14_150.wav: [{'start': '11500000', 'end': '15100000'}]
+}
+muoosn
+:{ 
+VIVOSSPK14_150.wav: [{'start': '15100000', 'end': '17400000'}]
+}
+chaast
+:{ 
+VIVOSSPK14_150.wav: [{'start': '24000000', 'end': '27400000'}]
+}
+yeeng
+:{ 
+VIVOSSPK14_150.wav: [{'start': '27400000', 'end': '30900000'}]
+}
+ddaay
+:{ 
+VIVOSSPK14_151.wav: [{'start': '5000000', 'end': '7800000'}]
+VIVOSSPK14_296.wav: [{'start': '3500000', 'end': '6300000'}]
+}
+cuw
+:{ 
+VIVOSSPK14_151.wav: [{'start': '19900000', 'end': '22600000'}]
+VIVOSSPK14_257.wav: [{'start': '23400000', 'end': '26800000'}]
+}
+lao
+:{ 
+VIVOSSPK14_151.wav: [{'start': '22600000', 'end': '25500000'}]
+}
+nghefo
+:{ 
+VIVOSSPK14_151.wav: [{'start': '29500000', 'end': '34000000'}]
+}
+casp
+:{ 
+VIVOSSPK14_152.wav: [{'start': '10900000', 'end': '14100000'}]
+}
+thesp
+:{ 
+VIVOSSPK14_152.wav: [{'start': '17200000', 'end': '20800000'}]
+}
+gir
+:{ 
+VIVOSSPK14_152.wav: [{'start': '23400000', 'end': '28300000'}]
+}
+heest
+:{ 
+VIVOSSPK14_153.wav: [{'start': '21900000', 'end': '25100000'}]
+VIVOSSPK14_163.wav: [{'start': '14800000', 'end': '17000000'}]
+VIVOSSPK14_275.wav: [{'start': '11300000', 'end': '14100000'}]
+}
+quarng
+:{ 
+VIVOSSPK14_154.wav: [{'start': '6300000', 'end': '9400000'}]
+}
+trij
+:{ 
+VIVOSSPK14_154.wav: [{'start': '9400000', 'end': '12700000'}]
+}
+phee
+:{ 
+VIVOSSPK14_154.wav: [{'start': '15000000', 'end': '18000000'}]
+VIVOSSPK14_299.wav: [{'start': '22000000', 'end': '25100000'}]
+}
+duyeejt
+:{ 
+VIVOSSPK14_154.wav: [{'start': '18000000', 'end': '21700000'}]
+}
+xem
+:{ 
+VIVOSSPK14_155.wav: [{'start': '12500000', 'end': '16700000'}]
+}
+phim
+:{ 
+VIVOSSPK14_155.wav: [{'start': '18900000', 'end': '22300000'}]
+}
+truyeejn
+:{ 
+VIVOSSPK14_155.wav: [{'start': '22300000', 'end': '25600000'}]
+}
+phast
+:{ 
+VIVOSSPK14_155.wav: [{'start': '25600000', 'end': '29000000'}]
+VIVOSSPK14_165.wav: [{'start': '40000000', 'end': '43600000'}]
+VIVOSSPK14_285.wav: [{'start': '20000000', 'end': '24000000'}]
+}
+ngay
+:{ 
+VIVOSSPK14_155.wav: [{'start': '29000000', 'end': '31000000'}]
+}
+chuwowng
+:{ 
+VIVOSSPK14_155.wav: [{'start': '34500000', 'end': '37600000'}]
+}
+pha
+:{ 
+VIVOSSPK14_156.wav: [{'start': '11600000', 'end': '14300000'}]
+VIVOSSPK14_299.wav: [{'start': '17100000', 'end': '19700000'}]
+}
+taasn
+:{ 
+VIVOSSPK14_156.wav: [{'start': '14300000', 'end': '17500000'}]
+}
+doofn
+:{ 
+VIVOSSPK14_156.wav: [{'start': '20100000', 'end': '22700000'}]
+}
+daajp
+:{ 
+VIVOSSPK14_156.wav: [{'start': '22700000', 'end': '26200000'}]
+}
+ddoofn
+:{ 
+VIVOSSPK14_156.wav: [{'start': '28600000', 'end': '31900000'}]
+}
+taam
+:{ 
+VIVOSSPK14_156.wav: [{'start': '34600000', 'end': '37400000'}]
+VIVOSSPK14_258.wav: [{'start': '38600000', 'end': '42700000'}]
+VIVOSSPK14_259.wav: [{'start': '11600000', 'end': '15600000'}]
+}
+carnh
+:{ 
+VIVOSSPK14_157.wav: [{'start': '5700000', 'end': '8100000'}]
+VIVOSSPK14_285.wav: [{'start': '14600000', 'end': '17100000'}]
+}
+sast
+:{ 
+VIVOSSPK14_157.wav: [{'start': '8100000', 'end': '12100000'}]
+VIVOSSPK14_285.wav: [{'start': '17100000', 'end': '20000000'}]
+}
+nhuwowsng
+:{ 
+VIVOSSPK14_157.wav: [{'start': '14800000', 'end': '18400000'}]
+}
+mafy
+:{ 
+VIVOSSPK14_157.wav: [{'start': '18400000', 'end': '21200000'}]
+}
+lee
+:{ 
+VIVOSSPK14_158.wav: [{'start': '4400000', 'end': '7400000'}]
+}
+thusy
+:{ 
+VIVOSSPK14_158.wav: [{'start': '7400000', 'end': '10700000'}]
+}
+nga
+:{ 
+VIVOSSPK14_158.wav: [{'start': '10700000', 'end': '13800000'}]
+}
+xin
+:{ 
+VIVOSSPK14_158.wav: [{'start': '13800000', 'end': '17200000'}]
+VIVOSSPK14_272.wav: [{'start': '18100000', 'end': '21700000'}]
+}
+tieexn
+:{ 
+VIVOSSPK14_158.wav: [{'start': '17200000', 'end': '20100000'}]
+}
+thow
+:{ 
+VIVOSSPK14_158.wav: [{'start': '22600000', 'end': '26200000'}]
+VIVOSSPK14_191.wav: [{'start': '22500000', 'end': '25300000'}]
+}
+khosi
+:{ 
+VIVOSSPK14_158.wav: [{'start': '36200000', 'end': '39200000'}]
+}
+mang
+:{ 
+VIVOSSPK14_159.wav: [{'start': '20500000', 'end': '23800000'}]
+}
+giafy
+:{ 
+VIVOSSPK14_159.wav: [{'start': '23800000', 'end': '27300000'}]
+}
+vasy
+:{ 
+VIVOSSPK14_159.wav: [{'start': '30600000', 'end': '33500000'}]
+}
+len
+:{ 
+VIVOSSPK14_159.wav: [{'start': '33500000', 'end': '36600000'}]
+}
+loong
+:{ 
+VIVOSSPK14_159.wav: [{'start': '42800000', 'end': '45800000'}]
+}
+cuwfu
+:{ 
+VIVOSSPK14_159.wav: [{'start': '45800000', 'end': '50300000'}]
+}
+xaasu
+:{ 
+VIVOSSPK14_160.wav: [{'start': '17800000', 'end': '23200000'}]
+}
+sow
+:{ 
+VIVOSSPK14_161.wav: [{'start': '15800000', 'end': '20200000'}]
+}
+hajnh
+:{ 
+VIVOSSPK14_161.wav: [{'start': '42600000', 'end': '45200000'}]
+}
+phusc
+:{ 
+VIVOSSPK14_161.wav: [{'start': '45200000', 'end': '48500000'}]
+}
+taafm
+:{ 
+VIVOSSPK14_162.wav: [{'start': '11400000', 'end': '14800000'}]
+}
+ddo
+:{ 
+VIVOSSPK14_162.wav: [{'start': '31100000', 'end': '33600000'}]
+}
+thuwr
+:{ 
+VIVOSSPK14_163.wav: [{'start': '8300000', 'end': '11500000'}]
+}
+thasch
+:{ 
+VIVOSSPK14_163.wav: [{'start': '11500000', 'end': '14800000'}]
+}
+suwsc
+:{ 
+VIVOSSPK14_163.wav: [{'start': '17000000', 'end': '21000000'}]
+}
+nghieejt
+:{ 
+VIVOSSPK14_163.wav: [{'start': '21000000', 'end': '24800000'}]
+}
+ngax
+:{ 
+VIVOSSPK14_163.wav: [{'start': '24800000', 'end': '29100000'}]
+}
+khi
+:{ 
+VIVOSSPK14_164.wav: [{'start': '5700000', 'end': '8700000'}]
+VIVOSSPK14_171.wav: [{'start': '17400000', 'end': '20900000'}]
+VIVOSSPK14_193.wav: [{'start': '7900000', 'end': '10900000'}]
+VIVOSSPK14_258.wav: [{'start': '8100000', 'end': '11200000'}]
+VIVOSSPK14_272.wav: [{'start': '7200000', 'end': '9800000'}]
+}
+traaxm
+:{ 
+VIVOSSPK14_164.wav: [{'start': '8700000', 'end': '11600000'}]
+}
+khori
+:{ 
+VIVOSSPK14_164.wav: [{'start': '11600000', 'end': '15000000'}]
+VIVOSSPK14_190.wav: [{'start': '21100000', 'end': '24400000'}]
+}
+chesm
+:{ 
+VIVOSSPK14_164.wav: [{'start': '24500000', 'end': '28200000'}]
+}
+rowfi
+:{ 
+VIVOSSPK14_165.wav: [{'start': '13600000', 'end': '17300000'}]
+}
+tasi
+:{ 
+VIVOSSPK14_165.wav: [{'start': '37000000', 'end': '40000000'}]
+}
+lisp
+:{ 
+VIVOSSPK14_166.wav: [{'start': '4200000', 'end': '7600000'}, {'start': '11800000', 'end': '14700000'}]
+}
+cajnh
+:{ 
+VIVOSSPK14_167.wav: [{'start': '8600000', 'end': '11400000'}]
+}
+gianh
+:{ 
+VIVOSSPK14_167.wav: [{'start': '15200000', 'end': '18900000'}]
+}
+pin
+:{ 
+VIVOSSPK14_168.wav: [{'start': '7300000', 'end': '10700000'}]
+}
+tafu
+:{ 
+VIVOSSPK14_168.wav: [{'start': '10700000', 'end': '13200000'}]
+VIVOSSPK14_295.wav: [{'start': '6600000', 'end': '9200000'}]
+}
+xij
+:{ 
+VIVOSSPK14_168.wav: [{'start': '13200000', 'end': '16500000'}]
+}
+xes
+:{ 
+VIVOSSPK14_168.wav: [{'start': '16500000', 'end': '19500000'}]
+VIVOSSPK14_198.wav: [{'start': '9500000', 'end': '12700000'}]
+}
+rasch
+:{ 
+VIVOSSPK14_168.wav: [{'start': '19500000', 'end': '22300000'}]
+}
+nast
+:{ 
+VIVOSSPK14_168.wav: [{'start': '22300000', 'end': '25200000'}]
+}
+hoafn
+:{ 
+VIVOSSPK14_168.wav: [{'start': '29100000', 'end': '32000000'}]
+}
+khai
+:{ 
+VIVOSSPK14_169.wav: [{'start': '12100000', 'end': '15100000'}]
+VIVOSSPK14_298.wav: [{'start': '14000000', 'end': '16900000'}]
+}
+ddoafn
+:{ 
+VIVOSSPK14_170.wav: [{'start': '15400000', 'end': '19200000'}]
+}
+phuwowfng
+:{ 
+VIVOSSPK14_170.wav: [{'start': '28300000', 'end': '32900000'}]
+}
+basc
+:{ 
+VIVOSSPK14_171.wav: [{'start': '4000000', 'end': '7600000'}]
+}
+chuw
+:{ 
+VIVOSSPK14_171.wav: [{'start': '7600000', 'end': '10400000'}]
+}
+khoasi
+:{ 
+VIVOSSPK14_171.wav: [{'start': '13400000', 'end': '17400000'}]
+}
+vex
+:{ 
+VIVOSSPK14_171.wav: [{'start': '20900000', 'end': '23900000'}]
+}
+bawst
+:{ 
+VIVOSSPK14_171.wav: [{'start': '30300000', 'end': '34500000'}]
+}
+bojp
+:{ 
+VIVOSSPK14_171.wav: [{'start': '34500000', 'end': '36800000'}]
+}
+hifnh
+:{ 
+VIVOSSPK14_172.wav: [{'start': '7600000', 'end': '11700000'}]
+}
+hieejp
+:{ 
+VIVOSSPK14_172.wav: [{'start': '15400000', 'end': '18800000'}]
+}
+ddijnh
+:{ 
+VIVOSSPK14_172.wav: [{'start': '18800000', 'end': '21600000'}]
+}
+cawst
+:{ 
+VIVOSSPK14_172.wav: [{'start': '21600000', 'end': '25000000'}]
+VIVOSSPK14_195.wav: [{'start': '28400000', 'end': '31300000'}]
+VIVOSSPK14_274.wav: [{'start': '17300000', 'end': '19900000'}]
+}
+nguoofn
+:{ 
+VIVOSSPK14_172.wav: [{'start': '28700000', 'end': '32500000'}]
+}
+cung
+:{ 
+VIVOSSPK14_172.wav: [{'start': '32500000', 'end': '36300000'}]
+}
+quyeern
+:{ 
+VIVOSSPK14_173.wav: [{'start': '6800000', 'end': '8400000'}]
+}
+tieeru
+:{ 
+VIVOSSPK14_173.wav: [{'start': '8400000', 'end': '11300000'}]
+}
+thuyeest
+:{ 
+VIVOSSPK14_173.wav: [{'start': '11300000', 'end': '14800000'}]
+VIVOSSPK14_295.wav: [{'start': '25100000', 'end': '28100000'}]
+}
+thees
+:{ 
+VIVOSSPK14_173.wav: [{'start': '17100000', 'end': '22200000'}]
+VIVOSSPK14_174.wav: [{'start': '10100000', 'end': '13200000'}]
+}
+vox
+:{ 
+VIVOSSPK14_174.wav: [{'start': '3900000', 'end': '7100000'}]
+}
+thuwfa
+:{ 
+VIVOSSPK14_174.wav: [{'start': '13200000', 'end': '15800000'}]
+}
+tharn
+:{ 
+VIVOSSPK14_174.wav: [{'start': '41000000', 'end': '45900000'}]
+}
+truaajt
+:{ 
+VIVOSSPK14_175.wav: [{'start': '6000000', 'end': '10100000'}, {'start': '22300000', 'end': '25400000'}]
+}
+dduwowng
+:{ 
+VIVOSSPK14_175.wav: [{'start': '10100000', 'end': '14600000'}]
+}
+qui
+:{ 
+VIVOSSPK14_175.wav: [{'start': '14600000', 'end': '17900000'}]
+}
+bajch
+:{ 
+VIVOSSPK14_175.wav: [{'start': '17900000', 'end': '21800000'}]
+}
+howsp
+:{ 
+VIVOSSPK14_176.wav: [{'start': '9000000', 'end': '12200000'}]
+}
+khasn
+:{ 
+VIVOSSPK14_176.wav: [{'start': '15300000', 'end': '18400000'}]
+}
+phoor
+:{ 
+VIVOSSPK14_177.wav: [{'start': '12600000', 'end': '16100000'}]
+}
+lofng
+:{ 
+VIVOSSPK14_177.wav: [{'start': '26900000', 'end': '29800000'}]
+}
+huyeest
+:{ 
+VIVOSSPK14_177.wav: [{'start': '34200000', 'end': '37600000'}]
+}
+chiju
+:{ 
+VIVOSSPK14_178.wav: [{'start': '9900000', 'end': '13200000'}]
+}
+caafm
+:{ 
+VIVOSSPK14_178.wav: [{'start': '13200000', 'end': '16900000'}]
+}
+aarm
+:{ 
+VIVOSSPK14_179.wav: [{'start': '18100000', 'end': '22400000'}]
+VIVOSSPK14_297.wav: [{'start': '24500000', 'end': '27900000'}]
+}
+asp
+:{ 
+VIVOSSPK14_180.wav: [{'start': '30300000', 'end': '33000000'}]
+}
+leejnh
+:{ 
+VIVOSSPK14_180.wav: [{'start': '39700000', 'end': '42600000'}]
+}
+caasm
+:{ 
+VIVOSSPK14_180.wav: [{'start': '42600000', 'end': '46200000'}]
+}
+vowst
+:{ 
+VIVOSSPK14_181.wav: [{'start': '9000000', 'end': '11000000'}, {'start': '37200000', 'end': '40200000'}]
+}
+truwowsc
+:{ 
+VIVOSSPK14_181.wav: [{'start': '40200000', 'end': '43100000'}]
+VIVOSSPK14_192.wav: [{'start': '30700000', 'end': '34700000'}]
+}
+vinh
+:{ 
+VIVOSSPK14_183.wav: [{'start': '7400000', 'end': '10200000'}]
+}
+buoofn
+:{ 
+VIVOSSPK14_183.wav: [{'start': '10200000', 'end': '16800000'}]
+VIVOSSPK14_265.wav: [{'start': '6400000', 'end': '9900000'}]
+}
+nuwxa
+:{ 
+VIVOSSPK14_184.wav: [{'start': '10800000', 'end': '14000000'}]
+}
+cuoojc
+:{ 
+VIVOSSPK14_184.wav: [{'start': '19500000', 'end': '23500000'}]
+VIVOSSPK14_271.wav: [{'start': '10600000', 'end': '13500000'}]
+}
+hof
+:{ 
+VIVOSSPK14_184.wav: [{'start': '26600000', 'end': '31800000'}]
+}
+phajt
+:{ 
+VIVOSSPK14_185.wav: [{'start': '3800000', 'end': '6800000'}]
+VIVOSSPK14_273.wav: [{'start': '11400000', 'end': '14500000'}]
+}
+dduwst
+:{ 
+VIVOSSPK14_185.wav: [{'start': '6800000', 'end': '9600000'}]
+}
+choofi
+:{ 
+VIVOSSPK14_185.wav: [{'start': '9600000', 'end': '12900000'}]
+}
+quar
+:{ 
+VIVOSSPK14_185.wav: [{'start': '15600000', 'end': '18900000'}]
+}
+duwsa
+:{ 
+VIVOSSPK14_185.wav: [{'start': '18900000', 'end': '21900000'}]
+}
+non
+:{ 
+VIVOSSPK14_185.wav: [{'start': '21900000', 'end': '26200000'}]
+}
+mee
+:{ 
+VIVOSSPK14_186.wav: [{'start': '4700000', 'end': '7700000'}]
+}
+mari
+:{ 
+VIVOSSPK14_186.wav: [{'start': '7700000', 'end': '11600000'}]
+}
+taajn
+:{ 
+VIVOSSPK14_186.wav: [{'start': '14800000', 'end': '17700000'}]
+VIVOSSPK14_200.wav: [{'start': '11600000', 'end': '14500000'}]
+}
+chisn
+:{ 
+VIVOSSPK14_186.wav: [{'start': '17700000', 'end': '22700000'}]
+VIVOSSPK14_203.wav: [{'start': '6600000', 'end': '11300000'}]
+VIVOSSPK14_206.wav: [{'start': '18100000', 'end': '22700000'}]
+VIVOSSPK14_211.wav: [{'start': '15400000', 'end': '20400000'}]
+VIVOSSPK14_216.wav: [{'start': '15300000', 'end': '20100000'}]
+VIVOSSPK14_221.wav: [{'start': '16100000', 'end': '20600000'}]
+VIVOSSPK14_226.wav: [{'start': '17500000', 'end': '21800000'}]
+VIVOSSPK14_231.wav: [{'start': '15100000', 'end': '19200000'}]
+VIVOSSPK14_236.wav: [{'start': '16800000', 'end': '21200000'}]
+VIVOSSPK14_241.wav: [{'start': '13900000', 'end': '18200000'}]
+VIVOSSPK14_242.wav: [{'start': '3600000', 'end': '7200000'}, {'start': '11000000', 'end': '13800000'}]
+VIVOSSPK14_243.wav: [{'start': '1900000', 'end': '4200000'}, {'start': '9800000', 'end': '12200000'}]
+VIVOSSPK14_244.wav: [{'start': '3800000', 'end': '5900000'}, {'start': '11900000', 'end': '13900000'}]
+VIVOSSPK14_245.wav: [{'start': '4000000', 'end': '6100000'}, {'start': '11900000', 'end': '14000000'}]
+VIVOSSPK14_246.wav: [{'start': '3900000', 'end': '6100000'}, {'start': '11800000', 'end': '14000000'}, {'start': '15500000', 'end': '19900000'}]
+VIVOSSPK14_248.wav: [{'start': '18200000', 'end': '22700000'}]
+}
+suwjc
+:{ 
+VIVOSSPK14_186.wav: [{'start': '28800000', 'end': '32300000'}]
+}
+toor
+:{ 
+VIVOSSPK14_187.wav: [{'start': '12000000', 'end': '14300000'}]
+}
+cuwowxng
+:{ 
+VIVOSSPK14_187.wav: [{'start': '17400000', 'end': '20900000'}]
+}
+dowx
+:{ 
+VIVOSSPK14_187.wav: [{'start': '27700000', 'end': '32700000'}]
+}
+chuwsng
+:{ 
+VIVOSSPK14_188.wav: [{'start': '10000000', 'end': '12700000'}]
+}
+kieesn
+:{ 
+VIVOSSPK14_188.wav: [{'start': '12700000', 'end': '16100000'}]
+}
+thay
+:{ 
+VIVOSSPK14_189.wav: [{'start': '7900000', 'end': '11400000'}]
+VIVOSSPK14_271.wav: [{'start': '19600000', 'end': '22700000'}]
+VIVOSSPK14_288.wav: [{'start': '20000000', 'end': '23200000'}]
+}
+khowsp
+:{ 
+VIVOSSPK14_189.wav: [{'start': '11400000', 'end': '14600000'}]
+}
+goosi
+:{ 
+VIVOSSPK14_189.wav: [{'start': '14600000', 'end': '17400000'}]
+}
+lowsn
+:{ 
+VIVOSSPK14_190.wav: [{'start': '8900000', 'end': '11600000'}]
+VIVOSSPK14_260.wav: [{'start': '7000000', 'end': '10300000'}]
+}
+bojn
+:{ 
+VIVOSSPK14_190.wav: [{'start': '11600000', 'end': '14000000'}]
+VIVOSSPK14_275.wav: [{'start': '14100000', 'end': '16600000'}]
+}
+thoast
+:{ 
+VIVOSSPK14_190.wav: [{'start': '17600000', 'end': '21100000'}]
+}
+luwowxi
+:{ 
+VIVOSSPK14_190.wav: [{'start': '34200000', 'end': '37100000'}]
+}
+lieefm
+:{ 
+VIVOSSPK14_190.wav: [{'start': '37100000', 'end': '41100000'}]
+}
+sao
+:{ 
+VIVOSSPK14_191.wav: [{'start': '12900000', 'end': '16700000'}]
+}
+khuynh
+:{ 
+VIVOSSPK14_192.wav: [{'start': '7000000', 'end': '10400000'}]
+}
+tuoori
+:{ 
+VIVOSSPK14_192.wav: [{'start': '13900000', 'end': '16600000'}]
+}
+truwf
+:{ 
+VIVOSSPK14_193.wav: [{'start': '5300000', 'end': '7900000'}]
+}
+toon
+:{ 
+VIVOSSPK14_193.wav: [{'start': '16500000', 'end': '19500000'}]
+}
+barn
+:{ 
+VIVOSSPK14_193.wav: [{'start': '22700000', 'end': '25700000'}]
+}
+tar
+:{ 
+VIVOSSPK14_194.wav: [{'start': '12600000', 'end': '15400000'}]
+}
+duwjc
+:{ 
+VIVOSSPK14_194.wav: [{'start': '15400000', 'end': '18400000'}]
+}
+dduwowfng
+:{ 
+VIVOSSPK14_195.wav: [{'start': '9500000', 'end': '12100000'}]
+VIVOSSPK14_252.wav: [{'start': '22900000', 'end': '26700000'}]
+VIVOSSPK14_255.wav: [{'start': '3600000', 'end': '6400000'}]
+}
+ngawsn
+:{ 
+VIVOSSPK14_195.wav: [{'start': '12100000', 'end': '14900000'}]
+}
+ngurn
+:{ 
+VIVOSSPK14_195.wav: [{'start': '14900000', 'end': '18500000'}]
+}
+nhast
+:{ 
+VIVOSSPK14_195.wav: [{'start': '25000000', 'end': '28400000'}]
+}
+nghixa
+:{ 
+VIVOSSPK14_196.wav: [{'start': '3400000', 'end': '6800000'}]
+}
+choori
+:{ 
+VIVOSSPK14_196.wav: [{'start': '13300000', 'end': '16400000'}]
+}
+seer
+:{ 
+VIVOSSPK14_196.wav: [{'start': '16400000', 'end': '21400000'}]
+}
+cawsn
+:{ 
+VIVOSSPK14_198.wav: [{'start': '6800000', 'end': '9500000'}]
+}
+teen
+:{ 
+VIVOSSPK14_198.wav: [{'start': '12700000', 'end': '15800000'}]
+}
+troojm
+:{ 
+VIVOSSPK14_198.wav: [{'start': '15800000', 'end': '18700000'}]
+}
+ngowx
+:{ 
+VIVOSSPK14_199.wav: [{'start': '19600000', 'end': '23700000'}]
+}
+nghijch
+:{ 
+VIVOSSPK14_199.wav: [{'start': '29400000', 'end': '32800000'}]
+}
+xa
+:{ 
+VIVOSSPK14_200.wav: [{'start': '17000000', 'end': '22300000'}]
+}
+boosn
+:{ 
+VIVOSSPK14_201.wav: [{'start': '18700000', 'end': '23300000'}]
+VIVOSSPK14_202.wav: [{'start': '2200000', 'end': '5400000'}]
+VIVOSSPK14_205.wav: [{'start': '5800000', 'end': '9800000'}]
+VIVOSSPK14_209.wav: [{'start': '8100000', 'end': '12700000'}]
+VIVOSSPK14_214.wav: [{'start': '8200000', 'end': '12400000'}]
+VIVOSSPK14_217.wav: [{'start': '2600000', 'end': '6300000'}, {'start': '9900000', 'end': '12500000'}]
+VIVOSSPK14_218.wav: [{'start': '3200000', 'end': '5200000'}, {'start': '10800000', 'end': '13200000'}]
+VIVOSSPK14_219.wav: [{'start': '3800000', 'end': '5800000'}, {'start': '7700000', 'end': '12000000'}, {'start': '12000000', 'end': '13900000'}]
+VIVOSSPK14_220.wav: [{'start': '4600000', 'end': '6500000'}, {'start': '12300000', 'end': '14600000'}]
+VIVOSSPK14_221.wav: [{'start': '4400000', 'end': '6500000'}, {'start': '12600000', 'end': '14500000'}]
+VIVOSSPK14_224.wav: [{'start': '7300000', 'end': '10900000'}]
+VIVOSSPK14_229.wav: [{'start': '6700000', 'end': '10400000'}]
+VIVOSSPK14_234.wav: [{'start': '6400000', 'end': '10700000'}]
+VIVOSSPK14_239.wav: [{'start': '7200000', 'end': '11200000'}]
+VIVOSSPK14_244.wav: [{'start': '7700000', 'end': '11900000'}]
+VIVOSSPK14_249.wav: [{'start': '12100000', 'end': '15600000'}]
+VIVOSSPK14_250.wav: [{'start': '14900000', 'end': '18300000'}]
+}
+sasu
+:{ 
+VIVOSSPK14_202.wav: [{'start': '8700000', 'end': '13200000'}]
+VIVOSSPK14_205.wav: [{'start': '18200000', 'end': '23700000'}]
+VIVOSSPK14_210.wav: [{'start': '7600000', 'end': '12400000'}]
+VIVOSSPK14_215.wav: [{'start': '6800000', 'end': '11500000'}]
+VIVOSSPK14_220.wav: [{'start': '7900000', 'end': '12300000'}]
+VIVOSSPK14_225.wav: [{'start': '7600000', 'end': '11800000'}]
+VIVOSSPK14_227.wav: [{'start': '1200000', 'end': '5500000'}, {'start': '9300000', 'end': '11700000'}]
+VIVOSSPK14_228.wav: [{'start': '1100000', 'end': '4000000'}, {'start': '9700000', 'end': '11800000'}]
+VIVOSSPK14_229.wav: [{'start': '1100000', 'end': '4800000'}, {'start': '10400000', 'end': '12800000'}]
+VIVOSSPK14_230.wav: [{'start': '3200000', 'end': '5600000'}, {'start': '7500000', 'end': '11600000'}, {'start': '11600000', 'end': '13800000'}]
+VIVOSSPK14_231.wav: [{'start': '3000000', 'end': '5300000'}, {'start': '11100000', 'end': '13400000'}]
+VIVOSSPK14_235.wav: [{'start': '7300000', 'end': '11800000'}]
+VIVOSSPK14_240.wav: [{'start': '6700000', 'end': '11000000'}]
+VIVOSSPK14_245.wav: [{'start': '7500000', 'end': '11900000'}]
+VIVOSSPK14_249.wav: [{'start': '15600000', 'end': '19800000'}]
+}
+bary
+:{ 
+VIVOSSPK14_202.wav: [{'start': '13200000', 'end': '16500000'}]
+VIVOSSPK14_206.wav: [{'start': '5000000', 'end': '8800000'}]
+VIVOSSPK14_210.wav: [{'start': '16400000', 'end': '20800000'}]
+VIVOSSPK14_215.wav: [{'start': '15300000', 'end': '19800000'}]
+VIVOSSPK14_220.wav: [{'start': '16100000', 'end': '20200000'}]
+VIVOSSPK14_225.wav: [{'start': '15700000', 'end': '20000000'}]
+VIVOSSPK14_230.wav: [{'start': '15900000', 'end': '20100000'}]
+VIVOSSPK14_232.wav: [{'start': '3100000', 'end': '6300000'}, {'start': '9900000', 'end': '12500000'}]
+VIVOSSPK14_233.wav: [{'start': '1800000', 'end': '3800000'}, {'start': '10000000', 'end': '12000000'}]
+VIVOSSPK14_234.wav: [{'start': '2300000', 'end': '4300000'}, {'start': '10700000', 'end': '12400000'}]
+VIVOSSPK14_235.wav: [{'start': '3900000', 'end': '5600000'}, {'start': '11800000', 'end': '13600000'}, {'start': '15600000', 'end': '19600000'}]
+VIVOSSPK14_236.wav: [{'start': '5500000', 'end': '7100000'}, {'start': '13300000', 'end': '14900000'}]
+VIVOSSPK14_240.wav: [{'start': '14900000', 'end': '19000000'}]
+VIVOSSPK14_245.wav: [{'start': '15900000', 'end': '20200000'}]
+VIVOSSPK14_248.wav: [{'start': '15600000', 'end': '18200000'}]
+VIVOSSPK14_290.wav: [{'start': '4100000', 'end': '6600000'}]
+}
+tasm
+:{ 
+VIVOSSPK14_202.wav: [{'start': '16500000', 'end': '21200000'}]
+VIVOSSPK14_203.wav: [{'start': '3100000', 'end': '6600000'}]
+VIVOSSPK14_206.wav: [{'start': '11600000', 'end': '14800000'}]
+VIVOSSPK14_211.wav: [{'start': '7400000', 'end': '11900000'}]
+VIVOSSPK14_216.wav: [{'start': '7700000', 'end': '12100000'}]
+VIVOSSPK14_221.wav: [{'start': '8000000', 'end': '12600000'}]
+VIVOSSPK14_226.wav: [{'start': '9800000', 'end': '14000000'}]
+VIVOSSPK14_231.wav: [{'start': '7200000', 'end': '11100000'}]
+VIVOSSPK14_236.wav: [{'start': '8900000', 'end': '13300000'}]
+VIVOSSPK14_237.wav: [{'start': '4400000', 'end': '7100000'}, {'start': '11100000', 'end': '13700000'}]
+VIVOSSPK14_238.wav: [{'start': '4000000', 'end': '5800000'}, {'start': '11500000', 'end': '13700000'}]
+VIVOSSPK14_239.wav: [{'start': '3800000', 'end': '5800000'}, {'start': '11200000', 'end': '13500000'}]
+VIVOSSPK14_240.wav: [{'start': '3100000', 'end': '5100000'}, {'start': '11000000', 'end': '13300000'}]
+VIVOSSPK14_241.wav: [{'start': '2900000', 'end': '4900000'}, {'start': '6400000', 'end': '10400000'}, {'start': '10400000', 'end': '12500000'}]
+VIVOSSPK14_246.wav: [{'start': '7600000', 'end': '11800000'}]
+VIVOSSPK14_249.wav: [{'start': '19800000', 'end': '24200000'}]
+}
+muwowfi
+:{ 
+VIVOSSPK14_203.wav: [{'start': '11300000', 'end': '14500000'}, {'start': '14500000', 'end': '18100000'}]
+VIVOSSPK14_204.wav: [{'start': '3400000', 'end': '6100000'}, {'start': '9900000', 'end': '12600000'}, {'start': '16600000', 'end': '19200000'}]
+VIVOSSPK14_205.wav: [{'start': '3500000', 'end': '5800000'}, {'start': '9800000', 'end': '12200000'}, {'start': '16100000', 'end': '18200000'}]
+VIVOSSPK14_206.wav: [{'start': '2600000', 'end': '5000000'}, {'start': '8800000', 'end': '11600000'}, {'start': '14800000', 'end': '18100000'}]
+}
+lawm
+:{ 
+VIVOSSPK14_205.wav: [{'start': '12200000', 'end': '16100000'}]
+VIVOSSPK14_209.wav: [{'start': '16300000', 'end': '20200000'}]
+VIVOSSPK14_214.wav: [{'start': '16100000', 'end': '19900000'}]
+VIVOSSPK14_219.wav: [{'start': '15500000', 'end': '19200000'}]
+VIVOSSPK14_224.wav: [{'start': '15100000', 'end': '19600000'}]
+VIVOSSPK14_229.wav: [{'start': '14700000', 'end': '18400000'}]
+VIVOSSPK14_234.wav: [{'start': '14400000', 'end': '17900000'}]
+VIVOSSPK14_239.wav: [{'start': '15200000', 'end': '18800000'}]
+VIVOSSPK14_244.wav: [{'start': '15800000', 'end': '19300000'}]
+}
+muwowi
+:{ 
+VIVOSSPK14_207.wav: [{'start': '9400000', 'end': '13600000'}, {'start': '16300000', 'end': '18100000'}]
+VIVOSSPK14_208.wav: [{'start': '9100000', 'end': '11100000'}, {'start': '17800000', 'end': '19800000'}]
+VIVOSSPK14_209.wav: [{'start': '5900000', 'end': '8100000'}, {'start': '14500000', 'end': '16300000'}]
+VIVOSSPK14_210.wav: [{'start': '5800000', 'end': '7600000'}, {'start': '14500000', 'end': '16400000'}]
+VIVOSSPK14_211.wav: [{'start': '5700000', 'end': '7400000'}, {'start': '13500000', 'end': '15400000'}]
+VIVOSSPK14_212.wav: [{'start': '7100000', 'end': '11300000'}, {'start': '13700000', 'end': '15600000'}]
+VIVOSSPK14_213.wav: [{'start': '6400000', 'end': '8400000'}, {'start': '14500000', 'end': '16700000'}]
+VIVOSSPK14_214.wav: [{'start': '6200000', 'end': '8200000'}, {'start': '14000000', 'end': '16100000'}]
+VIVOSSPK14_215.wav: [{'start': '5100000', 'end': '6800000'}, {'start': '13100000', 'end': '15300000'}]
+VIVOSSPK14_216.wav: [{'start': '5800000', 'end': '7700000'}, {'start': '13400000', 'end': '15300000'}]
+VIVOSSPK14_217.wav: [{'start': '6300000', 'end': '9900000'}, {'start': '12500000', 'end': '14300000'}]
+VIVOSSPK14_218.wav: [{'start': '5200000', 'end': '6800000'}, {'start': '13200000', 'end': '14700000'}]
+VIVOSSPK14_219.wav: [{'start': '5800000', 'end': '7700000'}, {'start': '13900000', 'end': '15500000'}]
+VIVOSSPK14_220.wav: [{'start': '6500000', 'end': '7900000'}, {'start': '14600000', 'end': '16100000'}]
+VIVOSSPK14_221.wav: [{'start': '6500000', 'end': '8000000'}, {'start': '14500000', 'end': '16100000'}]
+VIVOSSPK14_222.wav: [{'start': '8600000', 'end': '11900000'}, {'start': '14500000', 'end': '16100000'}]
+VIVOSSPK14_223.wav: [{'start': '5700000', 'end': '7400000'}, {'start': '13700000', 'end': '15400000'}]
+VIVOSSPK14_224.wav: [{'start': '5600000', 'end': '7300000'}, {'start': '13600000', 'end': '15100000'}]
+VIVOSSPK14_225.wav: [{'start': '6300000', 'end': '7600000'}, {'start': '14000000', 'end': '15700000'}]
+VIVOSSPK14_226.wav: [{'start': '8400000', 'end': '9800000'}, {'start': '16000000', 'end': '17500000'}]
+VIVOSSPK14_227.wav: [{'start': '5500000', 'end': '9300000'}, {'start': '11700000', 'end': '13700000'}]
+VIVOSSPK14_228.wav: [{'start': '4000000', 'end': '6300000'}, {'start': '11800000', 'end': '13800000'}]
+VIVOSSPK14_229.wav: [{'start': '4800000', 'end': '6700000'}, {'start': '12800000', 'end': '14700000'}]
+VIVOSSPK14_230.wav: [{'start': '5600000', 'end': '7500000'}, {'start': '13800000', 'end': '15900000'}]
+VIVOSSPK14_231.wav: [{'start': '5300000', 'end': '7200000'}, {'start': '13400000', 'end': '15100000'}]
+VIVOSSPK14_232.wav: [{'start': '6300000', 'end': '9900000'}, {'start': '12500000', 'end': '14200000'}]
+VIVOSSPK14_233.wav: [{'start': '3800000', 'end': '6000000'}, {'start': '12000000', 'end': '14000000'}]
+VIVOSSPK14_234.wav: [{'start': '4300000', 'end': '6400000'}, {'start': '12400000', 'end': '14400000'}]
+VIVOSSPK14_235.wav: [{'start': '5600000', 'end': '7300000'}, {'start': '13600000', 'end': '15600000'}]
+VIVOSSPK14_236.wav: [{'start': '7100000', 'end': '8900000'}, {'start': '14900000', 'end': '16800000'}]
+VIVOSSPK14_237.wav: [{'start': '7100000', 'end': '11100000'}, {'start': '13700000', 'end': '15400000'}]
+VIVOSSPK14_238.wav: [{'start': '5800000', 'end': '7600000'}, {'start': '13700000', 'end': '15500000'}]
+VIVOSSPK14_239.wav: [{'start': '5800000', 'end': '7200000'}, {'start': '13500000', 'end': '15200000'}]
+VIVOSSPK14_240.wav: [{'start': '5100000', 'end': '6700000'}, {'start': '13300000', 'end': '14900000'}]
+VIVOSSPK14_241.wav: [{'start': '4900000', 'end': '6400000'}, {'start': '12500000', 'end': '13900000'}]
+VIVOSSPK14_242.wav: [{'start': '7200000', 'end': '11000000'}, {'start': '13800000', 'end': '15500000'}]
+VIVOSSPK14_243.wav: [{'start': '4200000', 'end': '5900000'}, {'start': '12200000', 'end': '13900000'}]
+VIVOSSPK14_244.wav: [{'start': '5900000', 'end': '7700000'}, {'start': '13900000', 'end': '15800000'}]
+VIVOSSPK14_245.wav: [{'start': '6100000', 'end': '7500000'}, {'start': '14000000', 'end': '15900000'}]
+VIVOSSPK14_246.wav: [{'start': '6100000', 'end': '7600000'}, {'start': '14000000', 'end': '15500000'}]
+}
+moost
+:{ 
+VIVOSSPK14_207.wav: [{'start': '18100000', 'end': '21700000'}]
+VIVOSSPK14_212.wav: [{'start': '15600000', 'end': '19800000'}]
+VIVOSSPK14_217.wav: [{'start': '14300000', 'end': '17400000'}]
+VIVOSSPK14_222.wav: [{'start': '16100000', 'end': '20000000'}]
+VIVOSSPK14_227.wav: [{'start': '13700000', 'end': '17100000'}]
+VIVOSSPK14_232.wav: [{'start': '14200000', 'end': '17600000'}]
+VIVOSSPK14_237.wav: [{'start': '15400000', 'end': '19200000'}]
+VIVOSSPK14_242.wav: [{'start': '15500000', 'end': '18900000'}]
+}
+trawm
+:{ 
+VIVOSSPK14_247.wav: [{'start': '8700000', 'end': '13600000'}]
+}
+chowi
+:{ 
+VIVOSSPK14_251.wav: [{'start': '20800000', 'end': '24200000'}]
+}
+cuwowsp
+:{ 
+VIVOSSPK14_252.wav: [{'start': '10700000', 'end': '14000000'}]
+}
+sowj
+:{ 
+VIVOSSPK14_252.wav: [{'start': '31400000', 'end': '36200000'}]
+}
+hoosi
+:{ 
+VIVOSSPK14_254.wav: [{'start': '25400000', 'end': '28000000'}]
+}
+har
+:{ 
+VIVOSSPK14_254.wav: [{'start': '28000000', 'end': '31000000'}]
+}
+dojn
+:{ 
+VIVOSSPK14_254.wav: [{'start': '31000000', 'end': '34700000'}]
+}
+dejp
+:{ 
+VIVOSSPK14_254.wav: [{'start': '34700000', 'end': '38600000'}]
+}
+ruwjc
+:{ 
+VIVOSSPK14_255.wav: [{'start': '21100000', 'end': '24000000'}]
+VIVOSSPK14_259.wav: [{'start': '38400000', 'end': '41400000'}]
+}
+hoa
+:{ 
+VIVOSSPK14_255.wav: [{'start': '30700000', 'end': '33000000'}]
+VIVOSSPK14_258.wav: [{'start': '14200000', 'end': '16900000'}]
+VIVOSSPK14_293.wav: [{'start': '28800000', 'end': '30900000'}]
+}
+mai
+:{ 
+VIVOSSPK14_255.wav: [{'start': '33000000', 'end': '37700000'}]
+VIVOSSPK14_293.wav: [{'start': '22600000', 'end': '25300000'}]
+}
+chafo
+:{ 
+VIVOSSPK14_256.wav: [{'start': '8300000', 'end': '11800000'}]
+}
+chung
+:{ 
+VIVOSSPK14_257.wav: [{'start': '20100000', 'end': '23400000'}]
+}
+bor
+:{ 
+VIVOSSPK14_257.wav: [{'start': '33500000', 'end': '36400000'}]
+}
+tuwowi
+:{ 
+VIVOSSPK14_258.wav: [{'start': '16900000', 'end': '20200000'}]
+}
+chuyeern
+:{ 
+VIVOSSPK14_258.wav: [{'start': '28400000', 'end': '33100000'}]
+}
+mua
+:{ 
+VIVOSSPK14_259.wav: [{'start': '15600000', 'end': '16900000'}]
+}
+sawsm
+:{ 
+VIVOSSPK14_259.wav: [{'start': '16900000', 'end': '20100000'}]
+}
+sieeu
+:{ 
+VIVOSSPK14_259.wav: [{'start': '20100000', 'end': '23100000'}]
+}
+ddosn
+:{ 
+VIVOSSPK14_259.wav: [{'start': '51300000', 'end': '53700000'}]
+}
+hoajt
+:{ 
+VIVOSSPK14_260.wav: [{'start': '13800000', 'end': '15700000'}]
+VIVOSSPK14_265.wav: [{'start': '49200000', 'end': '52100000'}]
+}
+ddeefu
+:{ 
+VIVOSSPK14_260.wav: [{'start': '21800000', 'end': '24400000'}]
+}
+tham
+:{ 
+VIVOSSPK14_260.wav: [{'start': '30100000', 'end': '33100000'}]
+}
+gia
+:{ 
+VIVOSSPK14_260.wav: [{'start': '33100000', 'end': '36400000'}]
+VIVOSSPK14_269.wav: [{'start': '26900000', 'end': '29600000'}]
+VIVOSSPK14_289.wav: [{'start': '33900000', 'end': '37600000'}]
+VIVOSSPK14_299.wav: [{'start': '8900000', 'end': '11800000'}]
+}
+mefo
+:{ 
+VIVOSSPK14_261.wav: [{'start': '9600000', 'end': '12600000'}]
+}
+gieest
+:{ 
+VIVOSSPK14_261.wav: [{'start': '18500000', 'end': '22100000'}]
+}
+tyr
+:{ 
+VIVOSSPK14_261.wav: [{'start': '24600000', 'end': '27200000'}]
+VIVOSSPK14_294.wav: [{'start': '20800000', 'end': '23100000'}]
+}
+vus
+:{ 
+VIVOSSPK14_261.wav: [{'start': '43800000', 'end': '46700000'}]
+}
+hung
+:{ 
+VIVOSSPK14_262.wav: [{'start': '8500000', 'end': '11100000'}]
+}
+thur
+:{ 
+VIVOSSPK14_262.wav: [{'start': '11100000', 'end': '14300000'}]
+}
+hieesp
+:{ 
+VIVOSSPK14_262.wav: [{'start': '14300000', 'end': '17200000'}]
+}
+daam
+:{ 
+VIVOSSPK14_262.wav: [{'start': '17200000', 'end': '20000000'}]
+}
+bojt
+:{ 
+VIVOSSPK14_262.wav: [{'start': '25700000', 'end': '28900000'}]
+}
+duwj
+:{ 
+VIVOSSPK14_263.wav: [{'start': '4300000', 'end': '7200000'}]
+}
+ddoo
+:{ 
+VIVOSSPK14_263.wav: [{'start': '27200000', 'end': '29800000'}]
+}
+oo
+:{ 
+VIVOSSPK14_264.wav: [{'start': '18400000', 'end': '18700000'}]
+}
+nhieexm
+:{ 
+VIVOSSPK14_264.wav: [{'start': '18700000', 'end': '22200000'}]
+}
+truwa
+:{ 
+VIVOSSPK14_264.wav: [{'start': '28000000', 'end': '32400000'}]
+}
+ter
+:{ 
+VIVOSSPK14_265.wav: [{'start': '9900000', 'end': '12700000'}]
+}
+trowr
+:{ 
+VIVOSSPK14_265.wav: [{'start': '26400000', 'end': '30000000'}]
+}
+marnh
+:{ 
+VIVOSSPK14_265.wav: [{'start': '33000000', 'end': '35800000'}]
+}
+mowx
+:{ 
+VIVOSSPK14_265.wav: [{'start': '41800000', 'end': '45100000'}]
+}
+nosng
+:{ 
+VIVOSSPK14_266.wav: [{'start': '4800000', 'end': '7800000'}]
+}
+giaajn
+:{ 
+VIVOSSPK14_266.wav: [{'start': '7800000', 'end': '11000000'}]
+}
+lawng
+:{ 
+VIVOSSPK14_266.wav: [{'start': '16300000', 'end': '19400000'}]
+}
+lowfi
+:{ 
+VIVOSSPK14_267.wav: [{'start': '8500000', 'end': '11900000'}]
+VIVOSSPK14_292.wav: [{'start': '10400000', 'end': '13000000'}]
+}
+thieesu
+:{ 
+VIVOSSPK14_267.wav: [{'start': '15100000', 'end': '17700000'}]
+}
+xusc
+:{ 
+VIVOSSPK14_267.wav: [{'start': '25600000', 'end': '28200000'}]
+}
+phajm
+:{ 
+VIVOSSPK14_267.wav: [{'start': '28200000', 'end': '32600000'}]
+}
+thaajm
+:{ 
+VIVOSSPK14_267.wav: [{'start': '35300000', 'end': '38200000'}]
+}
+teej
+:{ 
+VIVOSSPK14_267.wav: [{'start': '38200000', 'end': '42100000'}]
+}
+maast
+:{ 
+VIVOSSPK14_268.wav: [{'start': '23700000', 'end': '27200000'}]
+}
+ddifnh
+:{ 
+VIVOSSPK14_269.wav: [{'start': '29600000', 'end': '33000000'}]
+}
+xary
+:{ 
+VIVOSSPK14_269.wav: [{'start': '35600000', 'end': '38700000'}]
+}
+dao
+:{ 
+VIVOSSPK14_270.wav: [{'start': '14900000', 'end': '18400000'}]
+}
+ther
+:{ 
+VIVOSSPK14_273.wav: [{'start': '14500000', 'end': '16800000'}]
+}
+ddor
+:{ 
+VIVOSSPK14_273.wav: [{'start': '16800000', 'end': '21900000'}]
+}
+kieeru
+:{ 
+VIVOSSPK14_274.wav: [{'start': '5300000', 'end': '8000000'}]
+}
+chawsc
+:{ 
+VIVOSSPK14_274.wav: [{'start': '11200000', 'end': '13900000'}]
+}
+bieen
+:{ 
+VIVOSSPK14_274.wav: [{'start': '23200000', 'end': '26000000'}]
+VIVOSSPK14_288.wav: [{'start': '12200000', 'end': '14400000'}]
+}
+sa
+:{ 
+VIVOSSPK14_275.wav: [{'start': '4300000', 'end': '7500000'}]
+}
+thari
+:{ 
+VIVOSSPK14_275.wav: [{'start': '7500000', 'end': '11300000'}]
+}
+ngu
+:{ 
+VIVOSSPK14_275.wav: [{'start': '16600000', 'end': '20800000'}]
+}
+dajo
+:{ 
+VIVOSSPK14_276.wav: [{'start': '3800000', 'end': '7100000'}]
+}
+xuaan
+:{ 
+VIVOSSPK14_276.wav: [{'start': '13400000', 'end': '17800000'}]
+VIVOSSPK14_287.wav: [{'start': '13800000', 'end': '17900000'}]
+}
+thuw
+:{ 
+VIVOSSPK14_277.wav: [{'start': '10500000', 'end': '13500000'}]
+}
+giarn
+:{ 
+VIVOSSPK14_277.wav: [{'start': '13500000', 'end': '17600000'}]
+}
+tinh
+:{ 
+VIVOSSPK14_277.wav: [{'start': '17600000', 'end': '20300000'}]
+}
+thaafn
+:{ 
+VIVOSSPK14_277.wav: [{'start': '20300000', 'end': '24400000'}]
+}
+chus
+:{ 
+VIVOSSPK14_278.wav: [{'start': '5800000', 'end': '8400000'}]
+}
+ddaasy
+:{ 
+VIVOSSPK14_278.wav: [{'start': '23100000', 'end': '25500000'}]
+}
+af
+:{ 
+VIVOSSPK14_278.wav: [{'start': '25500000', 'end': '29700000'}]
+}
+gioosng
+:{ 
+VIVOSSPK14_279.wav: [{'start': '10500000', 'end': '14000000'}]
+}
+ai
+:{ 
+VIVOSSPK14_279.wav: [{'start': '14000000', 'end': '16500000'}]
+}
+baajy
+:{ 
+VIVOSSPK14_280.wav: [{'start': '3900000', 'end': '6500000'}]
+}
+cuwru
+:{ 
+VIVOSSPK14_281.wav: [{'start': '13300000', 'end': '17600000'}]
+}
+sawsp
+:{ 
+VIVOSSPK14_282.wav: [{'start': '12600000', 'end': '15500000'}]
+}
+dafn
+:{ 
+VIVOSSPK14_283.wav: [{'start': '15800000', 'end': '19100000'}]
+}
+chur
+:{ 
+VIVOSSPK14_284.wav: [{'start': '3700000', 'end': '5800000'}]
+VIVOSSPK14_289.wav: [{'start': '8700000', 'end': '11200000'}]
+VIVOSSPK14_295.wav: [{'start': '3900000', 'end': '6600000'}]
+VIVOSSPK14_300.wav: [{'start': '19500000', 'end': '22700000'}]
+}
+nhaajt
+:{ 
+VIVOSSPK14_284.wav: [{'start': '5800000', 'end': '9200000'}]
+}
+tra
+:{ 
+VIVOSSPK14_285.wav: [{'start': '6600000', 'end': '9100000'}]
+}
+ngafn
+:{ 
+VIVOSSPK14_285.wav: [{'start': '31700000', 'end': '34400000'}]
+}
+susng
+:{ 
+VIVOSSPK14_285.wav: [{'start': '34400000', 'end': '37400000'}]
+}
+nhuwja
+:{ 
+VIVOSSPK14_285.wav: [{'start': '37400000', 'end': '41400000'}]
+}
+gaxi
+:{ 
+VIVOSSPK14_286.wav: [{'start': '8600000', 'end': '10800000'}]
+}
+oori
+:{ 
+VIVOSSPK14_286.wav: [{'start': '18800000', 'end': '21600000'}]
+}
+cafnh
+:{ 
+VIVOSSPK14_286.wav: [{'start': '24200000', 'end': '27700000'}]
+}
+rung
+:{ 
+VIVOSSPK14_286.wav: [{'start': '36000000', 'end': '39200000'}]
+}
+baafn
+:{ 
+VIVOSSPK14_286.wav: [{'start': '42100000', 'end': '44500000'}]
+}
+taay
+:{ 
+VIVOSSPK14_287.wav: [{'start': '5500000', 'end': '8000000'}]
+}
+casnh
+:{ 
+VIVOSSPK14_288.wav: [{'start': '4000000', 'end': '6500000'}]
+}
+ruwfng
+:{ 
+VIVOSSPK14_288.wav: [{'start': '6500000', 'end': '9200000'}]
+}
+phos
+:{ 
+VIVOSSPK14_289.wav: [{'start': '6100000', 'end': '8700000'}]
+}
+tijch
+:{ 
+VIVOSSPK14_289.wav: [{'start': '11200000', 'end': '15300000'}]
+}
+ury
+:{ 
+VIVOSSPK14_289.wav: [{'start': '15300000', 'end': '17000000'}]
+}
+quoosc
+:{ 
+VIVOSSPK14_289.wav: [{'start': '31100000', 'end': '33900000'}]
+}
+nuwx
+:{ 
+VIVOSSPK14_290.wav: [{'start': '6600000', 'end': '8700000'}]
+VIVOSSPK14_291.wav: [{'start': '5300000', 'end': '7400000'}]
+}
+sinh
+:{ 
+VIVOSSPK14_290.wav: [{'start': '8700000', 'end': '12200000'}]
+VIVOSSPK14_291.wav: [{'start': '7400000', 'end': '11000000'}]
+}
+lojt
+:{ 
+VIVOSSPK14_290.wav: [{'start': '12200000', 'end': '14900000'}]
+}
+vofng
+:{ 
+VIVOSSPK14_290.wav: [{'start': '17400000', 'end': '20500000'}]
+}
+thi
+:{ 
+VIVOSSPK14_290.wav: [{'start': '20500000', 'end': '23700000'}]
+}
+uwsng
+:{ 
+VIVOSSPK14_290.wav: [{'start': '23700000', 'end': '25600000'}]
+}
+xuwr
+:{ 
+VIVOSSPK14_290.wav: [{'start': '25600000', 'end': '30500000'}]
+}
+thaso
+:{ 
+VIVOSSPK14_291.wav: [{'start': '13700000', 'end': '16900000'}]
+}
+guoosc
+:{ 
+VIVOSSPK14_291.wav: [{'start': '16900000', 'end': '19500000'}]
+}
+ddoost
+:{ 
+VIVOSSPK14_291.wav: [{'start': '19500000', 'end': '22300000'}]
+}
+chasy
+:{ 
+VIVOSSPK14_291.wav: [{'start': '22300000', 'end': '24800000'}]
+}
+khaasu
+:{ 
+VIVOSSPK14_291.wav: [{'start': '27900000', 'end': '32000000'}]
+}
+trar
+:{ 
+VIVOSSPK14_292.wav: [{'start': '8000000', 'end': '10400000'}]
+}
+sawsc
+:{ 
+VIVOSSPK14_292.wav: [{'start': '15000000', 'end': '18100000'}]
+}
+guwowng
+:{ 
+VIVOSSPK14_292.wav: [{'start': '20500000', 'end': '23500000'}]
+}
+asi
+:{ 
+VIVOSSPK14_292.wav: [{'start': '29700000', 'end': '33300000'}]
+}
+thaast
+:{ 
+VIVOSSPK14_293.wav: [{'start': '13000000', 'end': '15700000'}]
+}
+nowr
+:{ 
+VIVOSSPK14_293.wav: [{'start': '25300000', 'end': '28800000'}]
+}
+sowsm
+:{ 
+VIVOSSPK14_293.wav: [{'start': '30900000', 'end': '35300000'}]
+}
+nguw
+:{ 
+VIVOSSPK14_294.wav: [{'start': '5900000', 'end': '8600000'}]
+}
+phaary
+:{ 
+VIVOSSPK14_294.wav: [{'start': '14900000', 'end': '17700000'}]
+}
+trari
+:{ 
+VIVOSSPK14_294.wav: [{'start': '37100000', 'end': '40400000'}]
+}
+lieeju
+:{ 
+VIVOSSPK14_294.wav: [{'start': '49000000', 'end': '52500000'}]
+}
+tujc
+:{ 
+VIVOSSPK14_295.wav: [{'start': '19300000', 'end': '22400000'}]
+}
+thuwowng
+:{ 
+VIVOSSPK14_295.wav: [{'start': '22400000', 'end': '25100000'}]
+}
+giai
+:{ 
+VIVOSSPK14_296.wav: [{'start': '11600000', 'end': '14300000'}]
+}
+coos
+:{ 
+VIVOSSPK14_296.wav: [{'start': '28900000', 'end': '31200000'}]
+}
+caajn
+:{ 
+VIVOSSPK14_297.wav: [{'start': '3500000', 'end': '6100000'}]
+}
+teest
+:{ 
+VIVOSSPK14_297.wav: [{'start': '6100000', 'end': '8800000'}]
+}
+dijch
+:{ 
+VIVOSSPK14_297.wav: [{'start': '8800000', 'end': '11400000'}]
+VIVOSSPK14_300.wav: [{'start': '36600000', 'end': '39700000'}]
+}
+ees
+:{ 
+VIVOSSPK14_297.wav: [{'start': '21800000', 'end': '24500000'}]
+}
+chuaarn
+:{ 
+VIVOSSPK14_298.wav: [{'start': '3400000', 'end': '6400000'}]
+}
+tieen
+:{ 
+VIVOSSPK14_298.wav: [{'start': '28400000', 'end': '32500000'}]
+}
+chuyeen
+:{ 
+VIVOSSPK14_299.wav: [{'start': '6800000', 'end': '8900000'}]
+}
+caf
+:{ 
+VIVOSSPK14_299.wav: [{'start': '19700000', 'end': '22000000'}]
+}
+mowfi
+:{ 
+VIVOSSPK14_299.wav: [{'start': '25100000', 'end': '28400000'}]
+}
+thuwsc
+:{ 
+VIVOSSPK14_299.wav: [{'start': '34200000', 'end': '36800000'}]
+}
+vawsng
+:{ 
+VIVOSSPK14_300.wav: [{'start': '6500000', 'end': '9100000'}]
+}
+dasm
+:{ 
+VIVOSSPK14_300.wav: [{'start': '28000000', 'end': '31200000'}]
+}
+tawng
+:{ 
+VIVOSSPK14_300.wav: [{'start': '31200000', 'end': '34100000'}]
+}
+
