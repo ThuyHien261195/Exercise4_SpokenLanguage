@@ -11,9 +11,8 @@ from pydub import AudioSegment
 f_input1  = open(sys.argv[1], "r", encoding="utf-8")
 f_input2  = open(sys.argv[2], "r", encoding="utf-8")
 data_path = sys.argv[3]
-result_path  = sys.argv[4]
-result_audio_name = sys.argv[5]
-f_output = open(sys.argv[6], "w", encoding="utf-8")
+result_audio_name = sys.argv[4]
+f_output = open(sys.argv[5], "w", encoding="utf-8")
 
 # Convert number to string 
 def numbers_to_strings(argument):
@@ -100,14 +99,10 @@ def create_output_wav_file(contentList):
 			end = int(int(time[1]) / 10000)
 			newAudio = AudioSegment.from_wav(data_path + "/" + wave_path)
 			newAudio = newAudio[start:end]
-			newAudioPath = result_path + str(i) + '.wav'
-			newAudio.export(newAudioPath, format="wav")
-			newAudioList.append(newAudioPath)
 			if i == 0:
-				combinedAudio = AudioSegment.from_wav(newAudioList[0])
+				combinedAudio = newAudio
 			else:
-				combinedAudio = combinedAudio + AudioSegment.from_wav(newAudioList[i])
-			os.remove(newAudioList[i])
+				combinedAudio = combinedAudio + newAudio
 			i += 1
 		
 	combinedAudio.export(result_audio_name, format="wav")

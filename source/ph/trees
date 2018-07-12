@@ -1,0 +1,2677 @@
+QS 'l_aaf' { "aaf-*" }
+QS 'l_u' { "u-*" }
+QS 'l_aar' { "aar-*" }
+QS 'l_m' { "m-*" }
+QS 'l_aas' { "aas-*" }
+QS 'l_y' { "y-*" }
+QS 'l_aa' { "aa-*" }
+QS 'l_af' { "af-*" }
+QS 'l_a' { "a-*" }
+QS 'l_i' { "i-*" }
+QS 'l_n' { "n-*" }
+QS 'l_nh' { "nh-*" }
+QS 'l_as' { "as-*" }
+QS 'l_p' { "p-*" }
+QS 'l_aw' { "aw-*" }
+QS 'l_b' { "b-*" }
+QS 'l_aaj' { "aaj-*" }
+QS 'l_t' { "t-*" }
+QS 'l_aj' { "aj-*" }
+QS 'l_ch' { "ch-*" }
+QS 'l_o' { "o-*" }
+QS 'l_ar' { "ar-*" }
+QS 'l_c' { "c-*" }
+QS 'l_awf' { "awf-*" }
+QS 'l_ng' { "ng-*" }
+QS 'l_aws' { "aws-*" }
+QS 'l_eej' { "eej-*" }
+QS 'l_ee' { "ee-*" }
+QS 'l_es' { "es-*" }
+QS 'l_ieej' { "ieej-*" }
+QS 'l_iee' { "iee-*" }
+QS 'l_ieer' { "ieer-*" }
+QS 'l_iees' { "iees-*" }
+QS 'l_if' { "if-*" }
+QS 'l_ij' { "ij-*" }
+QS 'l_oj' { "oj-*" }
+QS 'l_oof' { "oof-*" }
+QS 'l_ooj' { "ooj-*" }
+QS 'l_oo' { "oo-*" }
+QS 'l_oos' { "oos-*" }
+QS 'l_or' { "or-*" }
+QS 'l_os' { "os-*" }
+QS 'l_owf' { "owf-*" }
+QS 'l_uj' { "uj-*" }
+QS 'l_uoof' { "uoof-*" }
+QS 'l_uoor' { "uoor-*" }
+QS 'l_us' { "us-*" }
+QS 'l_uws' { "uws-*" }
+QS 'l_ys' { "ys-*" }
+QS 'l_awj' { "awj-*" }
+QS 'l_ees' { "ees-*" }
+QS 'l_ieef' { "ieef-*" }
+QS 'l_ir' { "ir-*" }
+QS 'l_is' { "is-*" }
+QS 'l_ef' { "ef-*" }
+QS 'l_oor' { "oor-*" }
+QS 'l_ow' { "ow-*" }
+QS 'l_owj' { "owj-*" }
+QS 'l_ur' { "ur-*" }
+QS 'l_uw' { "uw-*" }
+QS 'l_uwow' { "uwow-*" }
+QS 'l_yeej' { "yeej-*" }
+QS 'l_yee' { "yee-*" }
+QS 'l_yeer' { "yeer-*" }
+QS 'l_of' { "of-*" }
+QS 'l_uf' { "uf-*" }
+QS 'l_uooj' { "uooj-*" }
+QS 'l_uoos' { "uoos-*" }
+QS 'l_uwf' { "uwf-*" }
+QS 'l_uwowf' { "uwowf-*" }
+QS 'l_uwows' { "uwows-*" }
+QS 'l_uwowx' { "uwowx-*" }
+QS 'l_uwr' { "uwr-*" }
+QS 'l_ux' { "ux-*" }
+QS 'l_d' { "d-*" }
+QS 'l_ax' { "ax-*" }
+QS 'l_dd' { "dd-*" }
+QS 'l_eef' { "eef-*" }
+QS 'l_ej' { "ej-*" }
+QS 'l_e' { "e-*" }
+QS 'l_ix' { "ix-*" }
+QS 'l_uwowj' { "uwowj-*" }
+QS 'l_ieex' { "ieex-*" }
+QS 'l_oox' { "oox-*" }
+QS 'l_uwj' { "uwj-*" }
+QS 'l_uwx' { "uwx-*" }
+QS 'l_g' { "g-*" }
+QS 'l_gh' { "gh-*" }
+QS 'l_gi' { "gi-*" }
+QS 'l_ows' { "ows-*" }
+QS 'l_r' { "r-*" }
+QS 'l_h' { "h-*" }
+QS 'l_yees' { "yees-*" }
+QS 'l_k' { "k-*" }
+QS 'l_kh' { "kh-*" }
+QS 'l_l' { "l-*" }
+QS 'l_uoo' { "uoo-*" }
+QS 'l_awr' { "awr-*" }
+QS 'l_ua' { "ua-*" }
+QS 'l_ngh' { "ngh-*" }
+QS 'l_ph' { "ph-*" }
+QS 'l_q' { "q-*" }
+QS 'l_uar' { "uar-*" }
+QS 'l_uas' { "uas-*" }
+QS 'l_yeef' { "yeef-*" }
+QS 'l_ox' { "ox-*" }
+QS 'l_s' { "s-*" }
+QS 'l_th' { "th-*" }
+QS 'l_uwowr' { "uwowr-*" }
+QS 'l_tr' { "tr-*" }
+QS 'l_aax' { "aax-*" }
+QS 'l_v' { "v-*" }
+QS 'l_x' { "x-*" }
+QS 'r_aaf' { "*+aaf" }
+QS 'r_u' { "*+u" }
+QS 'r_aar' { "*+aar" }
+QS 'r_m' { "*+m" }
+QS 'r_aas' { "*+aas" }
+QS 'r_y' { "*+y" }
+QS 'r_aa' { "*+aa" }
+QS 'r_af' { "*+af" }
+QS 'r_a' { "*+a" }
+QS 'r_i' { "*+i" }
+QS 'r_n' { "*+n" }
+QS 'r_nh' { "*+nh" }
+QS 'r_as' { "*+as" }
+QS 'r_p' { "*+p" }
+QS 'r_aw' { "*+aw" }
+QS 'r_aaj' { "*+aaj" }
+QS 'r_t' { "*+t" }
+QS 'r_aj' { "*+aj" }
+QS 'r_ch' { "*+ch" }
+QS 'r_o' { "*+o" }
+QS 'r_ar' { "*+ar" }
+QS 'r_c' { "*+c" }
+QS 'r_awf' { "*+awf" }
+QS 'r_ng' { "*+ng" }
+QS 'r_aws' { "*+aws" }
+QS 'r_eej' { "*+eej" }
+QS 'r_ee' { "*+ee" }
+QS 'r_es' { "*+es" }
+QS 'r_ia' { "*+ia" }
+QS 'r_ieej' { "*+ieej" }
+QS 'r_iee' { "*+iee" }
+QS 'r_ieer' { "*+ieer" }
+QS 'r_iees' { "*+iees" }
+QS 'r_if' { "*+if" }
+QS 'r_ij' { "*+ij" }
+QS 'r_oj' { "*+oj" }
+QS 'r_oof' { "*+oof" }
+QS 'r_ooj' { "*+ooj" }
+QS 'r_oo' { "*+oo" }
+QS 'r_oos' { "*+oos" }
+QS 'r_or' { "*+or" }
+QS 'r_os' { "*+os" }
+QS 'r_owf' { "*+owf" }
+QS 'r_uj' { "*+uj" }
+QS 'r_uoof' { "*+uoof" }
+QS 'r_uoor' { "*+uoor" }
+QS 'r_us' { "*+us" }
+QS 'r_uws' { "*+uws" }
+QS 'r_ys' { "*+ys" }
+QS 'r_awj' { "*+awj" }
+QS 'r_ees' { "*+ees" }
+QS 'r_ex' { "*+ex" }
+QS 'r_ieef' { "*+ieef" }
+QS 'r_ir' { "*+ir" }
+QS 'r_is' { "*+is" }
+QS 'r_ef' { "*+ef" }
+QS 'r_oor' { "*+oor" }
+QS 'r_ow' { "*+ow" }
+QS 'r_owj' { "*+owj" }
+QS 'r_ur' { "*+ur" }
+QS 'r_uw' { "*+uw" }
+QS 'r_uwa' { "*+uwa" }
+QS 'r_uwow' { "*+uwow" }
+QS 'r_uwxa' { "*+uwxa" }
+QS 'r_yeej' { "*+yeej" }
+QS 'r_yee' { "*+yee" }
+QS 'r_yeer' { "*+yeer" }
+QS 'r_of' { "*+of" }
+QS 'r_uf' { "*+uf" }
+QS 'r_uooj' { "*+uooj" }
+QS 'r_uoos' { "*+uoos" }
+QS 'r_ura' { "*+ura" }
+QS 'r_uwf' { "*+uwf" }
+QS 'r_uwowf' { "*+uwowf" }
+QS 'r_uwows' { "*+uwows" }
+QS 'r_uwowx' { "*+uwowx" }
+QS 'r_uwra' { "*+uwra" }
+QS 'r_uwr' { "*+uwr" }
+QS 'r_ux' { "*+ux" }
+QS 'r_ax' { "*+ax" }
+QS 'r_eef' { "*+eef" }
+QS 'r_eer' { "*+eer" }
+QS 'r_ej' { "*+ej" }
+QS 'r_e' { "*+e" }
+QS 'r_ija' { "*+ija" }
+QS 'r_ix' { "*+ix" }
+QS 'r_uwowj' { "*+uwowj" }
+QS 'r_ieex' { "*+ieex" }
+QS 'r_oox' { "*+oox" }
+QS 'r_owr' { "*+owr" }
+QS 'r_owx' { "*+owx" }
+QS 'r_uwfa' { "*+uwfa" }
+QS 'r_uwj' { "*+uwj" }
+QS 'r_uwsa' { "*+uwsa" }
+QS 'r_uwx' { "*+uwx" }
+QS 'r_f' { "*+f" }
+QS 'r_ows' { "*+ows" }
+QS 'r_r' { "*+r" }
+QS 'r_yees' { "*+yees" }
+QS 'r_er' { "*+er" }
+QS 'r_uoo' { "*+uoo" }
+QS 'r_awr' { "*+awr" }
+QS 'r_ua' { "*+ua" }
+QS 'r_ufa' { "*+ufa" }
+QS 'r_usa' { "*+usa" }
+QS 'r_uwowi' { "*+uwowi" }
+QS 'r_yx' { "*+yx" }
+QS 'r_ixa' { "*+ixa" }
+QS 'r_uwja' { "*+uwja" }
+QS 'r_isa' { "*+isa" }
+QS 'r_uar' { "*+uar" }
+QS 'r_uas' { "*+uas" }
+QS 'r_yeef' { "*+yeef" }
+QS 'r_ox' { "*+ox" }
+QS 'r_uwowr' { "*+uwowr" }
+QS 'r_aax' { "*+aax" }
+QS 'r_uwju' { "*+uwju" }
+QS 'r_yr' { "*+yr" }
+QS 'r_oay' { "*+oay" }
+QS 'r_oe' { "*+oe" }
+
+aaf[2]
+{
+   0                   'l_dd'      -1     "st_aaf_2_4" 
+  -1                   'l_ph'      -2     "st_aaf_2_3" 
+  -2                    'l_l'  "st_aaf_2_1"  "st_aaf_2_2" 
+}
+
+u[2]
+{
+   0                   'l_as'      -1     "st_u_2_8" 
+  -1                 'l_ieef'      -2     "st_u_2_7" 
+  -2                  'l_aaf'      -3     "st_u_2_6" 
+  -3                    'l_a'      -4     "st_u_2_5" 
+  -4                  'l_ees'      -5     "st_u_2_4" 
+  -5                  'l_iee'      -6     "st_u_2_3" 
+  -6                   'r_ng'  "st_u_2_1"  "st_u_2_2" 
+}
+
+aar[2]
+   "st_aar_2_1"
+
+m[2]
+{
+   0                   'l_as'      -1     "st_m_2_8" 
+  -1                   'l_aw'      -2     "st_m_2_7" 
+  -2                'r_uwowi'      -3     "st_m_2_6" 
+  -3                  'r_oos'      -4     "st_m_2_5" 
+  -4                   'l_af'      -5     "st_m_2_4" 
+  -5                  'r_ooj'      -6     "st_m_2_3" 
+  -6                'r_uwowf'  "st_m_2_1"  "st_m_2_2" 
+}
+
+aas[2]
+{
+   0                    'r_y'      -1     "st_aas_2_3" 
+  -1                    'l_r'  "st_aas_2_1"  "st_aas_2_2" 
+}
+
+y[2]
+{
+   0                   'l_ar'      -1     "st_y_2_7" 
+  -1                   'l_af'      -2     "st_y_2_6" 
+  -2                  'l_aas'      -3     "st_y_2_5" 
+  -3                   'l_aa'      -4     "st_y_2_4" 
+  -4                    'l_a'      -5     "st_y_2_3" 
+  -5                   'l_as'  "st_y_2_1"  "st_y_2_2" 
+}
+
+aa[2]
+{
+   0                    'r_n'  "st_aa_2_1"  "st_aa_2_2" 
+}
+
+af[2]
+{
+   0                    'l_l'      -1         -7    
+  -1                    'l_v'      -2     "st_af_2_9" 
+  -2                    'l_n'      -3         -8    
+  -3                   'l_nh'      -4     "st_af_2_6" 
+  -4                    'r_y'      -5     "st_af_2_5" 
+  -5                    'l_m'      -6     "st_af_2_4" 
+  -6                    'l_b'      -9     "st_af_2_3" 
+  -7                    'r_m'  "st_af_2_10"  "st_af_2_11" 
+  -8                    'r_o'  "st_af_2_7"  "st_af_2_8" 
+  -9                   'r_nh'  "st_af_2_1"  "st_af_2_2" 
+}
+
+a[2]
+{
+   0                    'l_h'      -1     "st_a_2_11" 
+  -1                   'r_nh'      -2     "st_a_2_10" 
+  -2                    'l_b'      -3     "st_a_2_9" 
+  -3                    'r_n'      -4     "st_a_2_8" 
+  -4                    'l_r'      -5     "st_a_2_7" 
+  -5                    'l_s'      -6     "st_a_2_6" 
+  -6                    'l_t'      -7     "st_a_2_5" 
+  -7                   'r_ng'      -8     "st_a_2_4" 
+  -8                    'r_y'      -9     "st_a_2_3" 
+  -9                   'l_gi'  "st_a_2_1"  "st_a_2_2" 
+}
+
+i[2]
+{
+   0                    'l_a'      -1     "st_i_2_13" 
+  -1                'l_uwowf'      -2     "st_i_2_12" 
+  -2                   'l_oo'      -3     "st_i_2_11" 
+  -3                   'l_ar'      -4     "st_i_2_10" 
+  -4                   'l_as'      -5     "st_i_2_9" 
+  -5                   'l_aj'      -6     "st_i_2_8" 
+  -6                   'l_af'      -7     "st_i_2_7" 
+  -7                  'l_owf'      -8     "st_i_2_6" 
+  -8                  'l_ows'      -9     "st_i_2_5" 
+  -9                   'l_or'     -10     "st_i_2_4" 
+ -10                   'l_os'     -11     "st_i_2_3" 
+ -11                  'l_oof'  "st_i_2_1"  "st_i_2_2" 
+}
+
+n[2]
+{
+   0                  'l_oos'      -1     "st_n_2_22" 
+  -1                   'l_is'      -2     "st_n_2_21" 
+  -2                 'l_ieej'      -3     "st_n_2_20" 
+  -3                   'l_ee'      -4     "st_n_2_19" 
+  -4                  'l_aaf'      -5     "st_n_2_18" 
+  -5                   'l_aa'      -6     "st_n_2_17" 
+  -6                   'l_aj'      -7     "st_n_2_16" 
+  -7                  'l_ees'      -8     "st_n_2_15" 
+  -8                  'l_iee'      -9     "st_n_2_14" 
+  -9                 'l_iees'     -10     "st_n_2_13" 
+ -10                    'l_o'     -11     "st_n_2_12" 
+ -11                   'l_af'     -12     "st_n_2_11" 
+ -12                  'l_aaj'     -13     "st_n_2_10" 
+ -13                   'l_ar'     -14     "st_n_2_9" 
+ -14                    'l_a'     -15     "st_n_2_8" 
+ -15                 'l_ieef'     -16     "st_n_2_7" 
+ -16                   'l_ow'     -17     "st_n_2_6" 
+ -17                   'l_as'     -18     "st_n_2_5" 
+ -18                   'r_aw'     -19     "st_n_2_4" 
+ -19                   'r_os'     -20     "st_n_2_3" 
+ -20                   'r_af'  "st_n_2_1"  "st_n_2_2" 
+}
+
+nh[2]
+{
+   0                    'l_a'      -1     "st_nh_2_9" 
+  -1                   'l_af'      -2     "st_nh_2_8" 
+  -2                   'l_if'      -3     "st_nh_2_7" 
+  -3                   'r_uw'      -4     "st_nh_2_6" 
+  -4                   'l_as'      -5     "st_nh_2_5" 
+  -5                  'r_uwx'      -6     "st_nh_2_4" 
+  -6                  'r_aaj'      -7     "st_nh_2_3" 
+  -7                 'r_ieef'  "st_nh_2_1"  "st_nh_2_2" 
+}
+
+as[2]
+{
+   0                    'r_u'      -1     "st_as_2_7" 
+  -1                    'l_t'      -2     "st_as_2_6" 
+  -2                    'l_c'      -3         -4    
+  -3                    'l_b'      -6     "st_as_2_2" 
+  -4                    'r_c'      -5     "st_as_2_5" 
+  -5                    'r_i'  "st_as_2_3"  "st_as_2_4" 
+  -6                   'l_gi'  "st_as_2_3"  "st_as_2_1" 
+}
+
+p[2]
+{
+   0                  'l_aaj'      -1     "st_p_2_4" 
+  -1                 'l_ieej'      -2     "st_p_2_3" 
+  -2                   'l_ej'  "st_p_2_1"  "st_p_2_2" 
+}
+
+aw[2]
+{
+   0                    'l_l'      -1     "st_aw_2_5" 
+  -1                    'l_v'      -2     "st_aw_2_4" 
+  -2                    'r_m'      -3     "st_aw_2_3" 
+  -3                    'l_n'  "st_aw_2_1"  "st_aw_2_2" 
+}
+
+b[2]
+{
+   0                  'r_oos'      -1     "st_b_2_5" 
+  -1                   'r_ar'      -2     "st_b_2_4" 
+  -2                    'r_a'      -3     "st_b_2_3" 
+  -3                   'r_aj'  "st_b_2_1"  "st_b_2_2" 
+}
+
+aaj[2]
+{
+   0                   'l_nh'  "st_aaj_2_1"  "st_aaj_2_2" 
+}
+
+t[2]
+{
+   0                  'l_ooj'      -1     "st_t_2_25" 
+  -1                  'l_oos'      -2     "st_t_2_24" 
+  -2                  'l_aaj'      -3     "st_t_2_23" 
+  -3                   'l_as'      -4     "st_t_2_22" 
+  -4                   'l_aj'      -5     "st_t_2_21" 
+  -5                 'l_ieej'      -6     "st_t_2_20" 
+  -6                 'l_iees'      -7     "st_t_2_19" 
+  -7                 'l_yees'      -8     "st_t_2_18" 
+  -8                  'l_ees'      -9     "st_t_2_17" 
+  -9                   'r_as'     -10     "st_t_2_16" 
+ -10                   'l_is'     -11     "st_t_2_15" 
+ -11                  'l_aws'     -12     "st_t_2_14" 
+ -12                  'l_aas'     -13     "st_t_2_13" 
+ -13                 'r_iees'     -14     "st_t_2_12" 
+ -14                    'r_a'     -15     "st_t_2_11" 
+ -15                   'r_aj'     -16     "st_t_2_10" 
+ -16                 'r_ieef'     -17     "st_t_2_9" 
+ -17                   'r_is'     -18     "st_t_2_8" 
+ -18                   'r_oo'     -19     "st_t_2_7" 
+ -19                   'r_if'     -20     "st_t_2_6" 
+ -20                    'r_u'     -21     "st_t_2_5" 
+ -21                  'r_uwf'     -22     "st_t_2_4" 
+ -22                  'r_uwj'     -23     "st_t_2_3" 
+ -23                  'r_aaj'  "st_t_2_1"  "st_t_2_2" 
+}
+
+aj[2]
+{
+   0                    'l_o'      -1     "st_aj_2_6" 
+  -1                    'l_t'      -2         -3    
+  -2                    'l_l'      -4     "st_aj_2_3" 
+  -3                    'r_i'  "st_aj_2_4"  "st_aj_2_5" 
+  -4                    'l_b'  "st_aj_2_1"  "st_aj_2_2" 
+}
+
+ch[2]
+{
+   0                   'l_as'      -1     "st_ch_2_13" 
+  -1                   'l_ij'      -2     "st_ch_2_12" 
+  -2                   'r_is'      -3     "st_ch_2_11" 
+  -3                    'r_u'      -4     "st_ch_2_10" 
+  -4                   'r_us'      -5     "st_ch_2_9" 
+  -5                  'r_ees'      -6     "st_ch_2_8" 
+  -6                    'r_o'      -7     "st_ch_2_7" 
+  -7                    'r_a'      -8     "st_ch_2_6" 
+  -8                 'r_iees'      -9     "st_ch_2_5" 
+  -9                  'r_uws'     -10     "st_ch_2_4" 
+ -10                  'r_uwa'     -11     "st_ch_2_3" 
+ -11                    'r_i'  "st_ch_2_1"  "st_ch_2_2" 
+}
+
+o[2]
+{
+   0                   'l_ch'      -1     "st_o_2_4" 
+  -1                   'l_tr'      -2     "st_o_2_3" 
+  -2                    'l_c'  "st_o_2_1"  "st_o_2_2" 
+}
+
+ar[2]
+{
+   0                    'r_y'      -1     "st_ar_2_4" 
+  -1                   'l_gi'      -2     "st_ar_2_3" 
+  -2                    'r_i'  "st_ar_2_1"  "st_ar_2_2" 
+}
+
+c[2]
+{
+   0                   'l_as'      -1     "st_c_2_21" 
+  -1                'l_uwowj'      -2     "st_c_2_20" 
+  -2                   'l_oj'      -3     "st_c_2_19" 
+  -3                   'l_os'      -4     "st_c_2_18" 
+  -4                  'l_uws'      -5     "st_c_2_17" 
+  -5                 'l_iees'      -6     "st_c_2_16" 
+  -6                 'l_ieej'      -7     "st_c_2_15" 
+  -7                  'l_uwj'      -8     "st_c_2_14" 
+  -8                 'l_uoos'      -9     "st_c_2_13" 
+  -9                   'l_uj'     -10     "st_c_2_12" 
+ -10                   'l_us'     -11     "st_c_2_11" 
+ -11                  'r_ura'     -12     "st_c_2_10" 
+ -12                   'r_oo'     -13     "st_c_2_9" 
+ -13                   'r_ux'     -14     "st_c_2_8" 
+ -14                   'r_os'     -15     "st_c_2_7" 
+ -15                   'r_as'     -16     "st_c_2_6" 
+ -16                'r_uwowf'     -17     "st_c_2_5" 
+ -17                    'r_o'     -18     "st_c_2_4" 
+ -18                    'r_a'     -19     "st_c_2_3" 
+ -19                  'r_oor'  "st_c_2_1"  "st_c_2_2" 
+}
+
+awf[2]
+{
+   0                    'l_r'  "st_awf_2_1"  "st_awf_2_2" 
+}
+
+ng[2]
+{
+   0                   'l_oo'      -1     "st_ng_2_16" 
+  -1                  'l_uwx'      -2     "st_ng_2_15" 
+  -2                   'l_ux'      -3     "st_ng_2_14" 
+  -3                'r_uwowf'      -4     "st_ng_2_13" 
+  -4                'l_uwowf'      -5     "st_ng_2_12" 
+  -5                    'l_a'      -6     "st_ng_2_11" 
+  -6                    'l_o'      -7     "st_ng_2_10" 
+  -7                   'l_uw'      -8     "st_ng_2_9" 
+  -8                   'l_us'      -9     "st_ng_2_8" 
+  -9                  'l_ooj'     -10     "st_ng_2_7" 
+ -10                  'l_oos'     -11     "st_ng_2_6" 
+ -11                 'l_uwow'     -12     "st_ng_2_5" 
+ -12                    'l_u'     -13     "st_ng_2_4" 
+ -13                  'l_oof'     -14     "st_ng_2_3" 
+ -14                   'r_af'  "st_ng_2_1"  "st_ng_2_2" 
+}
+
+aws[2]
+   "st_aws_2_1"
+
+eej[2]
+{
+   0                   'r_nh'  "st_eej_2_1"  "st_eej_2_2" 
+}
+
+ee[2]
+   "st_ee_2_1"
+
+es[2]
+   "st_es_2_1"
+
+ia[2]
+   "st_ia_2_1"
+
+ieej[2]
+{
+   0                    'r_c'      -1     "st_ieej_2_4" 
+  -1                  'l_ngh'      -2     "st_ieej_2_3" 
+  -2                    'l_h'  "st_ieej_2_1"  "st_ieej_2_2" 
+}
+
+iee[2]
+   "st_iee_2_1"
+
+ieer[2]
+   "st_ieer_2_1"
+
+iees[2]
+{
+   0                    'l_b'  "st_iees_2_1"  "st_iees_2_2" 
+}
+
+if[2]
+{
+   0                   'l_th'      -1     "st_if_2_4" 
+  -1                    'l_m'      -2     "st_if_2_3" 
+  -2                   'r_nh'  "st_if_2_1"  "st_if_2_2" 
+}
+
+ij[2]
+   "st_ij_2_1"
+
+oj[2]
+{
+   0                   'l_tr'      -1     "st_oj_2_3" 
+  -1                    'l_h'  "st_oj_2_1"  "st_oj_2_2" 
+}
+
+oof[2]
+{
+   0                    'l_r'      -1     "st_oof_2_3" 
+  -1                   'l_dd'  "st_oof_2_1"  "st_oof_2_2" 
+}
+
+ooj[2]
+{
+   0                    'r_t'  "st_ooj_2_1"  "st_ooj_2_2" 
+}
+
+oo[2]
+{
+   0                    'l_t'      -1     "st_oo_2_4" 
+  -1                   'l_kh'      -2     "st_oo_2_3" 
+  -2                    'l_c'  "st_oo_2_1"  "st_oo_2_2" 
+}
+
+oos[2]
+{
+   0                    'l_m'      -1     "st_oos_2_4" 
+  -1                    'l_b'      -2     "st_oos_2_3" 
+  -2                    'l_s'  "st_oos_2_1"  "st_oos_2_2" 
+}
+
+or[2]
+   "st_or_2_1"
+
+os[2]
+{
+   0                    'l_c'      -1     "st_os_2_5" 
+  -1                    'l_n'      -2         -3    
+  -2                   'l_dd'  "st_os_2_1"  "st_os_2_2" 
+  -3                    'r_i'  "st_os_2_3"  "st_os_2_4" 
+}
+
+owf[2]
+{
+   0                   'l_th'  "st_owf_2_1"  "st_owf_2_2" 
+}
+
+uj[2]
+{
+   0                    'l_v'  "st_uj_2_1"  "st_uj_2_2" 
+}
+
+uoof[2]
+   "st_uoof_2_1"
+
+uoor[2]
+   "st_uoor_2_1"
+
+us[2]
+   "st_us_2_1"
+
+uws[2]
+   "st_uws_2_1"
+
+ys[2]
+   "st_ys_2_1"
+
+awj[2]
+{
+   0                    'l_m'  "st_awj_2_1"  "st_awj_2_2" 
+}
+
+ees[2]
+{
+   0                    'r_t'  "st_ees_2_1"  "st_ees_2_2" 
+}
+
+ex[2]
+   "st_ex_2_1"
+
+ieef[2]
+{
+   0                   'l_nh'      -1     "st_ieef_2_3" 
+  -1                    'l_t'  "st_ieef_2_1"  "st_ieef_2_2" 
+}
+
+ir[2]
+   "st_ir_2_1"
+
+is[2]
+{
+   0                   'l_ch'      -1         -4    
+  -1                    'l_t'      -2     "st_is_2_5" 
+  -2                   'l_kh'      -3     "st_is_2_4" 
+  -3                    'r_t'      -5     "st_is_2_3" 
+  -4                    'r_n'  "st_is_2_6"  "st_is_2_7" 
+  -5                   'l_ph'  "st_is_2_1"  "st_is_2_2" 
+}
+
+ef[2]
+   "st_ef_2_1"
+
+oor[2]
+{
+   0                    'l_c'  "st_oor_2_1"  "st_oor_2_2" 
+}
+
+ow[2]
+{
+   0                    'l_h'      -1     "st_ow_2_3" 
+  -1                    'r_n'  "st_ow_2_1"  "st_ow_2_2" 
+}
+
+owj[2]
+   "st_owj_2_1"
+
+ur[2]
+{
+   0                   'l_ch'  "st_ur_2_1"  "st_ur_2_2" 
+}
+
+uw[2]
+{
+   0                   'r_ng'      -1     "st_uw_2_3" 
+  -1                   'l_nh'  "st_uw_2_1"  "st_uw_2_2" 
+}
+
+uwa[2]
+{
+   0                   'l_ch'  "st_uwa_2_1"  "st_uwa_2_2" 
+}
+
+uwow[2]
+   "st_uwow_2_1"
+
+uwxa[2]
+   "st_uwxa_2_1"
+
+yeej[2]
+   "st_yeej_2_1"
+
+yee[2]
+{
+   0                    'r_u'  "st_yee_2_1"  "st_yee_2_2" 
+}
+
+yeer[2]
+   "st_yeer_2_1"
+
+of[2]
+   "st_of_2_1"
+
+uf[2]
+{
+   0                    'l_c'  "st_uf_2_1"  "st_uf_2_2" 
+}
+
+uooj[2]
+   "st_uooj_2_1"
+
+uoos[2]
+   "st_uoos_2_1"
+
+ura[2]
+   "st_ura_2_1"
+
+uwf[2]
+{
+   0                    'l_t'  "st_uwf_2_1"  "st_uwf_2_2" 
+}
+
+uwowf[2]
+{
+   0                    'l_m'      -1     "st_uwowf_2_4" 
+  -1                   'l_ng'      -2     "st_uwowf_2_3" 
+  -2                   'r_ng'  "st_uwowf_2_1"  "st_uwowf_2_2" 
+}
+
+uwows[2]
+{
+   0                    'l_n'  "st_uwows_2_1"  "st_uwows_2_2" 
+}
+
+uwowx[2]
+   "st_uwowx_2_1"
+
+uwra[2]
+   "st_uwra_2_1"
+
+uwr[2]
+   "st_uwr_2_1"
+
+ux[2]
+   "st_ux_2_1"
+
+d[2]
+{
+   0                    'r_o'      -1     "st_d_2_4" 
+  -1                  'r_uwj'      -2     "st_d_2_3" 
+  -2                   'r_aa'  "st_d_2_1"  "st_d_2_2" 
+}
+
+ax[2]
+{
+   0                   'l_dd'  "st_ax_2_1"  "st_ax_2_2" 
+}
+
+dd[2]
+{
+   0                 'r_ieef'      -1     "st_dd_2_11" 
+  -1                  'r_ooj'      -2     "st_dd_2_10" 
+  -2                   'r_os'      -3     "st_dd_2_9" 
+  -3                    'r_i'      -4     "st_dd_2_8" 
+  -4                'r_uwowj'      -5     "st_dd_2_7" 
+  -5                  'r_ees'      -6     "st_dd_2_6" 
+  -6                   'r_ax'      -7     "st_dd_2_5" 
+  -7                  'r_oof'      -8     "st_dd_2_4" 
+  -8                    'r_a'      -9     "st_dd_2_3" 
+  -9                   'r_as'  "st_dd_2_1"  "st_dd_2_2" 
+}
+
+eef[2]
+   "st_eef_2_1"
+
+eer[2]
+   "st_eer_2_1"
+
+ej[2]
+   "st_ej_2_1"
+
+e[2]
+   "st_e_2_1"
+
+ija[2]
+   "st_ija_2_1"
+
+ix[2]
+   "st_ix_2_1"
+
+uwowj[2]
+   "st_uwowj_2_1"
+
+ieex[2]
+   "st_ieex_2_1"
+
+oox[2]
+   "st_oox_2_1"
+
+owr[2]
+   "st_owr_2_1"
+
+owx[2]
+   "st_owx_2_1"
+
+uwfa[2]
+   "st_uwfa_2_1"
+
+uwj[2]
+{
+   0                    'l_s'      -1     "st_uwj_2_3" 
+  -1                    'r_c'  "st_uwj_2_1"  "st_uwj_2_2" 
+}
+
+uwsa[2]
+   "st_uwsa_2_1"
+
+uwx[2]
+   "st_uwx_2_1"
+
+g[2]
+   "st_g_2_1"
+
+gh[2]
+   "st_gh_2_1"
+
+gi[2]
+{
+   0                   'r_as'      -1     "st_gi_2_4" 
+  -1                   'r_ar'      -2     "st_gi_2_3" 
+  -2                    'r_a'  "st_gi_2_1"  "st_gi_2_2" 
+}
+
+f[2]
+   "st_f_2_1"
+
+ows[2]
+{
+   0                    'l_v'  "st_ows_2_1"  "st_ows_2_2" 
+}
+
+r[2]
+{
+   0                  'r_oof'      -1     "st_r_2_4" 
+  -1                  'r_aas'      -2     "st_r_2_3" 
+  -2                    'r_a'  "st_r_2_1"  "st_r_2_2" 
+}
+
+h[2]
+{
+   0                    'r_a'      -1     "st_h_2_3" 
+  -1                   'r_oj'  "st_h_2_1"  "st_h_2_2" 
+}
+
+yees[2]
+   "st_yees_2_1"
+
+k[2]
+{
+   0                 'r_iees'  "st_k_2_1"  "st_k_2_2" 
+}
+
+kh[2]
+{
+   0                   'r_oo'  "st_kh_2_1"  "st_kh_2_2" 
+}
+
+l[2]
+{
+   0                   'r_aw'      -1     "st_l_2_9" 
+  -1                  'r_iee'      -2     "st_l_2_8" 
+  -2                    'r_o'      -3     "st_l_2_7" 
+  -3                  'r_aaf'      -4     "st_l_2_6" 
+  -4                   'r_as'      -5     "st_l_2_5" 
+  -5                   'r_ee'      -6     "st_l_2_4" 
+  -6                   'r_af'      -7     "st_l_2_3" 
+  -7                   'r_aj'  "st_l_2_1"  "st_l_2_2" 
+}
+
+er[2]
+   "st_er_2_1"
+
+uoo[2]
+   "st_uoo_2_1"
+
+awr[2]
+   "st_awr_2_1"
+
+ua[2]
+{
+   0                    'r_n'  "st_ua_2_1"  "st_ua_2_2" 
+}
+
+ufa[2]
+   "st_ufa_2_1"
+
+usa[2]
+   "st_usa_2_1"
+
+uwowi[2]
+   "st_uwowi_2_1"
+
+yx[2]
+   "st_yx_2_1"
+
+ngh[2]
+{
+   0                  'r_eef'  "st_ngh_2_1"  "st_ngh_2_2" 
+}
+
+ixa[2]
+   "st_ixa_2_1"
+
+uwja[2]
+   "st_uwja_2_1"
+
+ph[2]
+{
+   0                  'r_aaf'      -1     "st_ph_2_8" 
+  -1                  'r_oos'      -2     "st_ph_2_7" 
+  -2                  'r_isa'      -3     "st_ph_2_6" 
+  -3                   'r_is'      -4     "st_ph_2_5" 
+  -4                   'r_as'      -5     "st_ph_2_4" 
+  -5                   'r_aj'      -6     "st_ph_2_3" 
+  -6                   'r_ar'  "st_ph_2_1"  "st_ph_2_2" 
+}
+
+isa[2]
+   "st_isa_2_1"
+
+q[2]
+{
+   0                  'r_uas'      -1     "st_q_2_3" 
+  -1                    'r_u'  "st_q_2_1"  "st_q_2_2" 
+}
+
+uar[2]
+   "st_uar_2_1"
+
+uas[2]
+   "st_uas_2_1"
+
+yeef[2]
+   "st_yeef_2_1"
+
+ox[2]
+   "st_ox_2_1"
+
+s[2]
+{
+   0                    'r_a'      -1     "st_s_2_6" 
+  -1                   'r_as'      -2     "st_s_2_5" 
+  -2                   'r_ow'      -3     "st_s_2_4" 
+  -3                  'r_oos'      -4     "st_s_2_3" 
+  -4                  'r_uwj'  "st_s_2_1"  "st_s_2_2" 
+}
+
+th[2]
+{
+   0                  'r_eer'      -1     "st_th_2_6" 
+  -1                   'r_if'      -2     "st_th_2_5" 
+  -2                    'r_a'      -3     "st_th_2_4" 
+  -3                   'r_oo'      -4     "st_th_2_3" 
+  -4                    'r_u'  "st_th_2_1"  "st_th_2_2" 
+}
+
+uwowr[2]
+{
+   0                   'l_th'  "st_uwowr_2_1"  "st_uwowr_2_2" 
+}
+
+tr[2]
+{
+   0                    'r_u'      -1     "st_tr_2_7" 
+  -1                   'r_oj'      -2     "st_tr_2_6" 
+  -2                    'r_o'      -3     "st_tr_2_5" 
+  -3                   'r_if'      -4     "st_tr_2_4" 
+  -4                    'r_a'      -5     "st_tr_2_3" 
+  -5                   'r_ee'  "st_tr_2_1"  "st_tr_2_2" 
+}
+
+aax[2]
+   "st_aax_2_1"
+
+uwju[2]
+   "st_uwju_2_1"
+
+yr[2]
+   "st_yr_2_1"
+
+v[2]
+{
+   0                   'r_uj'      -1     "st_v_2_8" 
+  -1                 'r_ieej'      -2     "st_v_2_7" 
+  -2                   'r_af'      -3     "st_v_2_6" 
+  -3                  'r_iee'      -4     "st_v_2_5" 
+  -4                  'r_eef'      -5     "st_v_2_4" 
+  -5                  'r_aaj'      -6     "st_v_2_3" 
+  -6                  'r_ows'  "st_v_2_1"  "st_v_2_2" 
+}
+
+x[2]
+{
+   0                    'r_u'  "st_x_2_1"  "st_x_2_2" 
+}
+
+oay[2]
+   "st_oay_2_1"
+
+oe[2]
+   "st_oe_2_1"
+
+sil[2]
+   "st_sil_2_1"
+
+aaf[3]
+{
+   0                   'l_ph'      -1     "st_aaf_3_3" 
+  -1                    'l_l'  "st_aaf_3_1"  "st_aaf_3_2" 
+}
+
+u[3]
+{
+   0                  'l_aaf'      -1     "st_u_3_13" 
+  -1                 'l_ieef'      -2     "st_u_3_12" 
+  -2                   'l_kh'      -3     "st_u_3_11" 
+  -3                   'l_as'      -4     "st_u_3_10" 
+  -4                    'l_a'      -5     "st_u_3_9" 
+  -5                  'l_aas'      -6     "st_u_3_8" 
+  -6                  'l_aaj'      -7     "st_u_3_7" 
+  -7                   'l_aa'      -8     "st_u_3_6" 
+  -8                   'l_af'      -9     "st_u_3_5" 
+  -9                   'l_th'     -10     "st_u_3_4" 
+ -10                  'l_iee'     -11     "st_u_3_3" 
+ -11                   'r_ng'  "st_u_3_1"  "st_u_3_2" 
+}
+
+aar[3]
+   "st_aar_3_1"
+
+m[3]
+{
+   0                   'l_as'      -1     "st_m_3_19" 
+  -1                'r_uwowi'      -2     "st_m_3_18" 
+  -2                  'r_ooj'      -3     "st_m_3_17" 
+  -3                  'r_oos'      -4     "st_m_3_16" 
+  -4                 'l_ieer'      -5     "st_m_3_15" 
+  -5                   'l_ar'      -6     "st_m_3_14" 
+  -6                   'l_af'      -7     "st_m_3_13" 
+  -7                   'l_aw'      -8     "st_m_3_12" 
+  -8                    'l_i'      -9     "st_m_3_11" 
+  -9                   'l_aa'     -10     "st_m_3_10" 
+ -10                   'l_if'     -11     "st_m_3_9" 
+ -11                   'r_if'     -12     "st_m_3_8" 
+ -12                'r_uwowf'     -13     "st_m_3_7" 
+ -13                  'l_aas'     -14     "st_m_3_6" 
+ -14                  'r_aws'     -15     "st_m_3_5" 
+ -15                 'l_iees'     -16     "st_m_3_4" 
+ -16                   'r_af'     -17     "st_m_3_3" 
+ -17                    'l_e'  "st_m_3_1"  "st_m_3_2" 
+}
+
+aas[3]
+{
+   0                    'l_r'  "st_aas_3_1"  "st_aas_3_2" 
+}
+
+y[3]
+{
+   0                   'l_ar'      -1     "st_y_3_8" 
+  -1                    'l_u'      -2     "st_y_3_7" 
+  -2                   'l_af'      -3     "st_y_3_6" 
+  -3                  'l_aas'      -4     "st_y_3_5" 
+  -4                   'l_aa'      -5     "st_y_3_4" 
+  -5                    'l_a'      -6     "st_y_3_3" 
+  -6                   'l_as'  "st_y_3_1"  "st_y_3_2" 
+}
+
+aa[3]
+{
+   0                   'l_nh'      -1     "st_aa_3_5" 
+  -1                    'l_d'      -2     "st_aa_3_4" 
+  -2                    'l_c'      -3     "st_aa_3_3" 
+  -3                    'r_n'  "st_aa_3_1"  "st_aa_3_2" 
+}
+
+af[3]
+{
+   0                    'r_y'      -1        -12    
+  -1                   'l_nh'      -2     "st_af_3_12" 
+  -2                    'l_v'      -3         -7    
+  -3                    'l_o'      -4     "st_af_3_8" 
+  -4                    'l_l'      -6         -5    
+  -5                    'r_m'  "st_af_3_6"  "st_af_3_7" 
+  -6                    'l_b'      -8     "st_af_3_5" 
+  -7                    'r_o'     -10     "st_af_3_11" 
+  -8                   'r_ng'      -9     "st_af_3_4" 
+  -9                    'l_n'     -11     "st_af_3_3" 
+ -10                   'r_ng'  "st_af_3_9"  "st_af_3_10" 
+ -11                    'l_m'  "st_af_3_1"  "st_af_3_2" 
+ -12                   'l_ng'  "st_af_3_13"  "st_af_3_14" 
+}
+
+a[3]
+{
+   0                    'l_h'      -1     "st_a_3_18" 
+  -1                    'l_b'      -2     "st_a_3_17" 
+  -2                   'r_nh'      -3     "st_a_3_16" 
+  -3                    'l_o'      -4     "st_a_3_15" 
+  -4                   'l_os'      -5     "st_a_3_14" 
+  -5                    'r_n'      -6     "st_a_3_13" 
+  -6                   'r_ng'      -7        -16    
+  -7                    'l_r'      -8     "st_a_3_10" 
+  -8                    'l_v'      -9     "st_a_3_9" 
+  -9                    'l_d'     -10     "st_a_3_8" 
+ -10                   'l_gi'     -11     "st_a_3_7" 
+ -11                    'l_s'     -13        -12    
+ -12                    'r_i'  "st_a_3_5"  "st_a_3_6" 
+ -13                    'r_y'     -14     "st_a_3_4" 
+ -14                    'l_t'     -15     "st_a_3_3" 
+ -15                    'l_c'  "st_a_3_1"  "st_a_3_2" 
+ -16                   'l_dd'  "st_a_3_11"  "st_a_3_12" 
+}
+
+i[3]
+{
+   0                   'l_dd'      -1     "st_i_3_15" 
+  -1                   'l_kh'      -2     "st_i_3_14" 
+  -2                   'l_ch'      -3     "st_i_3_13" 
+  -3                    'l_a'      -4     "st_i_3_12" 
+  -4                   'l_ar'      -5     "st_i_3_11" 
+  -5                   'l_aj'      -6     "st_i_3_10" 
+  -6                'l_uwowf'      -7     "st_i_3_9" 
+  -7                  'l_ows'      -8     "st_i_3_8" 
+  -8                   'l_as'      -9     "st_i_3_7" 
+  -9                   'l_oo'     -10     "st_i_3_6" 
+ -10                  'l_owf'     -11     "st_i_3_5" 
+ -11                   'l_af'     -12     "st_i_3_4" 
+ -12                  'l_oof'     -13     "st_i_3_3" 
+ -13                   'l_os'  "st_i_3_1"  "st_i_3_2" 
+}
+
+n[3]
+{
+   0                   'l_is'      -1     "st_n_3_36" 
+  -1                  'l_oos'      -2     "st_n_3_35" 
+  -2                 'l_ieej'      -3     "st_n_3_34" 
+  -3                   'l_ar'      -4     "st_n_3_33" 
+  -4                   'l_aa'      -5     "st_n_3_32" 
+  -5                  'l_aaj'      -6     "st_n_3_31" 
+  -6                   'l_aj'      -7     "st_n_3_30" 
+  -7                   'l_af'      -8     "st_n_3_29" 
+  -8                   'l_ee'      -9     "st_n_3_28" 
+  -9                 'l_ieef'     -10     "st_n_3_27" 
+ -10                    'l_o'     -11     "st_n_3_26" 
+ -11                  'l_iee'     -12     "st_n_3_25" 
+ -12                   'r_aw'     -13     "st_n_3_24" 
+ -13                   'r_af'     -14     "st_n_3_23" 
+ -14                    'l_a'     -15     "st_n_3_22" 
+ -15                   'r_os'     -16     "st_n_3_21" 
+ -16                   'l_ow'     -17     "st_n_3_20" 
+ -17                  'l_aws'     -18     "st_n_3_19" 
+ -18                 'l_iees'     -19     "st_n_3_18" 
+ -19                  'l_ees'     -20     "st_n_3_17" 
+ -20                  'l_oof'     -21     "st_n_3_16" 
+ -21                   'l_of'     -22     "st_n_3_15" 
+ -22                  'l_aax'     -23     "st_n_3_14" 
+ -23                    'l_e'     -24     "st_n_3_13" 
+ -24                   'l_oj'     -25     "st_n_3_12" 
+ -25                    'l_i'     -26     "st_n_3_11" 
+ -26                   'l_ua'     -27     "st_n_3_10" 
+ -27                  'l_aas'     -28     "st_n_3_9" 
+ -28                 'l_yeef'     -29     "st_n_3_8" 
+ -29                   'l_as'     -30     "st_n_3_7" 
+ -30                  'l_aaf'     -31     "st_n_3_6" 
+ -31                   'l_aw'     -32     "st_n_3_5" 
+ -32                  'l_yee'     -33     "st_n_3_4" 
+ -33                'r_uwows'     -34     "st_n_3_3" 
+ -34                   'r_ee'  "st_n_3_1"  "st_n_3_2" 
+}
+
+nh[3]
+{
+   0                    'l_a'      -1     "st_nh_3_16" 
+  -1                   'l_if'      -2     "st_nh_3_15" 
+  -2                   'l_is'      -3     "st_nh_3_14" 
+  -3                   'r_uw'      -4     "st_nh_3_13" 
+  -4                   'l_af'      -5     "st_nh_3_12" 
+  -5                   'l_as'      -6     "st_nh_3_11" 
+  -6                   'l_aj'      -7     "st_nh_3_10" 
+  -7                  'r_uwx'      -8     "st_nh_3_9" 
+  -8                  'l_eej'      -9     "st_nh_3_8" 
+  -9                    'l_i'     -10     "st_nh_3_7" 
+ -10                   'l_ua'     -11     "st_nh_3_6" 
+ -11                  'r_aaj'     -12     "st_nh_3_5" 
+ -12                 'r_ieef'     -13     "st_nh_3_4" 
+ -13                   'r_aa'     -14     "st_nh_3_3" 
+ -14                   'r_ej'  "st_nh_3_1"  "st_nh_3_2" 
+}
+
+as[3]
+{
+   0                    'r_u'      -1     "st_as_3_13" 
+  -1                    'r_m'      -2        -11    
+  -2                    'r_c'      -3         -4    
+  -3                    'l_l'      -5     "st_as_3_9" 
+  -4                    'l_c'  "st_as_3_11"  "st_as_3_10" 
+  -5                   'l_gi'      -6     "st_as_3_8" 
+  -6                    'l_b'      -7         -8    
+  -7                   'l_ph'      -9     "st_as_3_5" 
+  -8                    'r_o'  "st_as_3_6"  "st_as_3_7" 
+  -9                    'r_i'     -12        -10    
+ -10                    'l_c'  "st_as_3_3"  "st_as_3_4" 
+ -11                    'l_t'  "st_as_3_11"  "st_as_3_12" 
+ -12                    'l_s'     -13     "st_as_3_2" 
+ -13                    'l_c'  "st_as_3_3"  "st_as_3_1" 
+}
+
+p[3]
+{
+   0                   'l_as'      -1     "st_p_3_4" 
+  -1                   'l_os'      -2     "st_p_3_3" 
+  -2                  'l_aaj'  "st_p_3_1"  "st_p_3_2" 
+}
+
+aw[3]
+{
+   0                    'l_l'      -1     "st_aw_3_3" 
+  -1                    'r_m'  "st_aw_3_1"      -2    
+  -2                    'l_n'  "st_aw_3_1"  "st_aw_3_2" 
+}
+
+b[3]
+{
+   0                  'r_oos'      -1     "st_b_3_8" 
+  -1                 'r_iees'      -2     "st_b_3_7" 
+  -2                    'r_a'      -3     "st_b_3_6" 
+  -3                   'r_ar'      -4     "st_b_3_5" 
+  -4                   'r_aj'      -5     "st_b_3_4" 
+  -5                   'r_as'      -6     "st_b_3_3" 
+  -6                   'r_af'  "st_b_3_1"  "st_b_3_2" 
+}
+
+aaj[3]
+{
+   0                   'l_nh'      -1     "st_aaj_3_3" 
+  -1                    'r_p'  "st_aaj_3_1"  "st_aaj_3_2" 
+}
+
+t[3]
+{
+   0                   'r_as'      -1     "st_t_3_12" 
+  -1                  'l_oos'      -2     "st_t_3_11" 
+  -2                  'l_ooj'      -3     "st_t_3_10" 
+  -3                   'l_as'      -4     "st_t_3_9" 
+  -4                   'r_oo'      -5     "st_t_3_8" 
+  -5                    'r_a'      -6     "st_t_3_7" 
+  -6                   'r_aj'      -7     "st_t_3_6" 
+  -7                 'l_iees'      -8     "st_t_3_5" 
+  -8                  'l_aaj'      -9     "st_t_3_4" 
+  -9                  'l_aas'     -10     "st_t_3_3" 
+ -10                    'r_u'  "st_t_3_1"  "st_t_3_2" 
+}
+
+aj[3]
+{
+   0                    'r_i'      -1         -2    
+  -1                    'l_b'  "st_aj_3_1"  "st_aj_3_2" 
+  -2                    'l_l'  "st_aj_3_3"  "st_aj_3_4" 
+}
+
+ch[3]
+{
+   0                   'r_is'      -1     "st_ch_3_9" 
+  -1                   'r_us'      -2     "st_ch_3_8" 
+  -2                    'r_o'      -3     "st_ch_3_7" 
+  -3                    'r_u'      -4     "st_ch_3_6" 
+  -4                 'r_iees'      -5     "st_ch_3_5" 
+  -5                    'r_i'      -6     "st_ch_3_4" 
+  -6                  'r_uwa'      -7     "st_ch_3_3" 
+  -7                  'r_ees'  "st_ch_3_1"  "st_ch_3_2" 
+}
+
+o[3]
+{
+   0                   'l_ch'      -1     "st_o_3_9" 
+  -1                   'l_af'      -2     "st_o_3_8" 
+  -2                    'l_c'      -3     "st_o_3_7" 
+  -3                   'l_tr'      -4     "st_o_3_6" 
+  -4                   'l_aj'      -5     "st_o_3_5" 
+  -5                   'l_as'      -6     "st_o_3_4" 
+  -6                    'l_d'      -7     "st_o_3_3" 
+  -7                    'l_a'  "st_o_3_1"  "st_o_3_2" 
+}
+
+ar[3]
+{
+   0                    'r_y'      -1     "st_ar_3_6" 
+  -1                    'l_c'      -2     "st_ar_3_5" 
+  -2                   'l_ph'      -3     "st_ar_3_4" 
+  -3                    'l_s'      -4     "st_ar_3_3" 
+  -4                    'r_m'  "st_ar_3_1"  "st_ar_3_2" 
+}
+
+c[3]
+{
+   0                'l_uwowj'      -1     "st_c_3_10" 
+  -1                  'r_ura'      -2     "st_c_3_9" 
+  -2                   'l_as'      -3     "st_c_3_8" 
+  -3                   'l_oj'      -4     "st_c_3_7" 
+  -4                   'r_as'      -5     "st_c_3_6" 
+  -5                   'r_os'      -6     "st_c_3_5" 
+  -6                   'r_ux'      -7     "st_c_3_4" 
+  -7                    'r_o'      -8     "st_c_3_3" 
+  -8                   'r_oo'  "st_c_3_1"  "st_c_3_2" 
+}
+
+awf[3]
+   "st_awf_3_1"
+
+ng[3]
+{
+   0                  'l_uwx'      -1     "st_ng_3_21" 
+  -1                   'l_oo'      -2     "st_ng_3_20" 
+  -2                   'l_uw'      -3     "st_ng_3_19" 
+  -3                'l_uwowf'      -4     "st_ng_3_18" 
+  -4                   'l_ux'      -5     "st_ng_3_17" 
+  -5                    'l_a'      -6     "st_ng_3_16" 
+  -6                  'l_ooj'      -7     "st_ng_3_15" 
+  -7                   'l_oj'      -8     "st_ng_3_14" 
+  -8                    'l_o'      -9     "st_ng_3_13" 
+  -9                  'l_oof'     -10     "st_ng_3_12" 
+ -10                   'l_us'     -11     "st_ng_3_11" 
+ -11                  'l_oos'     -12     "st_ng_3_10" 
+ -12                    'l_u'     -13     "st_ng_3_9" 
+ -13                 'l_uwow'     -14     "st_ng_3_8" 
+ -14                'r_uwowf'     -15     "st_ng_3_7" 
+ -15                   'r_af'     -16     "st_ng_3_6" 
+ -16                   'l_of'     -17     "st_ng_3_5" 
+ -17                   'l_af'     -18     "st_ng_3_4" 
+ -18                   'l_aw'     -19     "st_ng_3_3" 
+ -19                   'l_uf'  "st_ng_3_1"  "st_ng_3_2" 
+}
+
+aws[3]
+{
+   0                    'l_c'      -1     "st_aws_3_3" 
+  -1                    'r_t'  "st_aws_3_1"  "st_aws_3_2" 
+}
+
+eej[3]
+{
+   0                  'l_ngh'  "st_eej_3_1"  "st_eej_3_2" 
+}
+
+ee[3]
+{
+   0                    'l_n'      -1     "st_ee_3_4" 
+  -1                   'l_tr'      -2     "st_ee_3_3" 
+  -2                    'l_l'  "st_ee_3_1"  "st_ee_3_2" 
+}
+
+es[3]
+   "st_es_3_1"
+
+ia[3]
+   "st_ia_3_1"
+
+ieej[3]
+{
+   0                    'r_c'      -1     "st_ieej_3_3" 
+  -1                    'l_h'  "st_ieej_3_1"  "st_ieej_3_2" 
+}
+
+iee[3]
+{
+   0                    'l_v'  "st_iee_3_1"  "st_iee_3_2" 
+}
+
+ieer[3]
+   "st_ieer_3_1"
+
+iees[3]
+{
+   0                    'r_n'      -1         -2    
+  -1                    'l_b'      -3     "st_iees_3_3" 
+  -2                    'l_b'  "st_iees_3_4"  "st_iees_3_5" 
+  -3                   'l_ch'  "st_iees_3_1"  "st_iees_3_2" 
+}
+
+if[3]
+{
+   0                   'r_nh'      -1         -3    
+  -1                   'l_th'      -2     "st_if_3_3" 
+  -2                    'l_v'  "st_if_3_1"  "st_if_3_2" 
+  -3                    'l_m'  "st_if_3_4"  "st_if_3_5" 
+}
+
+ij[3]
+{
+   0                    'l_b'      -1     "st_ij_3_3" 
+  -1                   'l_th'  "st_ij_3_1"  "st_ij_3_2" 
+}
+
+oj[3]
+{
+   0                   'l_tr'      -1     "st_oj_3_3" 
+  -1                    'l_h'  "st_oj_3_1"  "st_oj_3_2" 
+}
+
+oof[3]
+{
+   0                    'l_r'  "st_oof_3_1"  "st_oof_3_2" 
+}
+
+ooj[3]
+{
+   0                   'l_dd'      -1     "st_ooj_3_4" 
+  -1                    'r_t'      -2     "st_ooj_3_3" 
+  -2                    'l_h'  "st_ooj_3_1"  "st_ooj_3_2" 
+}
+
+oo[3]
+{
+   0                   'r_ng'      -1         -2    
+  -1                    'l_c'      -5     "st_oo_3_3" 
+  -2                   'l_kh'      -3     "st_oo_3_7" 
+  -3                    'l_c'      -4     "st_oo_3_6" 
+  -4                   'l_th'  "st_oo_3_4"  "st_oo_3_5" 
+  -5                    'l_t'  "st_oo_3_1"  "st_oo_3_2" 
+}
+
+oos[3]
+{
+   0                   'l_ph'      -1     "st_oos_3_4" 
+  -1                    'l_b'      -2     "st_oos_3_3" 
+  -2                    'l_s'  "st_oos_3_1"  "st_oos_3_2" 
+}
+
+or[3]
+{
+   0                    'l_h'  "st_or_3_1"  "st_or_3_2" 
+}
+
+os[3]
+{
+   0                    'l_c'      -1     "st_os_3_5" 
+  -1                    'l_n'      -3         -2    
+  -2                    'r_i'  "st_os_3_3"  "st_os_3_4" 
+  -3                   'l_dd'  "st_os_3_1"  "st_os_3_2" 
+}
+
+owf[3]
+{
+   0                   'l_gi'      -1     "st_owf_3_3" 
+  -1                   'l_th'  "st_owf_3_1"  "st_owf_3_2" 
+}
+
+uj[3]
+{
+   0                    'l_v'  "st_uj_3_1"  "st_uj_3_2" 
+}
+
+uoof[3]
+   "st_uoof_3_1"
+
+uoor[3]
+   "st_uoor_3_1"
+
+us[3]
+{
+   0                   'r_ng'  "st_us_3_1"  "st_us_3_2" 
+}
+
+uws[3]
+   "st_uws_3_1"
+
+ys[3]
+   "st_ys_3_1"
+
+awj[3]
+   "st_awj_3_1"
+
+ees[3]
+{
+   0                    'r_t'      -1     "st_ees_3_5" 
+  -1                    'l_n'      -2     "st_ees_3_4" 
+  -2                   'l_dd'      -3     "st_ees_3_3" 
+  -3                   'l_ch'  "st_ees_3_1"  "st_ees_3_2" 
+}
+
+ex[3]
+   "st_ex_3_1"
+
+ieef[3]
+{
+   0                    'l_t'      -1     "st_ieef_3_3" 
+  -1                   'l_nh'  "st_ieef_3_1"  "st_ieef_3_2" 
+}
+
+ir[3]
+{
+   0                   'l_ch'  "st_ir_3_1"  "st_ir_3_2" 
+}
+
+is[3]
+{
+   0                    'r_n'      -1     "st_is_3_4" 
+  -1                    'r_t'      -2     "st_is_3_3" 
+  -2                   'r_ch'  "st_is_3_1"  "st_is_3_2" 
+}
+
+ef[3]
+   "st_ef_3_1"
+
+oor[3]
+{
+   0                    'l_c'  "st_oor_3_1"  "st_oor_3_2" 
+}
+
+ow[3]
+   "st_ow_3_1"
+
+owj[3]
+   "st_owj_3_1"
+
+ur[3]
+{
+   0                   'l_dd'  "st_ur_3_1"  "st_ur_3_2" 
+}
+
+uw[3]
+{
+   0                   'r_ng'  "st_uw_3_1"  "st_uw_3_2" 
+}
+
+uwa[3]
+{
+   0                   'l_ch'      -1     "st_uwa_3_3" 
+  -1                   'l_dd'  "st_uwa_3_1"  "st_uwa_3_2" 
+}
+
+uwow[3]
+   "st_uwow_3_1"
+
+uwxa[3]
+   "st_uwxa_3_1"
+
+yeej[3]
+   "st_yeej_3_1"
+
+yee[3]
+   "st_yee_3_1"
+
+yeer[3]
+   "st_yeer_3_1"
+
+of[3]
+{
+   0                    'l_c'  "st_of_3_1"  "st_of_3_2" 
+}
+
+uf[3]
+{
+   0                    'l_c'  "st_uf_3_1"  "st_uf_3_2" 
+}
+
+uooj[3]
+   "st_uooj_3_1"
+
+uoos[3]
+   "st_uoos_3_1"
+
+ura[3]
+   "st_ura_3_1"
+
+uwf[3]
+   "st_uwf_3_1"
+
+uwowf[3]
+{
+   0                    'r_i'      -2         -1    
+  -1                    'l_m'  "st_uwowf_3_4"  "st_uwowf_3_5" 
+  -2                   'l_tr'      -3     "st_uwowf_3_3" 
+  -3                   'l_th'  "st_uwowf_3_1"  "st_uwowf_3_2" 
+}
+
+uwows[3]
+   "st_uwows_3_1"
+
+uwowx[3]
+   "st_uwowx_3_1"
+
+uwra[3]
+   "st_uwra_3_1"
+
+uwr[3]
+   "st_uwr_3_1"
+
+ux[3]
+   "st_ux_3_1"
+
+d[3]
+{
+   0                    'r_u'      -1     "st_d_3_5" 
+  -1                  'r_uwj'      -2     "st_d_3_4" 
+  -2                   'r_aa'      -3     "st_d_3_3" 
+  -3                    'r_o'  "st_d_3_1"  "st_d_3_2" 
+}
+
+ax[3]
+{
+   0                   'l_dd'  "st_ax_3_1"  "st_ax_3_2" 
+}
+
+dd[3]
+{
+   0                   'r_ax'      -1     "st_dd_3_4" 
+  -1                'r_uwowj'      -2     "st_dd_3_3" 
+  -2                   'r_os'  "st_dd_3_1"  "st_dd_3_2" 
+}
+
+eef[3]
+   "st_eef_3_1"
+
+eer[3]
+{
+   0                   'l_th'      -1     "st_eer_3_3" 
+  -1                    'l_k'  "st_eer_3_1"  "st_eer_3_2" 
+}
+
+ej[3]
+{
+   0                    'l_m'  "st_ej_3_1"  "st_ej_3_2" 
+}
+
+e[3]
+{
+   0                   'l_th'  "st_e_3_1"  "st_e_3_2" 
+}
+
+ija[3]
+   "st_ija_3_1"
+
+ix[3]
+   "st_ix_3_1"
+
+uwowj[3]
+   "st_uwowj_3_1"
+
+ieex[3]
+   "st_ieex_3_1"
+
+oox[3]
+   "st_oox_3_1"
+
+owr[3]
+   "st_owr_3_1"
+
+owx[3]
+   "st_owx_3_1"
+
+uwfa[3]
+   "st_uwfa_3_1"
+
+uwj[3]
+{
+   0                    'l_t'      -1     "st_uwj_3_3" 
+  -1                    'l_s'  "st_uwj_3_1"  "st_uwj_3_2" 
+}
+
+uwsa[3]
+   "st_uwsa_3_1"
+
+uwx[3]
+   "st_uwx_3_1"
+
+g[3]
+   "st_g_3_1"
+
+gh[3]
+   "st_gh_3_1"
+
+gi[3]
+{
+   0                   'r_ar'      -1     "st_gi_3_5" 
+  -1                   'r_as'      -2     "st_gi_3_4" 
+  -2                    'r_a'      -3     "st_gi_3_3" 
+  -3                  'r_owf'  "st_gi_3_1"  "st_gi_3_2" 
+}
+
+f[3]
+   "st_f_3_1"
+
+ows[3]
+{
+   0                    'l_t'      -1     "st_ows_3_5" 
+  -1                   'l_gi'      -2     "st_ows_3_4" 
+  -2                    'l_m'      -3     "st_ows_3_3" 
+  -3                    'r_i'  "st_ows_3_1"  "st_ows_3_2" 
+}
+
+r[3]
+{
+   0                  'r_oof'      -1     "st_r_3_5" 
+  -1                  'r_aas'      -2     "st_r_3_4" 
+  -2                    'r_a'      -3     "st_r_3_3" 
+  -3                  'r_awf'  "st_r_3_1"  "st_r_3_2" 
+}
+
+h[3]
+{
+   0                    'r_a'      -1     "st_h_3_7" 
+  -1                 'r_ieej'      -2     "st_h_3_6" 
+  -2                   'r_ar'      -3     "st_h_3_5" 
+  -3                   'r_ow'      -4     "st_h_3_4" 
+  -4                   'r_af'      -5     "st_h_3_3" 
+  -5                   'r_oj'  "st_h_3_1"  "st_h_3_2" 
+}
+
+yees[3]
+   "st_yees_3_1"
+
+k[3]
+   "st_k_3_1"
+
+kh[3]
+{
+   0                   'r_oo'      -1     "st_kh_3_6" 
+  -1                    'r_u'      -2     "st_kh_3_5" 
+  -2                   'r_as'      -3     "st_kh_3_4" 
+  -3                    'r_i'      -4     "st_kh_3_3" 
+  -4                 'r_iees'  "st_kh_3_1"  "st_kh_3_2" 
+}
+
+l[3]
+{
+   0                   'r_aw'      -1     "st_l_3_4" 
+  -1                   'r_af'      -2     "st_l_3_3" 
+  -2                   'r_aj'  "st_l_3_1"  "st_l_3_2" 
+}
+
+er[3]
+{
+   0                   'l_tr'  "st_er_3_1"  "st_er_3_2" 
+}
+
+uoo[3]
+   "st_uoo_3_1"
+
+awr[3]
+   "st_awr_3_1"
+
+ua[3]
+   "st_ua_3_1"
+
+ufa[3]
+   "st_ufa_3_1"
+
+usa[3]
+   "st_usa_3_1"
+
+uwowi[3]
+   "st_uwowi_3_1"
+
+yx[3]
+   "st_yx_3_1"
+
+ngh[3]
+{
+   0                   'r_ix'  "st_ngh_3_1"  "st_ngh_3_2" 
+}
+
+ixa[3]
+   "st_ixa_3_1"
+
+uwja[3]
+   "st_uwja_3_1"
+
+ph[3]
+{
+   0                  'r_aaf'      -1     "st_ph_3_3" 
+  -1                   'r_ar'  "st_ph_3_1"  "st_ph_3_2" 
+}
+
+isa[3]
+   "st_isa_3_1"
+
+q[3]
+{
+   0                    'r_u'      -1     "st_q_3_3" 
+  -1                  'r_uas'  "st_q_3_1"  "st_q_3_2" 
+}
+
+uar[3]
+   "st_uar_3_1"
+
+uas[3]
+   "st_uas_3_1"
+
+yeef[3]
+   "st_yeef_3_1"
+
+ox[3]
+   "st_ox_3_1"
+
+s[3]
+{
+   0                  'r_oos'      -1     "st_s_3_11" 
+  -1                   'r_as'      -2     "st_s_3_10" 
+  -2                  'r_uwj'      -3     "st_s_3_9" 
+  -3                   'r_ow'      -4     "st_s_3_8" 
+  -4                   'r_ar'      -5     "st_s_3_7" 
+  -5                   'r_ex'      -6     "st_s_3_6" 
+  -6                  'r_aws'      -7     "st_s_3_5" 
+  -7                    'r_a'      -8     "st_s_3_4" 
+  -8                 'r_uwxa'      -9     "st_s_3_3" 
+  -9                   'r_aa'  "st_s_3_1"  "st_s_3_2" 
+}
+
+th[3]
+{
+   0                   'r_if'      -1     "st_th_3_8" 
+  -1                    'r_u'      -2     "st_th_3_7" 
+  -2                    'r_a'      -3     "st_th_3_6" 
+  -3                  'r_eer'      -4     "st_th_3_5" 
+  -4                   'r_ij'      -5     "st_th_3_4" 
+  -5                   'r_oo'      -6     "st_th_3_3" 
+  -6                    'r_e'  "st_th_3_1"  "st_th_3_2" 
+}
+
+uwowr[3]
+   "st_uwowr_3_1"
+
+tr[3]
+{
+   0                    'r_u'      -1     "st_tr_3_3" 
+  -1                    'r_o'  "st_tr_3_1"  "st_tr_3_2" 
+}
+
+aax[3]
+   "st_aax_3_1"
+
+uwju[3]
+   "st_uwju_3_1"
+
+yr[3]
+   "st_yr_3_1"
+
+v[3]
+{
+   0                   'r_af'      -1     "st_v_3_4" 
+  -1                 'r_ieej'      -2     "st_v_3_3" 
+  -2                  'r_ows'  "st_v_3_1"  "st_v_3_2" 
+}
+
+x[3]
+{
+   0                  'r_uwa'      -1     "st_x_3_7" 
+  -1                    'r_o'      -2     "st_x_3_6" 
+  -2                    'r_u'      -3     "st_x_3_5" 
+  -3                   'r_ax'      -4     "st_x_3_4" 
+  -4                  'r_ees'      -5     "st_x_3_3" 
+  -5                    'r_e'  "st_x_3_1"  "st_x_3_2" 
+}
+
+oay[3]
+   "st_oay_3_1"
+
+oe[3]
+   "st_oe_3_1"
+
+sil[3]
+   "st_sil_3_1"
+
+aaf[4]
+{
+   0                   'l_ph'      -1     "st_aaf_4_3" 
+  -1                    'l_l'  "st_aaf_4_2"      -2    
+  -2                    'r_m'  "st_aaf_4_1"  "st_aaf_4_2" 
+}
+
+u[4]
+{
+   0                  'l_aaj'      -1     "st_u_4_8" 
+  -1                  'l_aaf'      -2     "st_u_4_7" 
+  -2                 'l_ieef'      -3     "st_u_4_6" 
+  -3                   'l_as'      -4     "st_u_4_5" 
+  -4                  'l_iee'      -5     "st_u_4_4" 
+  -5                    'l_a'      -6     "st_u_4_3" 
+  -6                   'l_aa'  "st_u_4_1"  "st_u_4_2" 
+}
+
+aar[4]
+   "st_aar_4_1"
+
+m[4]
+{
+   0                'r_uwowi'      -1     "st_m_4_10" 
+  -1                  'r_ooj'      -2     "st_m_4_9" 
+  -2                   'l_aw'      -3     "st_m_4_8" 
+  -3                'r_uwowf'      -4     "st_m_4_7" 
+  -4                  'r_oos'      -5     "st_m_4_6" 
+  -5                   'l_as'      -6     "st_m_4_5" 
+  -6                   'l_af'      -7     "st_m_4_4" 
+  -7                 'l_ieer'      -8     "st_m_4_3" 
+  -8                   'r_af'  "st_m_4_1"  "st_m_4_2" 
+}
+
+aas[4]
+{
+   0                    'l_r'      -1     "st_aas_4_4" 
+  -1                    'l_u'      -2     "st_aas_4_3" 
+  -2                    'r_t'  "st_aas_4_1"  "st_aas_4_2" 
+}
+
+y[4]
+{
+   0                   'l_ar'      -1     "st_y_4_8" 
+  -1                   'l_af'      -2     "st_y_4_7" 
+  -2                  'l_aas'      -3     "st_y_4_6" 
+  -3                  'l_aaj'      -4     "st_y_4_5" 
+  -4                   'l_aa'      -5     "st_y_4_4" 
+  -5                   'l_as'      -6     "st_y_4_3" 
+  -6                    'l_a'  "st_y_4_1"  "st_y_4_2" 
+}
+
+aa[4]
+{
+   0                    'r_n'  "st_aa_4_1"  "st_aa_4_2" 
+}
+
+af[4]
+{
+   0                    'r_y'      -1     "st_af_4_12" 
+  -1                    'r_m'      -2     "st_af_4_11" 
+  -2                   'r_ng'      -3     "st_af_4_10" 
+  -3                    'r_o'      -4     "st_af_4_9" 
+  -4                    'l_o'      -5     "st_af_4_8" 
+  -5                    'l_m'      -6     "st_af_4_7" 
+  -6                   'l_nh'      -7     "st_af_4_6" 
+  -7                   'r_nh'      -8     "st_af_4_5" 
+  -8                    'l_v'      -9     "st_af_4_4" 
+  -9                    'l_l'     -10     "st_af_4_3" 
+ -10                    'l_b'  "st_af_4_1"  "st_af_4_2" 
+}
+
+a[4]
+{
+   0                    'l_h'      -1     "st_a_4_16" 
+  -1                    'l_b'      -2     "st_a_4_15" 
+  -2                   'r_ng'      -3        -12    
+  -3                    'l_v'      -4     "st_a_4_12" 
+  -4                   'r_nh'      -5     "st_a_4_11" 
+  -5                    'l_s'      -6     "st_a_4_10" 
+  -6                    'l_r'      -7     "st_a_4_9" 
+  -7                    'r_y'      -8     "st_a_4_8" 
+  -8                   'l_os'      -9     "st_a_4_7" 
+  -9                    'l_d'     -10     "st_a_4_6" 
+ -10                    'r_n'     -11     "st_a_4_5" 
+ -11                    'l_o'     -13     "st_a_4_4" 
+ -12                   'l_dd'  "st_a_4_13"  "st_a_4_14" 
+ -13                   'l_gi'     -14     "st_a_4_3" 
+ -14                    'l_t'  "st_a_4_1"  "st_a_4_2" 
+}
+
+i[4]
+{
+   0                   'l_aj'      -1     "st_i_4_12" 
+  -1                    'l_a'      -2     "st_i_4_11" 
+  -2                'l_uwowf'      -3     "st_i_4_10" 
+  -3                   'l_oo'      -4     "st_i_4_9" 
+  -4                   'l_ar'      -5     "st_i_4_8" 
+  -5                   'l_as'      -6     "st_i_4_7" 
+  -6                   'l_dd'      -7     "st_i_4_6" 
+  -7                  'l_owf'      -8     "st_i_4_5" 
+  -8                  'l_oof'      -9     "st_i_4_4" 
+  -9                  'l_ows'     -10     "st_i_4_3" 
+ -10                   'l_os'  "st_i_4_1"  "st_i_4_2" 
+}
+
+n[4]
+{
+   0                   'l_is'      -1     "st_n_4_27" 
+  -1                   'r_af'      -2     "st_n_4_26" 
+  -2                   'r_aw'      -3     "st_n_4_25" 
+  -3                   'r_os'      -4     "st_n_4_24" 
+  -4                  'l_aaj'      -5     "st_n_4_23" 
+  -5                   'l_ar'      -6     "st_n_4_22" 
+  -6                  'l_oos'      -7     "st_n_4_21" 
+  -7                 'l_ieej'      -8     "st_n_4_20" 
+  -8                  'l_iee'      -9     "st_n_4_19" 
+  -9                   'l_aj'     -10     "st_n_4_18" 
+ -10                'r_uwows'     -11     "st_n_4_17" 
+ -11                   'l_af'     -12     "st_n_4_16" 
+ -12                   'l_of'     -13     "st_n_4_15" 
+ -13                  'l_aaf'     -14     "st_n_4_14" 
+ -14                 'l_ieef'     -15     "st_n_4_13" 
+ -15                   'l_ee'     -16     "st_n_4_12" 
+ -16                  'l_ees'     -17     "st_n_4_11" 
+ -17                 'l_iees'     -18     "st_n_4_10" 
+ -18                   'l_as'     -19     "st_n_4_9" 
+ -19                    'l_o'     -20     "st_n_4_8" 
+ -20                   'l_aa'     -21     "st_n_4_7" 
+ -21                   'l_aw'     -22     "st_n_4_6" 
+ -22                    'l_a'     -23     "st_n_4_5" 
+ -23                  'l_oof'     -24     "st_n_4_4" 
+ -24                  'l_aas'     -25     "st_n_4_3" 
+ -25                   'l_ow'  "st_n_4_1"  "st_n_4_2" 
+}
+
+nh[4]
+{
+   0                   'r_uw'      -1     "st_nh_4_10" 
+  -1                 'r_ieef'      -2     "st_nh_4_9" 
+  -2                    'l_a'      -3     "st_nh_4_8" 
+  -3                  'r_uwx'      -4     "st_nh_4_7" 
+  -4                   'l_if'      -5     "st_nh_4_6" 
+  -5                  'r_aaj'      -6     "st_nh_4_5" 
+  -6                   'r_af'      -7     "st_nh_4_4" 
+  -7                   'r_aa'      -8     "st_nh_4_3" 
+  -8                   'l_af'  "st_nh_4_1"  "st_nh_4_2" 
+}
+
+as[4]
+{
+   0                    'r_u'      -1     "st_as_4_11" 
+  -1                    'r_m'      -2     "st_as_4_10" 
+  -2                   'r_ch'      -3         -9    
+  -3                    'r_c'      -4         -7    
+  -4                    'l_l'      -5     "st_as_4_5" 
+  -5                    'r_i'      -6     "st_as_4_4" 
+  -6                   'l_gi'      -8     "st_as_4_3" 
+  -7                    'l_c'  "st_as_4_6"  "st_as_4_7" 
+  -8                   'l_ph'     -10     "st_as_4_2" 
+  -9                    'l_c'  "st_as_4_8"  "st_as_4_9" 
+ -10                    'l_s'  "st_as_4_6"  "st_as_4_1" 
+}
+
+p[4]
+{
+   0                  'l_aaj'  "st_p_4_1"  "st_p_4_2" 
+}
+
+aw[4]
+{
+   0                    'l_l'      -1     "st_aw_4_4" 
+  -1                    'r_m'      -2     "st_aw_4_3" 
+  -2                    'r_n'  "st_aw_4_1"  "st_aw_4_2" 
+}
+
+b[4]
+{
+   0                  'r_oos'      -1     "st_b_4_7" 
+  -1                 'r_iees'      -2     "st_b_4_6" 
+  -2                   'r_aj'      -3     "st_b_4_5" 
+  -3                   'r_ar'      -4     "st_b_4_4" 
+  -4                    'r_a'      -5     "st_b_4_3" 
+  -5                   'r_af'      -6     "st_b_4_2" 
+  -6                   'r_as'  "st_b_4_1"  "st_b_4_2" 
+}
+
+aaj[4]
+{
+   0                    'r_n'      -1     "st_aaj_4_3" 
+  -1                    'r_p'  "st_aaj_4_1"  "st_aaj_4_2" 
+}
+
+t[4]
+{
+   0                   'r_as'      -1     "st_t_4_11" 
+  -1                   'r_aj'      -2     "st_t_4_10" 
+  -2                   'r_oo'      -3     "st_t_4_9" 
+  -3                    'r_a'      -4     "st_t_4_8" 
+  -4                  'l_ooj'      -5     "st_t_4_7" 
+  -5                   'r_is'      -6     "st_t_4_6" 
+  -6                  'r_uwf'      -7     "st_t_4_5" 
+  -7                    'r_u'      -8     "st_t_4_4" 
+  -8                  'l_aas'      -9     "st_t_4_3" 
+  -9                   'l_as'  "st_t_4_1"  "st_t_4_2" 
+}
+
+aj[4]
+{
+   0                    'l_o'      -1     "st_aj_4_4" 
+  -1                    'r_i'      -2     "st_aj_4_3" 
+  -2                    'r_n'  "st_aj_4_1"  "st_aj_4_2" 
+}
+
+ch[4]
+{
+   0                   'r_is'      -1     "st_ch_4_5" 
+  -1                    'r_o'      -2     "st_ch_4_4" 
+  -2                    'r_i'      -3     "st_ch_4_3" 
+  -3                    'r_u'  "st_ch_4_1"  "st_ch_4_2" 
+}
+
+o[4]
+{
+   0                    'l_c'      -1     "st_o_4_10" 
+  -1                   'l_tr'      -2     "st_o_4_9" 
+  -2                   'l_ar'      -3     "st_o_4_8" 
+  -3                   'l_aj'      -4     "st_o_4_7" 
+  -4                   'l_as'      -5     "st_o_4_6" 
+  -5                   'l_af'      -6     "st_o_4_5" 
+  -6                    'l_e'      -7     "st_o_4_4" 
+  -7                   'l_ch'      -8     "st_o_4_3" 
+  -8                    'l_a'  "st_o_4_1"  "st_o_4_2" 
+}
+
+ar[4]
+{
+   0                    'r_y'      -1     "st_ar_4_5" 
+  -1                    'l_c'      -2     "st_ar_4_4" 
+  -2                    'r_i'      -3     "st_ar_4_3" 
+  -3                    'r_n'  "st_ar_4_1"  "st_ar_4_2" 
+}
+
+c[4]
+{
+   0                  'r_ura'      -1     "st_c_4_9" 
+  -1                   'r_as'      -2     "st_c_4_8" 
+  -2                   'r_os'      -3     "st_c_4_7" 
+  -3                'l_uwowj'      -4     "st_c_4_6" 
+  -4                    'r_o'      -5     "st_c_4_5" 
+  -5                   'r_oo'      -6     "st_c_4_4" 
+  -6                    'r_a'      -7     "st_c_4_3" 
+  -7                   'l_as'  "st_c_4_1"  "st_c_4_2" 
+}
+
+awf[4]
+{
+   0                    'l_r'  "st_awf_4_1"  "st_awf_4_2" 
+}
+
+ng[4]
+{
+   0                'r_uwowf'      -1     "st_ng_4_20" 
+  -1                  'l_uwx'      -2     "st_ng_4_19" 
+  -2                   'r_af'      -3     "st_ng_4_18" 
+  -3                   'l_uj'      -4     "st_ng_4_17" 
+  -4                   'l_ux'      -5     "st_ng_4_16" 
+  -5                  'l_ooj'      -6     "st_ng_4_15" 
+  -6                  'l_awf'      -7     "st_ng_4_14" 
+  -7                'l_uwowf'      -8     "st_ng_4_13" 
+  -8                    'l_o'      -9     "st_ng_4_12" 
+  -9                   'l_uf'     -10     "st_ng_4_11" 
+ -10                   'l_oo'     -11     "st_ng_4_10" 
+ -11                  'l_oos'     -12     "st_ng_4_9" 
+ -12                   'l_af'     -13     "st_ng_4_8" 
+ -13                    'l_a'     -14     "st_ng_4_7" 
+ -14                   'l_us'     -15     "st_ng_4_6" 
+ -15                   'l_uw'     -16     "st_ng_4_5" 
+ -16                 'l_uwow'     -17     "st_ng_4_4" 
+ -17                    'l_u'     -18     "st_ng_4_3" 
+ -18                  'l_oof'  "st_ng_4_1"  "st_ng_4_2" 
+}
+
+aws[4]
+{
+   0                    'l_c'  "st_aws_4_1"  "st_aws_4_2" 
+}
+
+eej[4]
+{
+   0                    'l_b'      -1     "st_eej_4_3" 
+  -1                  'l_ngh'  "st_eej_4_1"  "st_eej_4_2" 
+}
+
+ee[4]
+{
+   0                    'l_l'  "st_ee_4_1"  "st_ee_4_2" 
+}
+
+es[4]
+   "st_es_4_1"
+
+ia[4]
+   "st_ia_4_1"
+
+ieej[4]
+{
+   0                    'r_c'      -1     "st_ieej_4_3" 
+  -1                    'r_n'  "st_ieej_4_1"  "st_ieej_4_2" 
+}
+
+iee[4]
+{
+   0                    'l_v'  "st_iee_4_1"  "st_iee_4_2" 
+}
+
+ieer[4]
+{
+   0                   'l_dd'  "st_ieer_4_1"  "st_ieer_4_2" 
+}
+
+iees[4]
+{
+   0                    'r_n'      -1     "st_iees_4_5" 
+  -1                    'r_c'      -2     "st_iees_4_4" 
+  -2                    'l_b'      -3     "st_iees_4_3" 
+  -3                    'l_t'  "st_iees_4_1"  "st_iees_4_2" 
+}
+
+if[4]
+{
+   0                   'l_th'      -1     "st_if_4_6" 
+  -1                   'r_nh'  "st_if_4_1"      -2    
+  -2                    'l_t'      -3     "st_if_4_5" 
+  -3                    'l_m'      -4     "st_if_4_4" 
+  -4                   'l_tr'  "st_if_4_2"  "st_if_4_3" 
+}
+
+ij[4]
+{
+   0                    'l_b'      -1     "st_ij_4_3" 
+  -1                   'l_th'  "st_ij_4_1"  "st_ij_4_2" 
+}
+
+oj[4]
+{
+   0                   'l_tr'      -1     "st_oj_4_3" 
+  -1                    'l_h'  "st_oj_4_1"  "st_oj_4_2" 
+}
+
+oof[4]
+{
+   0                    'l_r'  "st_oof_4_1"  "st_oof_4_2" 
+}
+
+ooj[4]
+{
+   0                   'l_dd'      -1     "st_ooj_4_3" 
+  -1                    'r_t'  "st_ooj_4_1"  "st_ooj_4_2" 
+}
+
+oo[4]
+{
+   0                    'r_i'      -1     "st_oo_4_6" 
+  -1                   'r_ng'      -2         -3    
+  -2                    'l_c'  "st_oo_4_1"  "st_oo_4_2" 
+  -3                   'l_kh'      -4     "st_oo_4_5" 
+  -4                    'l_c'  "st_oo_4_3"  "st_oo_4_4" 
+}
+
+oos[4]
+{
+   0                    'l_m'      -1     "st_oos_4_5" 
+  -1                    'l_b'      -2     "st_oos_4_4" 
+  -2                    'l_s'      -3     "st_oos_4_3" 
+  -3                   'l_ph'  "st_oos_4_1"  "st_oos_4_2" 
+}
+
+or[4]
+   "st_or_4_1"
+
+os[4]
+{
+   0                    'r_i'      -1     "st_os_4_5" 
+  -1                    'l_n'      -2     "st_os_4_4" 
+  -2                    'r_c'      -3     "st_os_4_3" 
+  -3                   'l_dd'  "st_os_4_1"  "st_os_4_2" 
+}
+
+owf[4]
+{
+   0                    'r_i'      -1     "st_owf_4_3" 
+  -1                   'l_gi'  "st_owf_4_1"  "st_owf_4_2" 
+}
+
+uj[4]
+{
+   0                    'l_v'  "st_uj_4_1"  "st_uj_4_2" 
+}
+
+uoof[4]
+   "st_uoof_4_1"
+
+uoor[4]
+   "st_uoor_4_1"
+
+us[4]
+{
+   0                   'l_ch'  "st_us_4_1"  "st_us_4_2" 
+}
+
+uws[4]
+   "st_uws_4_1"
+
+ys[4]
+   "st_ys_4_1"
+
+awj[4]
+   "st_awj_4_1"
+
+ees[4]
+{
+   0                   'l_dd'      -1     "st_ees_4_3" 
+  -1                    'r_t'  "st_ees_4_1"  "st_ees_4_2" 
+}
+
+ex[4]
+   "st_ex_4_1"
+
+ieef[4]
+{
+   0                   'l_nh'      -1     "st_ieef_4_3" 
+  -1                   'l_dd'  "st_ieef_4_1"  "st_ieef_4_2" 
+}
+
+ir[4]
+{
+   0                   'r_nh'      -1     "st_ir_4_3" 
+  -1                   'l_ch'  "st_ir_4_1"  "st_ir_4_2" 
+}
+
+is[4]
+{
+   0                    'r_n'      -1     "st_is_4_3" 
+  -1                   'r_ch'  "st_is_4_1"  "st_is_4_2" 
+}
+
+ef[4]
+   "st_ef_4_1"
+
+oor[4]
+   "st_oor_4_1"
+
+ow[4]
+   "st_ow_4_1"
+
+owj[4]
+   "st_owj_4_1"
+
+ur[4]
+   "st_ur_4_1"
+
+uw[4]
+{
+   0                   'r_ng'  "st_uw_4_1"  "st_uw_4_2" 
+}
+
+uwa[4]
+{
+   0                    'l_x'      -1     "st_uwa_4_3" 
+  -1                   'l_ch'  "st_uwa_4_1"  "st_uwa_4_2" 
+}
+
+uwow[4]
+   "st_uwow_4_1"
+
+uwxa[4]
+   "st_uwxa_4_1"
+
+yeej[4]
+   "st_yeej_4_1"
+
+yee[4]
+   "st_yee_4_1"
+
+yeer[4]
+   "st_yeer_4_1"
+
+of[4]
+{
+   0                    'r_n'  "st_of_4_1"  "st_of_4_2" 
+}
+
+uf[4]
+   "st_uf_4_1"
+
+uooj[4]
+   "st_uooj_4_1"
+
+uoos[4]
+{
+   0                   'l_th'  "st_uoos_4_1"  "st_uoos_4_2" 
+}
+
+ura[4]
+   "st_ura_4_1"
+
+uwf[4]
+   "st_uwf_4_1"
+
+uwowf[4]
+{
+   0                   'l_ng'      -1     "st_uwowf_4_3" 
+  -1                    'l_m'  "st_uwowf_4_1"  "st_uwowf_4_2" 
+}
+
+uwows[4]
+   "st_uwows_4_1"
+
+uwowx[4]
+   "st_uwowx_4_1"
+
+uwra[4]
+   "st_uwra_4_1"
+
+uwr[4]
+   "st_uwr_4_1"
+
+ux[4]
+   "st_ux_4_1"
+
+d[4]
+{
+   0                    'r_a'      -1     "st_d_4_3" 
+  -1                    'r_o'  "st_d_4_1"  "st_d_4_2" 
+}
+
+ax[4]
+{
+   0                    'l_x'      -1     "st_ax_4_3" 
+  -1                   'l_dd'  "st_ax_4_1"  "st_ax_4_2" 
+}
+
+dd[4]
+{
+   0                'r_uwowj'      -1     "st_dd_4_6" 
+  -1                   'r_ax'      -2     "st_dd_4_5" 
+  -2                   'r_os'      -3     "st_dd_4_4" 
+  -3                  'r_ooj'      -4     "st_dd_4_3" 
+  -4                  'r_oof'  "st_dd_4_1"  "st_dd_4_2" 
+}
+
+eef[4]
+{
+   0                  'l_ngh'  "st_eef_4_1"  "st_eef_4_2" 
+}
+
+eer[4]
+{
+   0                   'l_dd'      -1     "st_eer_4_3" 
+  -1                    'l_k'  "st_eer_4_1"  "st_eer_4_2" 
+}
+
+ej[4]
+{
+   0                    'l_m'  "st_ej_4_1"  "st_ej_4_2" 
+}
+
+e[4]
+{
+   0                    'l_x'  "st_e_4_1"  "st_e_4_2" 
+}
+
+ija[4]
+   "st_ija_4_1"
+
+ix[4]
+   "st_ix_4_1"
+
+uwowj[4]
+   "st_uwowj_4_1"
+
+ieex[4]
+   "st_ieex_4_1"
+
+oox[4]
+   "st_oox_4_1"
+
+owr[4]
+   "st_owr_4_1"
+
+owx[4]
+   "st_owx_4_1"
+
+uwfa[4]
+   "st_uwfa_4_1"
+
+uwj[4]
+{
+   0                    'l_t'      -1     "st_uwj_4_3" 
+  -1                    'l_s'  "st_uwj_4_1"  "st_uwj_4_2" 
+}
+
+uwsa[4]
+   "st_uwsa_4_1"
+
+uwx[4]
+   "st_uwx_4_1"
+
+g[4]
+   "st_g_4_1"
+
+gh[4]
+   "st_gh_4_1"
+
+gi[4]
+{
+   0                   'r_ar'      -1     "st_gi_4_3" 
+  -1                    'r_a'  "st_gi_4_1"  "st_gi_4_2" 
+}
+
+f[4]
+   "st_f_4_1"
+
+ows[4]
+{
+   0                    'r_i'  "st_ows_4_1"      -1    
+  -1                    'l_v'  "st_ows_4_2"  "st_ows_4_3" 
+}
+
+r[4]
+{
+   0                  'r_oof'      -1     "st_r_4_3" 
+  -1                    'r_a'  "st_r_4_1"  "st_r_4_2" 
+}
+
+h[4]
+{
+   0                    'r_a'      -1     "st_h_4_7" 
+  -1                 'r_ieej'      -2     "st_h_4_6" 
+  -2                   'r_ow'      -3     "st_h_4_5" 
+  -3                   'r_af'      -4     "st_h_4_4" 
+  -4                   'r_oj'      -5     "st_h_4_3" 
+  -5                    'r_o'  "st_h_4_1"  "st_h_4_2" 
+}
+
+yees[4]
+   "st_yees_4_1"
+
+k[4]
+   "st_k_4_1"
+
+kh[4]
+{
+   0                   'r_oo'      -1     "st_kh_4_3" 
+  -1                   'r_as'  "st_kh_4_1"  "st_kh_4_2" 
+}
+
+l[4]
+{
+   0                   'r_af'      -1     "st_l_4_4" 
+  -1                   'r_aw'      -2     "st_l_4_3" 
+  -2                   'r_aj'  "st_l_4_1"  "st_l_4_2" 
+}
+
+er[4]
+{
+   0                   'l_tr'  "st_er_4_1"  "st_er_4_2" 
+}
+
+uoo[4]
+   "st_uoo_4_1"
+
+awr[4]
+   "st_awr_4_1"
+
+ua[4]
+   "st_ua_4_1"
+
+ufa[4]
+   "st_ufa_4_1"
+
+usa[4]
+   "st_usa_4_1"
+
+uwowi[4]
+   "st_uwowi_4_1"
+
+yx[4]
+   "st_yx_4_1"
+
+ngh[4]
+{
+   0                 'r_ieej'  "st_ngh_4_1"  "st_ngh_4_2" 
+}
+
+ixa[4]
+   "st_ixa_4_1"
+
+uwja[4]
+   "st_uwja_4_1"
+
+ph[4]
+{
+   0                  'r_aaf'  "st_ph_4_1"  "st_ph_4_2" 
+}
+
+isa[4]
+   "st_isa_4_1"
+
+q[4]
+{
+   0                    'r_u'      -1     "st_q_4_3" 
+  -1                  'r_uas'  "st_q_4_1"  "st_q_4_2" 
+}
+
+uar[4]
+   "st_uar_4_1"
+
+uas[4]
+   "st_uas_4_1"
+
+yeef[4]
+   "st_yeef_4_1"
+
+ox[4]
+   "st_ox_4_1"
+
+s[4]
+{
+   0                  'r_oos'      -1     "st_s_4_6" 
+  -1                   'r_as'      -2     "st_s_4_5" 
+  -2                    'r_a'      -3     "st_s_4_4" 
+  -3                  'r_uwj'      -4     "st_s_4_3" 
+  -4                   'r_ow'  "st_s_4_1"  "st_s_4_2" 
+}
+
+th[4]
+{
+   0                   'r_if'      -1     "st_th_4_7" 
+  -1                    'r_a'      -2     "st_th_4_6" 
+  -2                    'r_u'      -3     "st_th_4_5" 
+  -3                  'r_eer'      -4     "st_th_4_4" 
+  -4                   'r_as'      -5     "st_th_4_3" 
+  -5                   'r_oo'  "st_th_4_1"  "st_th_4_2" 
+}
+
+uwowr[4]
+   "st_uwowr_4_1"
+
+tr[4]
+{
+   0                   'r_oj'      -1     "st_tr_4_4" 
+  -1                    'r_o'      -2     "st_tr_4_3" 
+  -2                    'r_u'  "st_tr_4_1"  "st_tr_4_2" 
+}
+
+aax[4]
+   "st_aax_4_1"
+
+uwju[4]
+   "st_uwju_4_1"
+
+yr[4]
+   "st_yr_4_1"
+
+v[4]
+{
+   0                   'r_af'  "st_v_4_1"  "st_v_4_2" 
+}
+
+x[4]
+{
+   0                    'r_o'      -1     "st_x_4_3" 
+  -1                    'r_u'  "st_x_4_1"  "st_x_4_2" 
+}
+
+oay[4]
+   "st_oay_4_1"
+
+oe[4]
+   "st_oe_4_1"
+
+sil[4]
+   "st_sil_4_1"
+
